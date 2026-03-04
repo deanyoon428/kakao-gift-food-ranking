@@ -1,4 +1,4 @@
-name: Crawl Kakao + Naver Food Radar
+name: Crawl Kakao Gift Food Ranking
 
 on:
   schedule:
@@ -25,8 +25,7 @@ jobs:
           pip install -r crawler/requirements.txt
           python -m playwright install --with-deps chromium
 
-      # 1) Kakao (existing)
-      - name: Backup previous Kakao snapshot
+      - name: Backup previous snapshot
         run: |
           mkdir -p /tmp/kakao_rank
           if [ -f docs/data/food_ranking.json ]; then
@@ -35,34 +34,53 @@ jobs:
             echo '{"items":[]}' > /tmp/kakao_rank/prev.json
           fi
 
-      - name: Crawl Kakao food ranking
+      - name: Run crawler
         run: |
           python crawler/crawl_food.py
 
-      - name: Notify Telegram if Kakao ranking changed (diff summary)
+      # 1) 변동 상세 리포트(변동 있을 때만)
+      - name: Notify Telegram (diff summary if changed)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python crawler/notify_telegram.py /tmp/kakao_rank/prev.json docs/data/food_ranking.json
 
-      # 2) Naver Food Click Best (new)
-      - name: Crawl Naver food click best
-        run: |
-          python crawler/crawl_naver_food_click_best.py
-
-      # 3) Keyword radar (new)
-      - name: Keyword radar (spike alert)
+      # 2) 하트비트(매시간 무조건 1번)
+      - name: Heartbeat Telegram (always)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python crawler/keyword_radar.py
+          python - <<'PY'
+          import os, json, urllib.parse, urllib.request
+          path="docs/data/food_ranking.json"
+          fetched="-"
+          n=0
+          try:
+            with open(path,"r",encoding="utf-8") as f:
+              d=json.load(f)
+            fetched=d.get("fetched_at","-")
+            n=len(d.get("items") or [])
+          except Exception:
+            pass
+
+          repo=os.environ.get("GITHUB_REPOSITORY","")
+          run_id=os.environ.get("GITHUB_RUN_ID","")
+          msg=f"⏱️ 카카오 식품 랭킹 체크 완료\\n- items: {n}\\n- fetched_at: {fetched}"
+          if repo and run_id:
+            msg += f"\\n🔗 Run: https://github.com/{repo}/actions/runs/{run_id}"
+
+          token=os.environ["TELEGRAM_BOT_TOKEN"]
+          chat=os.environ["TELEGRAM_CHAT_ID"]
+          url=f"https://api.telegram.org/bot{token}/sendMessage"
+          data=urllib.parse.urlencode({"chat_id":chat,"text":msg,"disable_web_page_preview":"true"}).encode()
+          urllib.request.urlopen(urllib.request.Request(url,data=data,method="POST"),timeout=20).read()
+          PY
 
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/food_ranking.json docs/data/food_history.ndjson docs/data/debug || true
-          git add docs/data/naver_food_click_best.json docs/data/keyword_latest.json docs/data/keyword_timeseries.ndjson || true
-          git diff --cached --quiet || (git commit -m "Update food radar" && git push)
+          git diff --cached --quiet || (git commit -m "Update food ranking" && git push)
