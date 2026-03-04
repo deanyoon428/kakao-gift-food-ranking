@@ -25,7 +25,6 @@ jobs:
           pip install -r crawler/requirements.txt
           python -m playwright install --with-deps chromium
 
-      # ✅ 이전 스냅샷 백업(랭킹 변화 비교용)
       - name: Backup previous snapshot
         run: |
           mkdir -p /tmp/kakao_rank
@@ -35,45 +34,41 @@ jobs:
             echo '{"items":[]}' > /tmp/kakao_rank/prev.json
           fi
 
-      # ✅ 크롤링
       - name: Run crawler
         run: |
           python crawler/crawl_food.py
 
-      # ✅ Top100 카테고리 분포 계산 (category_snapshot.json 생성/갱신)
       - name: Category radar (Top100 distribution)
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python crawler/category_radar.py
 
-      # ✅ (1) 랭킹 변화 상세 리포트: 변동 있을 때만 전송
-      - name: Notify Telegram (ranking diff summary if changed)
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      # ✅ 변동 요약을 텍스트로 받아서 OUTPUT으로 저장
+      - name: Build ranking diff text
+        id: difftxt
         run: |
-          python crawler/notify_telegram.py /tmp/kakao_rank/prev.json docs/data/food_ranking.json
+          echo "text<<EOF" >> $GITHUB_OUTPUT
+          python crawler/notify_telegram.py /tmp/kakao_rank/prev.json docs/data/food_ranking.json >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
-      # ✅ (2) 통합 리포트: 매시간 무조건 1번 전송 (카테고리 + 상태)
-      - name: Send Telegram (hourly combined report)
+      # ✅ 매시간 딱 1번만 텔레그램 전송 (카테고리 + 변동요약 합침)
+      - name: Send Telegram (single combined report)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DIFF_TEXT: ${{ steps.difftxt.outputs.text }}
         run: |
           python - <<'PY'
           import os, json, urllib.parse, urllib.request
 
           food_path="docs/data/food_ranking.json"
           cat_path="docs/data/category_snapshot.json"
+          diff_text=os.environ.get("DIFF_TEXT","").strip()
 
           fetched="-"
           n=0
           cat_top=[]
           cat_delta=[]
 
-          # food_ranking
           try:
             with open(food_path,"r",encoding="utf-8") as f:
               d=json.load(f)
@@ -82,13 +77,11 @@ jobs:
           except Exception:
             pass
 
-          # category snapshot
           try:
             with open(cat_path,"r",encoding="utf-8") as f:
               c=json.load(f)
             cc=c.get("category_counts") or {}
             dd=c.get("category_deltas_vs_prev") or {}
-
             cat_top=sorted(cc.items(), key=lambda x: x[1], reverse=True)[:7]
             cat_delta=sorted([(k,v) for k,v in dd.items() if v!=0], key=lambda x: abs(x[1]), reverse=True)[:7]
           except Exception:
@@ -109,11 +102,13 @@ jobs:
           if cat_delta:
             msg += "\\n📈 카테고리 변화(직전 대비)\\n"
             for k,v in cat_delta:
-              sign = f\"{v:+d}\"
-              msg += f\"- {k}: {sign}\\n\"
+              msg += f"- {k}: {v:+d}\\n"
+
+          msg += "\\n📌 순위 변화 요약\\n"
+          msg += (diff_text if diff_text else "변동 없음")
 
           if repo and run_id:
-            msg += f"\\n🔗 https://github.com/{repo}/actions/runs/{run_id}"
+            msg += f"\\n\\n🔗 https://github.com/{repo}/actions/runs/{run_id}"
 
           token=os.environ["TELEGRAM_BOT_TOKEN"]
           chat=os.environ["TELEGRAM_CHAT_ID"]
@@ -127,7 +122,6 @@ jobs:
           urllib.request.urlopen(urllib.request.Request(url,data=data,method="POST"),timeout=20).read()
           PY
 
-      # ✅ 변경 커밋/푸시
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
