@@ -2,7 +2,7 @@ name: Crawl Kakao Gift Food Ranking
 
 on:
   schedule:
-    - cron: "0 * * * *"   # 매시간 실행 (UTC)
+    - cron: "0 * * * *"   # 매시간 정각 (UTC). KST=UTC+9
   workflow_dispatch:
 
 permissions:
@@ -11,12 +11,11 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -26,8 +25,8 @@ jobs:
           pip install -r crawler/requirements.txt
           python -m playwright install --with-deps chromium
 
-      # 이전 스냅샷 백업
-      - name: Backup previous ranking
+      # ✅ 이전 스냅샷 백업(랭킹 변화 비교용)
+      - name: Backup previous snapshot
         run: |
           mkdir -p /tmp/kakao_rank
           if [ -f docs/data/food_ranking.json ]; then
@@ -36,96 +35,103 @@ jobs:
             echo '{"items":[]}' > /tmp/kakao_rank/prev.json
           fi
 
-      # 카카오 랭킹 크롤링
+      # ✅ 크롤링
       - name: Run crawler
         run: |
           python crawler/crawl_food.py
 
-      # 카테고리 분석
-      - name: Category radar
+      # ✅ Top100 카테고리 분포 계산 (category_snapshot.json 생성/갱신)
+      - name: Category radar (Top100 distribution)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python crawler/category_radar.py
 
-      # 텔레그램 리포트 (항상 전송)
-      - name: Send Telegram report
+      # ✅ (1) 랭킹 변화 상세 리포트: 변동 있을 때만 전송
+      - name: Notify Telegram (ranking diff summary if changed)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python crawler/notify_telegram.py /tmp/kakao_rank/prev.json docs/data/food_ranking.json
+
+      # ✅ (2) 통합 리포트: 매시간 무조건 1번 전송 (카테고리 + 상태)
+      - name: Send Telegram (hourly combined report)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python - <<'PY'
-          import json, os, urllib.parse, urllib.request
+          import os, json, urllib.parse, urllib.request
 
-          food="docs/data/food_ranking.json"
-          cat="docs/data/category_snapshot.json"
+          food_path="docs/data/food_ranking.json"
+          cat_path="docs/data/category_snapshot.json"
 
           fetched="-"
-          items=0
-          cats=[]
-          deltas=[]
+          n=0
+          cat_top=[]
+          cat_delta=[]
 
+          # food_ranking
           try:
-            with open(food,"r",encoding="utf-8") as f:
+            with open(food_path,"r",encoding="utf-8") as f:
               d=json.load(f)
-              fetched=d.get("fetched_at","-")
-              items=len(d.get("items") or [])
-          except:
+            fetched=d.get("fetched_at","-")
+            n=len(d.get("items") or [])
+          except Exception:
             pass
 
+          # category snapshot
           try:
-            with open(cat,"r",encoding="utf-8") as f:
+            with open(cat_path,"r",encoding="utf-8") as f:
               c=json.load(f)
-              cc=c.get("category_counts") or {}
-              dd=c.get("category_deltas_vs_prev") or {}
+            cc=c.get("category_counts") or {}
+            dd=c.get("category_deltas_vs_prev") or {}
 
-              cats=sorted(cc.items(), key=lambda x: x[1], reverse=True)[:5]
-
-              for k,v in dd.items():
-                if v!=0:
-                  deltas.append((k,v))
-          except:
+            cat_top=sorted(cc.items(), key=lambda x: x[1], reverse=True)[:7]
+            cat_delta=sorted([(k,v) for k,v in dd.items() if v!=0], key=lambda x: abs(x[1]), reverse=True)[:7]
+          except Exception:
             pass
-
-          msg="📊 카카오 식품 랭킹 리포트\n"
-          msg+=f"- items: {items}\n"
-          msg+=f"- fetched_at: {fetched}\n\n"
-
-          if cats:
-            msg+="📦 Top 카테고리\n"
-            for k,v in cats:
-              msg+=f"- {k}: {v}\n"
-
-          if deltas:
-            msg+="\n📈 카테고리 변화\n"
-            for k,v in sorted(deltas,key=lambda x:abs(x[1]),reverse=True)[:5]:
-              sign="+" if v>0 else ""
-              msg+=f"- {k}: {sign}{v}\n"
 
           repo=os.environ.get("GITHUB_REPOSITORY","")
-          run=os.environ.get("GITHUB_RUN_ID","")
-          if repo and run:
-            msg+=f"\n🔗 https://github.com/{repo}/actions/runs/{run}"
+          run_id=os.environ.get("GITHUB_RUN_ID","")
+
+          msg = "⏱️ 카카오 식품 랭킹 · 시간별 리포트\\n"
+          msg += f"- items: {n}\\n"
+          msg += f"- fetched_at: {fetched}\\n"
+
+          if cat_top:
+            msg += "\\n📦 Top100 카테고리 분포\\n"
+            for k,v in cat_top:
+              msg += f"- {k}: {v}\\n"
+
+          if cat_delta:
+            msg += "\\n📈 카테고리 변화(직전 대비)\\n"
+            for k,v in cat_delta:
+              sign = f\"{v:+d}\"
+              msg += f\"- {k}: {sign}\\n\"
+
+          if repo and run_id:
+            msg += f"\\n🔗 https://github.com/{repo}/actions/runs/{run_id}"
 
           token=os.environ["TELEGRAM_BOT_TOKEN"]
           chat=os.environ["TELEGRAM_CHAT_ID"]
-
           url=f"https://api.telegram.org/bot{token}/sendMessage"
           data=urllib.parse.urlencode({
             "chat_id":chat,
-            "text":msg
+            "text":msg,
+            "disable_web_page_preview":"true"
           }).encode()
 
-          urllib.request.urlopen(urllib.request.Request(url,data=data,method="POST"),timeout=20)
+          urllib.request.urlopen(urllib.request.Request(url,data=data,method="POST"),timeout=20).read()
           PY
 
-      # 변경 커밋
-      - name: Commit changes
+      # ✅ 변경 커밋/푸시
+      - name: Commit & push if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          git add docs/data/*.json docs/data/*.ndjson || true
-
-          git diff --cached --quiet || (
-            git commit -m "update ranking data"
-            git push
-          )
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/food_ranking.json docs/data/food_history.ndjson docs/data/debug || true
+          git add docs/data/category_snapshot.json docs/data/category_timeseries.ndjson || true
+          git diff --cached --quiet || (git commit -m "Update food ranking" && git push)
