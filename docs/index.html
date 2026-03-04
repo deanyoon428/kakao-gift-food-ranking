@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kakao Gift 식품 랭킹</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="header">
+      <h1>Kakao Gift · 식품 랭킹</h1>
+      <div class="sub">
+        <span id="meta">loading…</span>
+        <a class="src" href="https://gift.kakao.com/ranking/category/4" target="_blank" rel="noreferrer">source</a>
+      </div>
+      <div class="controls">
+        <input id="q" placeholder="검색 (상품명)" autocomplete="off" />
+        <button id="reload">새로고침</button>
+      </div>
+    </header>
+
+    <section class="card">
+      <ol id="list"></ol>
+    </section>
+
+    <footer class="footer">
+      <span>Data file: <code>docs/data/food_ranking.json</code></span>
+    </footer>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

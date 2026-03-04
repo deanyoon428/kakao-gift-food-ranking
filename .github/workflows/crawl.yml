@@ -1,0 +1,37 @@
+name: Crawl Kakao Gift Food Ranking
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # 매시간 정각 (UTC). KST=UTC+9
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r crawler/requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run crawler
+        run: |
+          python crawler/crawl_food.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/food_ranking.json docs/data/food_history.ndjson docs/data/debug || true
+          git diff --cached --quiet || (git commit -m "Update food ranking" && git push)
