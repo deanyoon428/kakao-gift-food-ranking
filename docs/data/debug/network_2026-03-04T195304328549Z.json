@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://gift.kakao.com/a/v2/main?uncache=1772653981634",
+    "sample_keys": [
+      "nowTimestamp"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/gift-home/v1/lnbs?uncache=1772653981634",
+    "sample_keys": [
+      "basicLnbMenus",
+      "luxLnbMenus"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/header?uncache=1772653982238",
+    "sample_keys": []
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/required-data?uncache=1772653982269",
+    "sample_keys": [
+      "categoryTabs",
+      "giftThemeTabs",
+      "trendingTabs"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/category-tab/search?uncache=1772653982773",
+    "sample_keys": [
+      "updatedAt",
+      "last",
+      "feedbackData",
+      "products"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/best/ads/delivery/4?uncache=1772653982775",
+    "sample_keys": [
+      "ads"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/gift/lottie-animations/tabbar/img_gift_bottomtab_lux_idle_241017.json",
+    "sample_keys": [
+      "v",
+      "fr",
+      "ip",
+      "op",
+      "w",
+      "h",
+      "nm",
+      "ddd",
+      "assets",
+      "layers",
+      "markers"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20250512_ARHKY.json?uncache=1772653982963",
+    "sample_keys": [
+      "nm",
+      "ddd",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20250512_ARHKY.json?uncache=1772653982963",
+    "sample_keys": [
+      "nm",
+      "ddd",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  }
+]
