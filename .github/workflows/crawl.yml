@@ -25,9 +25,27 @@ jobs:
           pip install -r crawler/requirements.txt
           python -m playwright install --with-deps chromium
 
+      # ✅ 이전 스냅샷 백업 (비교용)
+      - name: Backup previous snapshot
+        run: |
+          mkdir -p /tmp/kakao_rank
+          if [ -f docs/data/food_ranking.json ]; then
+            cp docs/data/food_ranking.json /tmp/kakao_rank/prev.json
+          else
+            echo '{"items":[]}' > /tmp/kakao_rank/prev.json
+          fi
+
       - name: Run crawler
         run: |
           python crawler/crawl_food.py
+
+      # ✅ 업그레이드: 변동 요약 텔레그램 알림 (변동 있을 때만)
+      - name: Notify Telegram if changed (with diff summary)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python crawler/notify_telegram.py /tmp/kakao_rank/prev.json docs/data/food_ranking.json
 
       - name: Commit & push if changed
         run: |
