@@ -3,29 +3,85 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Kakao Gift 식품 랭킹</title>
+  <title>Kakao Food Trend Dashboard</title>
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <main class="wrap">
     <header class="header">
-      <h1>Kakao Gift · 식품 랭킹</h1>
+      <h1>Kakao Gift · Food Trend Dashboard</h1>
+
       <div class="sub">
         <span id="meta">loading…</span>
+        <span class="dot">•</span>
         <a class="src" href="https://gift.kakao.com/ranking/category/4" target="_blank" rel="noreferrer">source</a>
       </div>
+
       <div class="controls">
         <input id="q" placeholder="검색 (상품명)" autocomplete="off" />
         <button id="reload">새로고침</button>
       </div>
     </header>
 
-    <section class="card">
-      <ol id="list"></ol>
+    <section class="grid">
+      <!-- Left: category -->
+      <section class="card">
+        <div class="cardhead">
+          <h2>📦 Top100 카테고리 분포</h2>
+          <div class="muted" id="cat_meta">-</div>
+        </div>
+
+        <div class="twoCol">
+          <div>
+            <div class="sectionTitle">분포</div>
+            <ul id="cat_list" class="plainList"></ul>
+          </div>
+
+          <div>
+            <div class="sectionTitle">직전 대비 Δ</div>
+            <ul id="cat_delta" class="plainList"></ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right: ranking -->
+      <section class="card tall">
+        <div class="cardhead">
+          <h2>📈 Kakao Top100 랭킹</h2>
+          <div class="muted" id="kakao_meta">-</div>
+        </div>
+        <ol id="kakao_list" class="rankList"></ol>
+      </section>
+
+      <!-- Left bottom: movers -->
+      <section class="card">
+        <div class="cardhead">
+          <h2>↕️ 큰 순위 변동 (Top100)</h2>
+          <div class="muted" id="mv_meta">-</div>
+        </div>
+        <div class="twoCol">
+          <div>
+            <div class="sectionTitle">상승</div>
+            <ul id="mv_up" class="plainList"></ul>
+          </div>
+          <div>
+            <div class="sectionTitle">하락</div>
+            <ul id="mv_down" class="plainList"></ul>
+          </div>
+        </div>
+        <div class="muted note">
+          * “큰 변동”은 현재 랭킹과 직전 실행 랭킹을 비교해야 정확합니다. 지금 화면은 최신 스냅샷만으로 “현재 Top100 내에서의 정보”를 우선 제공합니다.
+          (원하면 직전 스냅샷도 웹에 저장해서 정확한 Δ랭킹까지 보여줄 수 있어요.)
+        </div>
+      </section>
     </section>
 
     <footer class="footer">
-      <span>Data file: <code>docs/data/food_ranking.json</code></span>
+      <div class="muted">
+        Data files:
+        <code>docs/data/food_ranking.json</code>,
+        <code>docs/data/category_snapshot.json</code>
+      </div>
     </footer>
   </main>
 
