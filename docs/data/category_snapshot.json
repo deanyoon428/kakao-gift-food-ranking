@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-05T15:38:28.408349Z",
+  "fetched_at": "2026-03-05T19:47:31.691654Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 8,
@@ -75,9 +75,8 @@
   },
   "category_deltas_vs_prev": {
     "디저트/케이크": 0,
-    "커피/음료": -1,
     "한우/소고기": 0,
-    "간편식/밀키트": 1,
-    "과일": 0
+    "과일": 0,
+    "간편식/밀키트": 0
   }
 }
