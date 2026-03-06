@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-06T11:44:48.946973Z",
+  "fetched_at": "2026-03-06T14:07:26.760787Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195753,
+          "wishCount": 195762,
           "isWished": false
         },
         "image": {
@@ -47,6 +47,43 @@
     },
     {
       "rank": 2,
+      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+      "price": "{'basicPrice': 27900, 'sellingPrice': 24900, 'discountRate': 10}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12592601,
+        "productId": 12592601,
+        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 27900,
+          "sellingPrice": 24900,
+          "discountRate": 10
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26753,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+        }
+      }
+    },
+    {
+      "rank": 3,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -83,7 +120,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -107,7 +144,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27626,
+          "wishCount": 27632,
           "isWished": false
         },
         "image": {
@@ -116,43 +153,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)"
-        }
-      }
-    },
-    {
-      "rank": 4,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 27900, 'sellingPrice': 24900, 'discountRate': 10}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12592601,
-        "productId": 12592601,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 27900,
-          "sellingPrice": 24900,
-          "discountRate": 10
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26750,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
         }
       }
     },
@@ -181,7 +181,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87770,
+          "wishCount": 87778,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25442,
+          "wishCount": 25449,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76369,
+          "wishCount": 76384,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44185,
+          "wishCount": 44186,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8847,
+          "wishCount": 8846,
           "isWished": false
         },
         "image": {
@@ -384,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17615,
+          "wishCount": 17623,
           "isWished": false
         },
         "image": {
@@ -427,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74028,
+          "wishCount": 74034,
           "isWished": false
         },
         "image": {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32076,
+          "wishCount": 32077,
           "isWished": false
         },
         "image": {
@@ -507,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38194,
+          "wishCount": 38196,
           "isWished": false
         },
         "image": {
@@ -521,43 +521,6 @@
     },
     {
       "rank": 14,
-      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11698788,
-        "productId": 11698788,
-        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 49003,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
-        }
-      }
-    },
-    {
-      "rank": 15,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
       "product_url": null,
@@ -581,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25224,
+          "wishCount": 25228,
           "isWished": false
         },
         "image": {
@@ -597,6 +560,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 15,
+      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 49007,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
+        }
       }
     },
     {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 91019,
+          "wishCount": 91018,
           "isWished": false
         },
         "image": {
@@ -638,39 +638,45 @@
     },
     {
       "rank": 17,
-      "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
+      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 3722267,
-        "productId": 3722267,
-        "name": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
+        "id": 7610160,
+        "productId": 7610160,
+        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 30000,
-          "discountRate": 9
+          "basicPrice": 158000,
+          "sellingPrice": 158000,
+          "discountRate": 0
         },
         "brand": {
-          "id": 9839,
-          "name": "온브릭스"
+          "id": 7168,
+          "name": "농협안심한우"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22300,
+          "wishCount": 25601,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
-        }
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -718,19 +724,19 @@
     },
     {
       "rank": 19,
-      "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
+      "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 2407379,
-        "productId": 2407379,
-        "name": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
+        "id": 3722267,
+        "productId": 3722267,
+        "name": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
-          "discountRate": 0
+          "basicPrice": 33000,
+          "sellingPrice": 30000,
+          "discountRate": 9
         },
         "brand": {
           "id": 9839,
@@ -741,52 +747,52 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29432,
+          "wishCount": 22287,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상"
+          "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
         }
       }
     },
     {
       "rank": 20,
-      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
-      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
+      "title": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
+      "price": "{'basicPrice': 31900, 'sellingPrice': 31900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144053_c9b58980d3494fecb9b2cea1226a019a.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 7610160,
-        "productId": 7610160,
-        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+        "id": 2371889,
+        "productId": 2371889,
+        "name": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 158000,
-          "sellingPrice": 158000,
+          "basicPrice": 31900,
+          "sellingPrice": 31900,
           "discountRate": 0
         },
         "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
+          "id": 14047,
+          "name": "오설록 디저트"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25601,
+          "wishCount": 68076,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144053_c9b58980d3494fecb9b2cea1226a019a.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
+          "EVENT_SUG_NAME_MODEL": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크"
         },
         "labels": [
           {
