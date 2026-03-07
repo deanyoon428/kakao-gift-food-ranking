@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-07T09:00:28.721756Z",
+  "fetched_at": "2026-03-07T09:54:36.426194Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 9,
@@ -17,7 +17,7 @@
         "product_url": null
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "농협안심한우 1등급 '스페셜 구이 ' 900g (등심+채끝+안심, 각 300g)",
         "product_url": null
       },
@@ -29,7 +29,7 @@
     ],
     "과일": [
       {
-        "rank": 3,
+        "rank": 2,
         "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
         "product_url": null
       },
@@ -39,7 +39,7 @@
         "product_url": null
       },
       {
-        "rank": 10,
+        "rank": 11,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
@@ -77,10 +77,10 @@
     ]
   },
   "category_deltas_vs_prev": {
-    "간편식/밀키트": 0,
     "과일": 0,
+    "커피/음료": 0,
     "한우/소고기": 0,
-    "디저트/케이크": 0,
-    "커피/음료": 0
+    "간편식/밀키트": 0,
+    "디저트/케이크": 0
   }
 }
