@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-07T07:52:11.398865Z",
+  "fetched_at": "2026-03-07T09:00:28.721756Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195762,
+          "wishCount": 195768,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27649,
+          "wishCount": 27652,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41423,
+          "wishCount": 41425,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26748,
+          "wishCount": 26751,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76425,
+          "wishCount": 76437,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25468,
+          "wishCount": 25471,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44197,
+          "wishCount": 44203,
           "isWished": false
         },
         "image": {
@@ -324,38 +324,38 @@
     },
     {
       "rank": 9,
-      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12793656,
-        "productId": 12793656,
-        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
-          "discountRate": 9
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 18350,
+          "name": "고디바베이커리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17701,
+          "wishCount": 74067,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물"
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
         },
         "labels": [
           {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8857,
+          "wishCount": 8856,
           "isWished": false
         },
         "image": {
@@ -404,38 +404,38 @@
     },
     {
       "rank": 11,
-      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "id": 12793656,
+        "productId": 12793656,
+        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
+          "basicPrice": 22000,
+          "sellingPrice": 19900,
+          "discountRate": 9
         },
         "brand": {
-          "id": 18350,
-          "name": "고디바베이커리"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74065,
+          "wishCount": 17706,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물"
         },
         "labels": [
           {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32085,
+          "wishCount": 32086,
           "isWished": false
         },
         "image": {
@@ -507,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25244,
+          "wishCount": 25243,
           "isWished": false
         },
         "image": {
@@ -550,7 +550,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38209,
+          "wishCount": 38211,
           "isWished": false
         },
         "image": {
@@ -564,43 +564,6 @@
     },
     {
       "rank": 15,
-      "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 3722267,
-        "productId": 3722267,
-        "name": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 30000,
-          "discountRate": 9
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 22214,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
-        }
-      }
-    },
-    {
-      "rank": 16,
       "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -624,7 +587,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48998,
+          "wishCount": 48995,
           "isWished": false
         },
         "image": {
@@ -637,7 +600,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
       "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
       "product_url": null,
@@ -661,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 91001,
+          "wishCount": 91000,
           "isWished": false
         },
         "image": {
@@ -670,6 +633,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 3722267,
+        "productId": 3722267,
+        "name": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 33000,
+          "sellingPrice": 30000,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 9839,
+          "name": "온브릭스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 22203,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
         }
       }
     },
@@ -698,7 +698,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25603,
+          "wishCount": 25602,
           "isWished": false
         },
         "image": {
@@ -741,7 +741,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13915,
+          "wishCount": 13914,
           "isWished": false
         },
         "image": {
@@ -784,7 +784,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 68082,
+          "wishCount": 68085,
           "isWished": false
         },
         "image": {
