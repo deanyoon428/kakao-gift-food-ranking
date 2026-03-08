@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-08T10:55:00.786915Z",
+  "fetched_at": "2026-03-08T11:42:33.678168Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195779,
+          "wishCount": 195782,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87869,
+          "wishCount": 87873,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41473,
+          "wishCount": 41475,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26779,
+          "wishCount": 26780,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27684,
+          "wishCount": 27687,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76530,
+          "wishCount": 76541,
           "isWished": false
         },
         "image": {
@@ -238,49 +238,6 @@
     },
     {
       "rank": 7,
-      "title": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260303174957_d7a097601d5c4fc0a2fbf30760b0d55f.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 31000,
-          "sellingPrice": 31000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25500,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260303174957_d7a097601d5c4fc0a2fbf30760b0d55f.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 8,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -304,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44218,
+          "wishCount": 44221,
           "isWished": false
         },
         "image": {
@@ -313,6 +270,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260303174957_d7a097601d5c4fc0a2fbf30760b0d55f.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 31000,
+          "sellingPrice": 31000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25501,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260303174957_d7a097601d5c4fc0a2fbf30760b0d55f.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
         },
         "labels": [
           {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17794,
+          "wishCount": 17796,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8885,
+          "wishCount": 8886,
           "isWished": false
         },
         "image": {
@@ -427,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74114,
+          "wishCount": 74116,
           "isWished": false
         },
         "image": {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32092,
+          "wishCount": 32095,
           "isWished": false
         },
         "image": {
@@ -507,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38236,
+          "wishCount": 38234,
           "isWished": false
         },
         "image": {
@@ -544,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25256,
+          "wishCount": 25257,
           "isWished": false
         },
         "image": {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15170,
+          "wishCount": 15181,
           "isWished": false
         },
         "image": {
@@ -667,7 +667,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13937,
+          "wishCount": 13939,
           "isWished": false
         },
         "image": {
@@ -724,6 +724,43 @@
     },
     {
       "rank": 19,
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10159,
+          "name": "파스키에"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 84333,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
+        }
+      }
+    },
+    {
+      "rank": 20,
       "title": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
       "price": "{'basicPrice': 31900, 'sellingPrice': 31900, 'discountRate': 0}",
       "product_url": null,
@@ -747,7 +784,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 68140,
+          "wishCount": 68145,
           "isWished": false
         },
         "image": {
@@ -763,43 +800,6 @@
             "name": "단독"
           }
         ]
-      }
-    },
-    {
-      "rank": 20,
-      "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2407379,
-        "productId": 2407379,
-        "name": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 29277,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상"
-        }
       }
     }
   ]
