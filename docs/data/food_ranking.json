@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-08T07:44:58.670273Z",
+  "fetched_at": "2026-03-08T09:00:50.638555Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195776,
+          "wishCount": 195778,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41470,
+          "wishCount": 41473,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87854,
+          "wishCount": 87859,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27674,
+          "wishCount": 27677,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26772,
+          "wishCount": 26781,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76510,
+          "wishCount": 76519,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44213,
+          "wishCount": 44214,
           "isWished": false
         },
         "image": {
@@ -324,38 +324,38 @@
     },
     {
       "rank": 9,
-      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "id": 12793656,
+        "productId": 12793656,
+        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
+          "basicPrice": 22000,
+          "sellingPrice": 19900,
+          "discountRate": 9
         },
         "brand": {
-          "id": 18350,
-          "name": "고디바베이커리"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74101,
+          "wishCount": 17789,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물"
         },
         "labels": [
           {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8884,
+          "wishCount": 8885,
           "isWished": false
         },
         "image": {
@@ -404,38 +404,38 @@
     },
     {
       "rank": 11,
-      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12793656,
-        "productId": 12793656,
-        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
-          "discountRate": 9
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 18350,
+          "name": "고디바베이커리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17782,
+          "wishCount": 74103,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물"
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
         },
         "labels": [
           {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32099,
+          "wishCount": 32096,
           "isWished": false
         },
         "image": {
@@ -484,49 +484,6 @@
     },
     {
       "rank": 13,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25258,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 14,
       "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -550,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38229,
+          "wishCount": 38230,
           "isWished": false
         },
         "image": {
@@ -560,6 +517,49 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         }
+      }
+    },
+    {
+      "rank": 14,
+      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12590327,
+        "productId": 12590327,
+        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 57800,
+          "sellingPrice": 57800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25257,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -587,7 +587,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15137,
+          "wishCount": 15151,
           "isWished": false
         },
         "image": {
@@ -667,7 +667,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13933,
+          "wishCount": 13935,
           "isWished": false
         },
         "image": {
@@ -710,7 +710,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 68134,
+          "wishCount": 68137,
           "isWished": false
         },
         "image": {
@@ -753,7 +753,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90968,
+          "wishCount": 90975,
           "isWished": false
         },
         "image": {
@@ -767,38 +767,38 @@
     },
     {
       "rank": 20,
-      "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 3722267,
-        "productId": 3722267,
-        "name": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 30000,
-          "discountRate": 9
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 9839,
-          "name": "온브릭스"
+          "id": 10159,
+          "name": "파스키에"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22062,
+          "wishCount": 84324,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260101210523_668e6766ef5846a4b401821fdf4abb05.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
         }
       }
     }
