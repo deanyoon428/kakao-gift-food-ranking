@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-08T05:03:04.492322Z",
+  "fetched_at": "2026-03-08T07:44:58.670273Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195778,
+          "wishCount": 195776,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41468,
+          "wishCount": 41470,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87844,
+          "wishCount": 87854,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26761,
+          "wishCount": 26772,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76502,
+          "wishCount": 76510,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25489,
+          "wishCount": 25497,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74093,
+          "wishCount": 74101,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8881,
+          "wishCount": 8884,
           "isWished": false
         },
         "image": {
@@ -427,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17764,
+          "wishCount": 17782,
           "isWished": false
         },
         "image": {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32095,
+          "wishCount": 32099,
           "isWished": false
         },
         "image": {
@@ -507,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25262,
+          "wishCount": 25258,
           "isWished": false
         },
         "image": {
@@ -550,7 +550,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38224,
+          "wishCount": 38229,
           "isWished": false
         },
         "image": {
@@ -564,6 +564,49 @@
     },
     {
       "rank": 15,
+      "title": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
+      "price": "{'basicPrice': 18400, 'sellingPrice': 13800, 'discountRate': 25}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260226093731_3059ad93f32a4b92826cfe4e2dbf2276.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 1271639,
+        "productId": 1271639,
+        "name": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 18400,
+          "sellingPrice": 13800,
+          "discountRate": 25
+        },
+        "brand": {
+          "id": 13861,
+          "name": "마즈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 15137,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260226093731_3059ad93f32a4b92826cfe4e2dbf2276.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
       "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -587,7 +630,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48998,
+          "wishCount": 49001,
           "isWished": false
         },
         "image": {
@@ -600,7 +643,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "\"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)",
       "price": "{'basicPrice': 33000, 'sellingPrice': 31000, 'discountRate': 6}",
       "product_url": null,
@@ -624,7 +667,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13930,
+          "wishCount": 13933,
           "isWished": false
         },
         "image": {
@@ -643,7 +686,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
       "price": "{'basicPrice': 31900, 'sellingPrice': 31900, 'discountRate': 0}",
       "product_url": null,
@@ -667,7 +710,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 68113,
+          "wishCount": 68134,
           "isWished": false
         },
         "image": {
@@ -686,7 +729,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
       "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
       "product_url": null,
@@ -710,7 +753,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90976,
+          "wishCount": 90968,
           "isWished": false
         },
         "image": {
@@ -723,7 +766,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)",
       "price": "{'basicPrice': 33000, 'sellingPrice': 30000, 'discountRate': 9}",
       "product_url": null,
@@ -747,7 +790,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22083,
+          "wishCount": 22062,
           "isWished": false
         },
         "image": {
@@ -756,43 +799,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "국내 최고급 품종, 프리미엄 산청 금실 딸기 750g이상(24-30과/특품)"
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2407379,
-        "productId": 2407379,
-        "name": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 29311,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상"
         }
       }
     }
