@@ -1,52 +1,9 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-10T14:37:45.679426Z",
+  "fetched_at": "2026-03-10T17:36:13.255881Z",
   "items": [
     {
       "rank": 1,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2370524,
-        "productId": 2370524,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8120,
-          "name": "하겐다즈(케이크)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 87993,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 2,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -70,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195826,
+          "wishCount": 195819,
           "isWished": false
         },
         "image": {
@@ -79,6 +36,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 2370524,
+        "productId": 2370524,
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8120,
+          "name": "하겐다즈(케이크)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 88000,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
         },
         "labels": [
           {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41522,
+          "wishCount": 41524,
           "isWished": false
         },
         "image": {
@@ -127,43 +127,6 @@
     },
     {
       "rank": 4,
-      "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
-      "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 9971687,
-        "productId": 9971687,
-        "name": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 109800,
-          "sellingPrice": 109800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 27745,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)"
-        }
-      }
-    },
-    {
-      "rank": 5,
       "title": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -187,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76795,
+          "wishCount": 76822,
           "isWished": false
         },
         "image": {
@@ -196,6 +159,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)"
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
+      "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 9971687,
+        "productId": 9971687,
+        "name": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 109800,
+          "sellingPrice": 109800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 27748,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)"
         }
       }
     },
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26841,
+          "wishCount": 26845,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21842,
+          "wishCount": 21994,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25565,
+          "wishCount": 25567,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74143,
+          "wishCount": 74150,
           "isWished": false
         },
         "image": {
@@ -433,7 +433,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15819,
+          "wishCount": 15884,
           "isWished": false
         },
         "image": {
@@ -476,7 +476,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8937,
+          "wishCount": 8938,
           "isWished": false
         },
         "image": {
@@ -513,7 +513,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13396,
+          "wishCount": 13407,
           "isWished": false
         },
         "image": {
@@ -556,7 +556,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25284,
+          "wishCount": 25285,
           "isWished": false
         },
         "image": {
@@ -599,7 +599,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27315,
+          "wishCount": 27330,
           "isWished": false
         },
         "image": {
@@ -613,43 +613,6 @@
     },
     {
       "rank": 16,
-      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5330373,
-        "productId": 5330373,
-        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13337,
-          "name": "조선호텔델리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 38287,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -673,7 +636,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32079,
+          "wishCount": 32069,
           "isWished": false
         },
         "image": {
@@ -682,6 +645,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg (로얄과/5~6입)"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13337,
+          "name": "조선호텔델리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 38289,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         }
       }
     },
@@ -710,7 +710,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14568,
+          "wishCount": 14969,
           "isWished": false
         },
         "image": {
@@ -724,38 +724,38 @@
     },
     {
       "rank": 19,
-      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 10823550,
-        "productId": 10823550,
-        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
           "discountRate": 0
         },
         "brand": {
-          "id": 13861,
-          "name": "마즈"
+          "id": 10159,
+          "name": "파스키에"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6474,
+          "wishCount": 84443,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
         }
       }
     },
@@ -784,7 +784,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24634,
+          "wishCount": 24638,
           "isWished": false
         },
         "image": {
