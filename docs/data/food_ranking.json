@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-10T10:08:41.774635Z",
+  "fetched_at": "2026-03-10T12:00:38.218824Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87978,
+          "wishCount": 87986,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195815,
+          "wishCount": 195819,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41511,
+          "wishCount": 41513,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27731,
+          "wishCount": 27738,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76750,
+          "wishCount": 76765,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26833,
+          "wishCount": 26834,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21609,
+          "wishCount": 21686,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25553,
+          "wishCount": 25563,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44250,
+          "wishCount": 44248,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74138,
+          "wishCount": 74141,
           "isWished": false
         },
         "image": {
@@ -433,7 +433,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8930,
+          "wishCount": 8931,
           "isWished": false
         },
         "image": {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15736,
+          "wishCount": 15766,
           "isWished": false
         },
         "image": {
@@ -513,7 +513,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13363,
+          "wishCount": 13376,
           "isWished": false
         },
         "image": {
@@ -556,7 +556,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25275,
+          "wishCount": 25280,
           "isWished": false
         },
         "image": {
@@ -599,7 +599,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38279,
+          "wishCount": 38283,
           "isWished": false
         },
         "image": {
@@ -636,7 +636,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32076,
+          "wishCount": 32075,
           "isWished": false
         },
         "image": {
@@ -673,7 +673,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27283,
+          "wishCount": 27294,
           "isWished": false
         },
         "image": {
@@ -687,86 +687,6 @@
     },
     {
       "rank": 18,
-      "title": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 31000, 'discountRate': 6}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260309085522_9526f9ddd3be4206ba0f0c08711fccc4.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6999595,
-        "productId": 6999595,
-        "name": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 31000,
-          "discountRate": 6
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 13952,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260309085522_9526f9ddd3be4206ba0f0c08711fccc4.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 19,
-      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10823550,
-        "productId": 10823550,
-        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13861,
-          "name": "마즈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 6437,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
-        }
-      }
-    },
-    {
-      "rank": 20,
       "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
       "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
       "product_url": null,
@@ -799,6 +719,80 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10823550,
+        "productId": 10823550,
+        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 16000,
+          "sellingPrice": 16000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13861,
+          "name": "마즈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 6449,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 48972,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
         }
       }
     }
