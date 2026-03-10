@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-10T22:59:02.221730Z",
+  "fetched_at": "2026-03-10T23:54:54.153938Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195819,
+          "wishCount": 195817,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88007,
+          "wishCount": 88008,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41530,
+          "wishCount": 41538,
           "isWished": false
         },
         "image": {
@@ -127,43 +127,6 @@
     },
     {
       "rank": 4,
-      "title": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
-      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260211104326_6730f470a8f244539e0ee4d120633bb4.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12609227,
-        "productId": 12609227,
-        "name": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29000,
-          "sellingPrice": 29000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 18389,
-          "name": "하트티라미수"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 76830,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260211104326_6730f470a8f244539e0ee4d120633bb4.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)"
-        }
-      }
-    },
-    {
-      "rank": 5,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -200,6 +163,43 @@
       }
     },
     {
+      "rank": 5,
+      "title": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
+      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260211104326_6730f470a8f244539e0ee4d120633bb4.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12609227,
+        "productId": 12609227,
+        "name": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29000,
+          "sellingPrice": 29000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18389,
+          "name": "하트티라미수"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 76837,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260211104326_6730f470a8f244539e0ee4d120633bb4.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)"
+        }
+      }
+    },
+    {
       "rank": 6,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26842,
+          "wishCount": 26843,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22050,
+          "wishCount": 22065,
           "isWished": false
         },
         "image": {
@@ -281,49 +281,6 @@
     },
     {
       "rank": 8,
-      "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
-      "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7609867,
-        "productId": 7609867,
-        "name": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 64900,
-          "sellingPrice": 64900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 44248,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 9,
       "title": "[디저트 스푼+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
       "product_url": null,
@@ -347,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25570,
+          "wishCount": 25572,
           "isWished": false
         },
         "image": {
@@ -356,6 +313,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[디저트 스푼+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
+      "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7609867,
+        "productId": 7609867,
+        "name": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 64900,
+          "sellingPrice": 64900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 44246,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
         },
         "labels": [
           {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74152,
+          "wishCount": 74151,
           "isWished": false
         },
         "image": {
@@ -433,7 +433,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15912,
+          "wishCount": 15926,
           "isWished": false
         },
         "image": {
@@ -513,7 +513,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13419,
+          "wishCount": 13420,
           "isWished": false
         },
         "image": {
@@ -533,45 +533,39 @@
     },
     {
       "rank": 14,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
           "discountRate": 0
         },
         "brand": {
-          "id": 15394,
-          "name": "한우맘"
+          "id": 13337,
+          "name": "조선호텔델리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25283,
+          "wishCount": 38298,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
+        }
       }
     },
     {
@@ -599,7 +593,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27337,
+          "wishCount": 27341,
           "isWished": false
         },
         "image": {
@@ -613,80 +607,129 @@
     },
     {
       "rank": 16,
-      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg (로얄과/5~6입)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306152604_9cd4362fa82949e2ad0d97b0ac84245c.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 2153114,
-        "productId": 2153114,
-        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg (로얄과/5~6입)",
+        "id": 10823550,
+        "productId": 10823550,
+        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
+          "basicPrice": 16000,
+          "sellingPrice": 16000,
           "discountRate": 0
         },
         "brand": {
-          "id": 12255,
-          "name": "원월드"
+          "id": 13861,
+          "name": "마즈"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32068,
+          "wishCount": 6511,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260306152604_9cd4362fa82949e2ad0d97b0ac84245c.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg (로얄과/5~6입)"
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
         }
       }
     },
     {
       "rank": 17,
-      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "title": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 31000, 'discountRate': 6}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260309085522_9526f9ddd3be4206ba0f0c08711fccc4.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5330373,
-        "productId": 5330373,
-        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+        "id": 6999595,
+        "productId": 6999595,
+        "name": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
+          "basicPrice": 33000,
+          "sellingPrice": 31000,
+          "discountRate": 6
         },
         "brand": {
-          "id": 13337,
-          "name": "조선호텔델리"
+          "id": 15039,
+          "name": "스타벅스(푸드)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38295,
+          "wishCount": 13962,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260309085522_9526f9ddd3be4206ba0f0c08711fccc4.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
-        }
+          "EVENT_SUG_NAME_MODEL": "[캔들+커피쿠폰 증정] \"탄탄한 전용 컨테이너\" 스타벅스 촉촉한 마스카포네 티라미수 케이크 (화이트데이 선물)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
       "rank": 18,
+      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12590327,
+        "productId": 12590327,
+        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 57800,
+          "sellingPrice": 57800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25284,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
       "title": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 29500, 'sellingPrice': 29500, 'discountRate': 0}",
       "product_url": null,
@@ -710,7 +753,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15128,
+          "wishCount": 15167,
           "isWished": false
         },
         "image": {
@@ -723,76 +766,39 @@
       }
     },
     {
-      "rank": 19,
-      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
-      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5312065,
-        "productId": 5312065,
-        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 14900,
-          "sellingPrice": 14900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10159,
-          "name": "파스키에"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 84444,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
-        }
-      }
-    },
-    {
       "rank": 20,
-      "title": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
-      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
+      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260309085300_1ff1c66dcf5a4b3ca146b2ae64a2b651.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 7828852,
-        "productId": 7828852,
-        "name": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 19900,
-          "sellingPrice": 19900,
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
           "discountRate": 0
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24644,
+          "wishCount": 48970,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260309085300_1ff1c66dcf5a4b3ca146b2ae64a2b651.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
+          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
         }
       }
     }
