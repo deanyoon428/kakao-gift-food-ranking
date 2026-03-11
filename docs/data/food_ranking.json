@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-11T10:09:52.978277Z",
+  "fetched_at": "2026-03-11T12:00:18.023779Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88040,
+          "wishCount": 88050,
           "isWished": false
         },
         "image": {
@@ -90,43 +90,6 @@
     },
     {
       "rank": 3,
-      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
-      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5312065,
-        "productId": 5312065,
-        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 14900,
-          "sellingPrice": 14900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10159,
-          "name": "파스키에"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 84501,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
-        }
-      }
-    },
-    {
-      "rank": 4,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -150,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41553,
+          "wishCount": 41555,
           "isWished": false
         },
         "image": {
@@ -163,7 +126,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -187,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27764,
+          "wishCount": 27763,
           "isWished": false
         },
         "image": {
@@ -200,7 +163,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -224,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76880,
+          "wishCount": 76893,
           "isWished": false
         },
         "image": {
@@ -237,7 +200,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -261,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26847,
+          "wishCount": 26854,
           "isWished": false
         },
         "image": {
@@ -274,7 +237,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -298,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22355,
+          "wishCount": 22405,
           "isWished": false
         },
         "image": {
@@ -317,44 +280,7 @@
       }
     },
     {
-      "rank": 9,
-      "title": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
-      "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10579907,
-        "productId": 10579907,
-        "name": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 10800,
-          "sellingPrice": 10800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1289,
-          "name": "페레로로쉐"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 21741,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
-        }
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -378,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44249,
+          "wishCount": 44253,
           "isWished": false
         },
         "image": {
@@ -397,7 +323,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 9,
       "title": "[디저트 스푼+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -440,7 +366,44 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10159,
+          "name": "파스키에"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 84508,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
+        }
+      }
+    },
+    {
+      "rank": 11,
       "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -464,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74148,
+          "wishCount": 74151,
           "isWished": false
         },
         "image": {
@@ -483,44 +446,7 @@
       }
     },
     {
-      "rank": 13,
-      "title": "\"6가지 다양한 맛\" 신라명과 프리미엄 디저트 골든쿠키세트(선물용쇼핑백증정)",
-      "price": "{'basicPrice': 13900, 'sellingPrice': 13900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250808111529_ddb4a603a3654e3aa60561f259e8ea39.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 671126,
-        "productId": 671126,
-        "name": "\"6가지 다양한 맛\" 신라명과 프리미엄 디저트 골든쿠키세트(선물용쇼핑백증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 13900,
-          "sellingPrice": 13900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 3541,
-          "name": "신라명과"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 53586,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250808111529_ddb4a603a3654e3aa60561f259e8ea39.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"6가지 다양한 맛\" 신라명과 프리미엄 디저트 골든쿠키세트(선물용쇼핑백증정)"
-        }
-      }
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "title": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
       "price": "{'basicPrice': 18400, 'sellingPrice': 13800, 'discountRate': 25}",
       "product_url": null,
@@ -544,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16062,
+          "wishCount": 16089,
           "isWished": false
         },
         "image": {
@@ -563,7 +489,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "title": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
       "price": "{'basicPrice': 8900, 'sellingPrice': 8900, 'discountRate': 0}",
       "product_url": null,
@@ -587,7 +513,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13488,
+          "wishCount": 13497,
           "isWished": false
         },
         "image": {
@@ -606,7 +532,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -630,7 +556,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8938,
+          "wishCount": 8937,
           "isWished": false
         },
         "image": {
@@ -643,44 +569,7 @@
       }
     },
     {
-      "rank": 17,
-      "title": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)",
-      "price": "{'basicPrice': 22700, 'sellingPrice': 21500, 'discountRate': 5}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306155257_5768cc5ce29442ecb132d500ab7b750f.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 19989,
-        "productId": 19989,
-        "name": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 22700,
-          "sellingPrice": 21500,
-          "discountRate": 5
-        },
-        "brand": {
-          "id": 1203,
-          "name": "꼬모쎔쁘레"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 27376,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260306155257_5768cc5ce29442ecb132d500ab7b750f.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)"
-        }
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
       "product_url": null,
@@ -723,7 +612,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 16,
       "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -747,7 +636,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38314,
+          "wishCount": 38316,
           "isWished": false
         },
         "image": {
@@ -756,6 +645,117 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
+      "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10579907,
+        "productId": 10579907,
+        "name": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 10800,
+          "sellingPrice": 10800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1289,
+          "name": "페레로로쉐"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 21752,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "title": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)",
+      "price": "{'basicPrice': 22700, 'sellingPrice': 21500, 'discountRate': 5}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306155257_5768cc5ce29442ecb132d500ab7b750f.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 19989,
+        "productId": 19989,
+        "name": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 22700,
+          "sellingPrice": 21500,
+          "discountRate": 5
+        },
+        "brand": {
+          "id": 1203,
+          "name": "꼬모쎔쁘레"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 27384,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260306155257_5768cc5ce29442ecb132d500ab7b750f.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)"
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+      "price": "{'basicPrice': 35200, 'sellingPrice': 30800, 'discountRate': 12}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13009021,
+        "productId": 13009021,
+        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 35200,
+          "sellingPrice": 30800,
+          "discountRate": 12
+        },
+        "brand": {
+          "id": 148,
+          "name": "츄파춥스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 482,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
         }
       }
     },
@@ -784,7 +784,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24667,
+          "wishCount": 24674,
           "isWished": false
         },
         "image": {
