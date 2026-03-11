@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-11T07:58:46.580108Z",
+  "fetched_at": "2026-03-11T10:09:52.978277Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88033,
+          "wishCount": 88040,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195818,
+          "wishCount": 195821,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84486,
+          "wishCount": 84501,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41546,
+          "wishCount": 41553,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27755,
+          "wishCount": 27764,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76866,
+          "wishCount": 76880,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26843,
+          "wishCount": 26847,
           "isWished": false
         },
         "image": {
@@ -275,43 +275,6 @@
     },
     {
       "rank": 8,
-      "title": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
-      "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10579907,
-        "productId": 10579907,
-        "name": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 10800,
-          "sellingPrice": 10800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1289,
-          "name": "페레로로쉐"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 21732,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
-        }
-      }
-    },
-    {
-      "rank": 9,
       "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -335,7 +298,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22297,
+          "wishCount": 22355,
           "isWished": false
         },
         "image": {
@@ -351,6 +314,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
+      "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10579907,
+        "productId": 10579907,
+        "name": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 10800,
+          "sellingPrice": 10800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1289,
+          "name": "페레로로쉐"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 21741,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260310124546_dacb1b56b9d3499ca01e0fab7c75b0a7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
+        }
       }
     },
     {
@@ -378,7 +378,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44246,
+          "wishCount": 44249,
           "isWished": false
         },
         "image": {
@@ -421,7 +421,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25585,
+          "wishCount": 25590,
           "isWished": false
         },
         "image": {
@@ -464,7 +464,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74150,
+          "wishCount": 74148,
           "isWished": false
         },
         "image": {
@@ -507,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 53577,
+          "wishCount": 53586,
           "isWished": false
         },
         "image": {
@@ -544,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16037,
+          "wishCount": 16062,
           "isWished": false
         },
         "image": {
@@ -587,7 +587,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13474,
+          "wishCount": 13488,
           "isWished": false
         },
         "image": {
@@ -630,7 +630,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8941,
+          "wishCount": 8938,
           "isWished": false
         },
         "image": {
@@ -667,7 +667,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27368,
+          "wishCount": 27376,
           "isWished": false
         },
         "image": {
@@ -747,7 +747,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38311,
+          "wishCount": 38314,
           "isWished": false
         },
         "image": {
@@ -761,38 +761,38 @@
     },
     {
       "rank": 20,
-      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-      "price": "{'basicPrice': 35200, 'sellingPrice': 30800, 'discountRate': 12}",
+      "title": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
+      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260309085300_1ff1c66dcf5a4b3ca146b2ae64a2b651.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13009021,
-        "productId": 13009021,
-        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+        "id": 7828852,
+        "productId": 7828852,
+        "name": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 35200,
-          "sellingPrice": 30800,
-          "discountRate": 12
+          "basicPrice": 19900,
+          "sellingPrice": 19900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 148,
-          "name": "츄파춥스"
+          "id": 15039,
+          "name": "스타벅스(푸드)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 439,
+          "wishCount": 24667,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260309085300_1ff1c66dcf5a4b3ca146b2ae64a2b651.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
+          "EVENT_SUG_NAME_MODEL": "[디저트 포크 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
         }
       }
     }
