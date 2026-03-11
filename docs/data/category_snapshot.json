@@ -1,11 +1,11 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-11T12:00:18.023779Z",
+  "fetched_at": "2026-03-11T15:06:42.906053Z",
   "top_n": 100,
   "category_counts": {
-    "디저트/케이크": 11,
+    "디저트/케이크": 10,
     "한우/소고기": 4,
-    "과일": 3,
+    "과일": 4,
     "간편식/밀키트": 1,
     "기타": 1
   },
@@ -17,7 +17,7 @@
         "product_url": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "\"하트초 !\" [화이트데이 ] 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
@@ -34,7 +34,7 @@
         "product_url": null
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "농협안심한우 1등급 '스페셜 구이 ' 900g (등심+채끝+안심, 각 300g)",
         "product_url": null
       },
@@ -56,21 +56,21 @@
         "product_url": null
       },
       {
-        "rank": 14,
+        "rank": 12,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
     ],
     "간편식/밀키트": [
       {
-        "rank": 12,
+        "rank": 14,
         "title": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
         "product_url": null
       }
     ],
     "기타": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 )",
         "product_url": null
       }
@@ -78,9 +78,9 @@
   },
   "category_deltas_vs_prev": {
     "디저트/케이크": -1,
+    "기타": 0,
     "간편식/밀키트": 0,
-    "과일": 0,
-    "기타": 1,
+    "과일": 1,
     "한우/소고기": 0
   }
 }
