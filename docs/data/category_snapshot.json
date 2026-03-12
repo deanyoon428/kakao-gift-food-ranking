@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-12T08:00:27.350050Z",
+  "fetched_at": "2026-03-12T10:10:24.228228Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 11,
@@ -22,7 +22,7 @@
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 ! 요즘 제일 핫한 디저트",
         "product_url": null
       }
@@ -51,12 +51,12 @@
         "product_url": null
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
         "product_url": null
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
@@ -70,17 +70,17 @@
     ],
     "기타": [
       {
-        "rank": 15,
+        "rank": 17,
         "title": "츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 )",
         "product_url": null
       }
     ]
   },
   "category_deltas_vs_prev": {
-    "한우/소고기": 1,
-    "디저트/케이크": 0,
-    "간편식/밀키트": 0,
     "기타": 0,
-    "과일": -1
+    "과일": 0,
+    "간편식/밀키트": 0,
+    "한우/소고기": 0,
+    "디저트/케이크": 0
   }
 }
