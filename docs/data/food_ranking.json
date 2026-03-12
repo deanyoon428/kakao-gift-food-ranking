@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-12T14:38:45.205599Z",
+  "fetched_at": "2026-03-12T18:00:17.916263Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88088,
+          "wishCount": 88091,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195846,
+          "wishCount": 195843,
           "isWished": false
         },
         "image": {
@@ -90,43 +90,6 @@
     },
     {
       "rank": 3,
-      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7630727,
-        "productId": 7630727,
-        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 41616,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
-        }
-      }
-    },
-    {
-      "rank": 4,
       "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -150,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23033,
+          "wishCount": 23136,
           "isWished": false
         },
         "image": {
@@ -166,6 +129,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 4,
+      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7630727,
+        "productId": 7630727,
+        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 41624,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
+        }
       }
     },
     {
@@ -193,7 +193,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77040,
+          "wishCount": 77054,
           "isWished": false
         },
         "image": {
@@ -230,7 +230,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27789,
+          "wishCount": 27788,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26877,
+          "wishCount": 26886,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44267,
+          "wishCount": 44266,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74184,
+          "wishCount": 74190,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13642,
+          "wishCount": 13674,
           "isWished": false
         },
         "image": {
@@ -410,43 +410,6 @@
     },
     {
       "rank": 11,
-      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 9915753,
-        "productId": 9915753,
-        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 12299,
-          "name": "탐라왕"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 8964,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
-        }
-      }
-    },
-    {
-      "rank": 12,
       "title": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
       "price": "{'basicPrice': 13800, 'sellingPrice': 13800, 'discountRate': 0}",
       "product_url": null,
@@ -470,7 +433,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16416,
+          "wishCount": 16450,
           "isWished": false
         },
         "image": {
@@ -489,7 +452,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "[디저트 스푼+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -513,7 +476,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25620,
+          "wishCount": 25625,
           "isWished": false
         },
         "image": {
@@ -532,9 +495,46 @@
       }
     },
     {
+      "rank": 13,
+      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 9915753,
+        "productId": 9915753,
+        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12299,
+          "name": "탐라왕"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8966,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
+        }
+      }
+    },
+    {
       "rank": 14,
       "title": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)",
-      "price": "{'basicPrice': 22700, 'sellingPrice': 21500, 'discountRate': 5}",
+      "price": "{'basicPrice': 22700, 'sellingPrice': 22700, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306155257_5768cc5ce29442ecb132d500ab7b750f.png', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -544,8 +544,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 22700,
-          "sellingPrice": 21500,
-          "discountRate": 5
+          "sellingPrice": 22700,
+          "discountRate": 0
         },
         "brand": {
           "id": 1203,
@@ -556,7 +556,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27464,
+          "wishCount": 27476,
           "isWished": false
         },
         "image": {
@@ -593,7 +593,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84572,
+          "wishCount": 84578,
           "isWished": false
         },
         "image": {
@@ -607,43 +607,6 @@
     },
     {
       "rank": 16,
-      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-      "price": "{'basicPrice': 35200, 'sellingPrice': 30800, 'discountRate': 12}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13009021,
-        "productId": 13009021,
-        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 35200,
-          "sellingPrice": 30800,
-          "discountRate": 12
-        },
-        "brand": {
-          "id": 148,
-          "name": "츄파춥스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 763,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
       "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
       "product_url": null,
@@ -667,7 +630,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24757,
+          "wishCount": 24763,
           "isWished": false
         },
         "image": {
@@ -676,6 +639,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+      "price": "{'basicPrice': 35200, 'sellingPrice': 30800, 'discountRate': 12}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13009021,
+        "productId": 13009021,
+        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 35200,
+          "sellingPrice": 30800,
+          "discountRate": 12
+        },
+        "brand": {
+          "id": 148,
+          "name": "츄파춥스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 800,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
         }
       }
     },
@@ -704,7 +704,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21786,
+          "wishCount": 21791,
           "isWished": false
         },
         "image": {
@@ -741,7 +741,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25308,
+          "wishCount": 25315,
           "isWished": false
         },
         "image": {
@@ -761,38 +761,38 @@
     },
     {
       "rank": 20,
-      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "title": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
+      "price": "{'basicPrice': 31800, 'sellingPrice': 31800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 10823550,
-        "productId": 10823550,
-        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+        "id": 8026674,
+        "productId": 8026674,
+        "name": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
+          "basicPrice": 31800,
+          "sellingPrice": 31800,
           "discountRate": 0
         },
         "brand": {
-          "id": 13861,
-          "name": "마즈"
+          "id": 13232,
+          "name": "브로이어"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6744,
+          "wishCount": 25315,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P"
         }
       }
     }
