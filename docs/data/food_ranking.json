@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-13T14:31:29.928315Z",
+  "fetched_at": "2026-03-13T17:07:10.532897Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24116,
+          "wishCount": 24209,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14080,
+          "wishCount": 14155,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88178,
+          "wishCount": 88187,
           "isWished": false
         },
         "image": {
@@ -156,7 +156,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16889,
+          "wishCount": 16976,
           "isWished": false
         },
         "image": {
@@ -199,7 +199,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24950,
+          "wishCount": 24966,
           "isWished": false
         },
         "image": {
@@ -236,7 +236,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27646,
+          "wishCount": 27684,
           "isWished": false
         },
         "image": {
@@ -273,7 +273,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195839,
+          "wishCount": 195842,
           "isWished": false
         },
         "image": {
@@ -316,7 +316,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77200,
+          "wishCount": 77227,
           "isWished": false
         },
         "image": {
@@ -330,6 +330,123 @@
     },
     {
       "rank": 9,
+      "title": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구",
+      "price": "{'basicPrice': 12900, 'sellingPrice': 12900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311200546_c3e759ba17284f2493cebfcebb4504a7.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12792422,
+        "productId": 12792422,
+        "name": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 12900,
+          "sellingPrice": 12900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15346,
+          "name": "어도어모어"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 3912,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311200546_c3e759ba17284f2493cebfcebb4504a7.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+      "price": "{'basicPrice': 30800, 'sellingPrice': 29700, 'discountRate': 3}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13009021,
+        "productId": 13009021,
+        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 30800,
+          "sellingPrice": 29700,
+          "discountRate": 3
+        },
+        "brand": {
+          "id": 148,
+          "name": "츄파춥스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 1248,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "title": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
+      "price": "{'basicPrice': 31800, 'sellingPrice': 31800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 8026674,
+        "productId": 8026674,
+        "name": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 31800,
+          "sellingPrice": 31800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13232,
+          "name": "브로이어"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25378,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P"
+        }
+      }
+    },
+    {
+      "rank": 12,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -366,87 +483,7 @@
       }
     },
     {
-      "rank": 10,
-      "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-      "price": "{'basicPrice': 35200, 'sellingPrice': 30800, 'discountRate': 12}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13009021,
-        "productId": 13009021,
-        "name": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 35200,
-          "sellingPrice": 30800,
-          "discountRate": 12
-        },
-        "brand": {
-          "id": 148,
-          "name": "츄파춥스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 1206,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
-        }
-      }
-    },
-    {
-      "rank": 11,
-      "title": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구",
-      "price": "{'basicPrice': 12900, 'sellingPrice': 12900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311200546_c3e759ba17284f2493cebfcebb4504a7.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12792422,
-        "productId": 12792422,
-        "name": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 12900,
-          "sellingPrice": 12900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15346,
-          "name": "어도어모어"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 3881,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311200546_c3e759ba17284f2493cebfcebb4504a7.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물!\" 어도어모어 동결건조 딸기 초콜릿 미니 하트 3구"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -470,7 +507,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41627,
+          "wishCount": 41642,
           "isWished": false
         },
         "image": {
@@ -479,43 +516,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
-        }
-      }
-    },
-    {
-      "rank": 13,
-      "title": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
-      "price": "{'basicPrice': 31800, 'sellingPrice': 31800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 8026674,
-        "productId": 8026674,
-        "name": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 31800,
-          "sellingPrice": 31800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13232,
-          "name": "브로이어"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25368,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251226164619_5304ccbd3bbf44779049c5e4e0c56289.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P"
         }
       }
     },
@@ -544,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 7062,
+          "wishCount": 7091,
           "isWished": false
         },
         "image": {
@@ -581,7 +581,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26912,
+          "wishCount": 26914,
           "isWished": false
         },
         "image": {
@@ -618,7 +618,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21866,
+          "wishCount": 21889,
           "isWished": false
         },
         "image": {
@@ -632,49 +632,6 @@
     },
     {
       "rank": 17,
-      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 18350,
-          "name": "고디바베이커리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 74247,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 18,
       "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
       "price": "{'basicPrice': 16000, 'sellingPrice': 14400, 'discountRate': 10}",
       "product_url": null,
@@ -698,7 +655,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 57493,
+          "wishCount": 57531,
           "isWished": false
         },
         "image": {
@@ -708,6 +665,49 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
         }
+      }
+    },
+    {
+      "rank": 18,
+      "title": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18350,
+          "name": "고디바베이커리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 74254,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -735,7 +735,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87285,
+          "wishCount": 87291,
           "isWished": false
         },
         "image": {
@@ -772,7 +772,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 214827,
+          "wishCount": 214862,
           "isWished": false
         },
         "image": {
