@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-14T15:00:40.594247Z",
+  "fetched_at": "2026-03-14T15:54:41.570350Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14658,
+          "wishCount": 14668,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27892,
+          "wishCount": 27899,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24800,
+          "wishCount": 24834,
           "isWished": false
         },
         "image": {
@@ -127,43 +127,6 @@
     },
     {
       "rank": 4,
-      "title": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
-      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312091246_96ee5d3f512f48a6a0142d270582c40d.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7828852,
-        "productId": 7828852,
-        "name": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 19900,
-          "sellingPrice": 19900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25158,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312091246_96ee5d3f512f48a6a0142d270582c40d.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
-        }
-      }
-    },
-    {
-      "rank": 5,
       "title": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)",
       "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
       "product_url": null,
@@ -187,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21996,
+          "wishCount": 22001,
           "isWished": false
         },
         "image": {
@@ -196,6 +159,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "title": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
+      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312091246_96ee5d3f512f48a6a0142d270582c40d.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7828852,
+        "productId": 7828852,
+        "name": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 19900,
+          "sellingPrice": 19900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25159,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312091246_96ee5d3f512f48a6a0142d270582c40d.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
         }
       }
     },
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25436,
+          "wishCount": 25438,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1755,
+          "wishCount": 1762,
           "isWished": false
         },
         "image": {
@@ -275,80 +275,6 @@
     },
     {
       "rank": 8,
-      "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 1389659,
-        "productId": 1389659,
-        "name": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10492,
-          "name": "김보람초콜릿"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 57739,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
-        }
-      }
-    },
-    {
-      "rank": 9,
-      "title": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-      "price": "{'basicPrice': 14900, 'sellingPrice': 12800, 'discountRate': 14}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5143622,
-        "productId": 5143622,
-        "name": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 14900,
-          "sellingPrice": 12800,
-          "discountRate": 14
-        },
-        "brand": {
-          "id": 14454,
-          "name": "널담"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 215107,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
-        }
-      }
-    },
-    {
-      "rank": 10,
       "title": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
       "price": "{'basicPrice': 13800, 'sellingPrice': 13800, 'discountRate': 0}",
       "product_url": null,
@@ -372,7 +298,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17444,
+          "wishCount": 17465,
           "isWished": false
         },
         "image": {
@@ -388,6 +314,80 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 1389659,
+        "productId": 1389659,
+        "name": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 16000,
+          "sellingPrice": 16000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10492,
+          "name": "김보람초콜릿"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 57743,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "title": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 12800, 'discountRate': 14}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5143622,
+        "productId": 5143622,
+        "name": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 14900,
+          "sellingPrice": 12800,
+          "discountRate": 14
+        },
+        "brand": {
+          "id": 14454,
+          "name": "널담"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 215105,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
+        }
       }
     },
     {
@@ -415,7 +415,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87320,
+          "wishCount": 87317,
           "isWished": false
         },
         "image": {
@@ -452,7 +452,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77381,
+          "wishCount": 77383,
           "isWished": false
         },
         "image": {
@@ -526,7 +526,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 7361,
+          "wishCount": 7368,
           "isWished": false
         },
         "image": {
@@ -563,7 +563,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88235,
+          "wishCount": 88236,
           "isWished": false
         },
         "image": {
@@ -606,7 +606,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84779,
+          "wishCount": 84784,
           "isWished": false
         },
         "image": {
@@ -620,39 +620,45 @@
     },
     {
       "rank": 17,
-      "title": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)",
-      "price": "{'basicPrice': 36900, 'sellingPrice': 36900, 'discountRate': 0}",
+      "title": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)",
+      "price": "{'basicPrice': 6900, 'sellingPrice': 6900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260303102116_5aa86661dcbf4186ae478c091ed3142a.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240423143951_b35cdf6683d842feba4559bc4999b12a.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 11298292,
-        "productId": 11298292,
-        "name": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)",
+        "id": 490780,
+        "productId": 490780,
+        "name": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 36900,
-          "sellingPrice": 36900,
+          "basicPrice": 6900,
+          "sellingPrice": 6900,
           "discountRate": 0
         },
         "brand": {
-          "id": 19413,
-          "name": "그레터스"
+          "id": 148,
+          "name": "츄파춥스"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 18777,
+          "wishCount": 3857,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260303102116_5aa86661dcbf4186ae478c091ed3142a.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240423143951_b35cdf6683d842feba4559bc4999b12a.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)"
-        }
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -680,7 +686,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8796,
+          "wishCount": 8801,
           "isWished": false
         },
         "image": {
@@ -694,88 +700,76 @@
     },
     {
       "rank": 19,
-      "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
-      "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
+      "title": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)",
+      "price": "{'basicPrice': 36900, 'sellingPrice': 36900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260303102116_5aa86661dcbf4186ae478c091ed3142a.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5259781,
-        "productId": 5259781,
-        "name": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
+        "id": 11298292,
+        "productId": 11298292,
+        "name": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 49900,
-          "sellingPrice": 49900,
+          "basicPrice": 36900,
+          "sellingPrice": 36900,
           "discountRate": 0
         },
         "brand": {
-          "id": 7948,
-          "name": "푸드장"
+          "id": 19413,
+          "name": "그레터스"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195823,
+          "wishCount": 18796,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260303102116_5aa86661dcbf4186ae478c091ed3142a.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
+          "EVENT_SUG_NAME_MODEL": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)"
+        }
       }
     },
     {
       "rank": 20,
-      "title": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)",
-      "price": "{'basicPrice': 6900, 'sellingPrice': 6900, 'discountRate': 0}",
+      "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240423143951_b35cdf6683d842feba4559bc4999b12a.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 490780,
-        "productId": 490780,
-        "name": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)",
+        "id": 13089568,
+        "productId": 13089568,
+        "name": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 6900,
-          "sellingPrice": 6900,
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
           "discountRate": 0
         },
         "brand": {
-          "id": 148,
-          "name": "츄파춥스"
+          "id": 11210,
+          "name": "디디얌"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3853,
+          "wishCount": 452,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240423143951_b35cdf6683d842feba4559bc4999b12a.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 사탕선물\" 츄파춥스 18개입 러브 다이브 용기 선물세트 (6가지맛 랜덤 막대사탕)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
+          "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
+        }
       }
     }
   ]
