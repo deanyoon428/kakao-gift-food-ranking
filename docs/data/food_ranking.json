@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-14T13:58:28.611713Z",
+  "fetched_at": "2026-03-14T15:00:40.594247Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14634,
+          "wishCount": 14658,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27889,
+          "wishCount": 27892,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24771,
+          "wishCount": 24800,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25155,
+          "wishCount": 25158,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21988,
+          "wishCount": 21996,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25438,
+          "wishCount": 25436,
           "isWished": false
         },
         "image": {
@@ -239,7 +239,7 @@
     {
       "rank": 7,
       "title": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)",
-      "price": "{'basicPrice': 30800, 'sellingPrice': 29700, 'discountRate': 3}",
+      "price": "{'basicPrice': 30800, 'sellingPrice': 30800, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305110509_dc0732eada974fbfb8d138dba81aaf56.png', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -249,8 +249,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 30800,
-          "sellingPrice": 29700,
-          "discountRate": 3
+          "sellingPrice": 30800,
+          "discountRate": 0
         },
         "brand": {
           "id": 148,
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1741,
+          "wishCount": 1755,
           "isWished": false
         },
         "image": {
@@ -276,7 +276,7 @@
     {
       "rank": 8,
       "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 14400, 'discountRate': 10}",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -286,8 +286,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 16000,
-          "sellingPrice": 14400,
-          "discountRate": 10
+          "sellingPrice": 16000,
+          "discountRate": 0
         },
         "brand": {
           "id": 10492,
@@ -298,7 +298,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 57730,
+          "wishCount": 57739,
           "isWished": false
         },
         "image": {
@@ -335,7 +335,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 215099,
+          "wishCount": 215107,
           "isWished": false
         },
         "image": {
@@ -372,7 +372,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17416,
+          "wishCount": 17444,
           "isWished": false
         },
         "image": {
@@ -415,7 +415,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87329,
+          "wishCount": 87320,
           "isWished": false
         },
         "image": {
@@ -452,7 +452,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77374,
+          "wishCount": 77381,
           "isWished": false
         },
         "image": {
@@ -467,9 +467,9 @@
     {
       "rank": 13,
       "title": "[화이트데이 선물] 노티드 봉봉 초콜릿 9구 (2종 택1)",
-      "price": "{'basicPrice': 19900, 'sellingPrice': 17900, 'discountRate': 10}",
+      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260304164744_87b259af3ffa4e17a290bcb30f74bea8.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250203180453_7d7f50bde83a40af968fac494353afb2.png', 'imageBlindType': 'NONE'}",
       "raw": {
         "id": 11061577,
         "productId": 11061577,
@@ -477,8 +477,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 19900,
-          "sellingPrice": 17900,
-          "discountRate": 10
+          "sellingPrice": 19900,
+          "discountRate": 0
         },
         "brand": {
           "id": 13280,
@@ -489,11 +489,11 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23614,
+          "wishCount": 23620,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260304164744_87b259af3ffa4e17a290bcb30f74bea8.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250203180453_7d7f50bde83a40af968fac494353afb2.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
@@ -503,6 +503,43 @@
     },
     {
       "rank": 14,
+      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10823550,
+        "productId": 10823550,
+        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 16000,
+          "sellingPrice": 16000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13861,
+          "name": "마즈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 7361,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
+        }
+      }
+    },
+    {
+      "rank": 15,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -545,43 +582,6 @@
       }
     },
     {
-      "rank": 15,
-      "title": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10823550,
-        "productId": 10823550,
-        "name": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13861,
-          "name": "마즈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 7341,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209100134_55ca7428fc8f4449b02b2ed85f27374c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
-        }
-      }
-    },
-    {
       "rank": 16,
       "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
       "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
@@ -606,7 +606,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84774,
+          "wishCount": 84779,
           "isWished": false
         },
         "image": {
@@ -621,7 +621,7 @@
     {
       "rank": 17,
       "title": "\"BEST 고급선물\" [스위스 목캔디] 그레터스 파스티유 캔디 기프트세트(클래식+슈가프리)",
-      "price": "{'basicPrice': 36900, 'sellingPrice': 33900, 'discountRate': 8}",
+      "price": "{'basicPrice': 36900, 'sellingPrice': 36900, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260303102116_5aa86661dcbf4186ae478c091ed3142a.png', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -631,8 +631,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 36900,
-          "sellingPrice": 33900,
-          "discountRate": 8
+          "sellingPrice": 36900,
+          "discountRate": 0
         },
         "brand": {
           "id": 19413,
@@ -643,7 +643,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 18754,
+          "wishCount": 18777,
           "isWished": false
         },
         "image": {
@@ -657,49 +657,6 @@
     },
     {
       "rank": 18,
-      "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
-      "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5259781,
-        "productId": 5259781,
-        "name": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 49900,
-          "sellingPrice": 49900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7948,
-          "name": "푸드장"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 195826,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 19,
       "title": "[화이트데이] \"초콜릿 선물\" 벨기에 프리미엄 초콜릿 길리안 시쉘125g(11입)",
       "price": "{'basicPrice': 14500, 'sellingPrice': 12500, 'discountRate': 13}",
       "product_url": null,
@@ -723,7 +680,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8790,
+          "wishCount": 8796,
           "isWished": false
         },
         "image": {
@@ -733,6 +690,49 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[화이트데이] \"초콜릿 선물\" 벨기에 프리미엄 초콜릿 길리안 시쉘125g(11입)"
         }
+      }
+    },
+    {
+      "rank": 19,
+      "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
+      "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5259781,
+        "productId": 5259781,
+        "name": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 49900,
+          "sellingPrice": 49900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7948,
+          "name": "푸드장"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 195823,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -760,7 +760,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3842,
+          "wishCount": 3853,
           "isWished": false
         },
         "image": {

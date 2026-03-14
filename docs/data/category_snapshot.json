@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-14T13:58:28.611713Z",
+  "fetched_at": "2026-03-14T15:00:40.594247Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 15,
@@ -34,7 +34,7 @@
         "product_url": null
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "한정판 이클립스 하트 10개입(피치5+페퍼5)",
         "product_url": null
       }
@@ -55,17 +55,17 @@
     ],
     "한우/소고기": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "푸드장 프리미엄 구이 1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
         "product_url": null
       }
     ]
   },
   "category_deltas_vs_prev": {
-    "한우/소고기": 0,
+    "기타": 0,
     "간편식/밀키트": 0,
-    "기타": -1,
-    "디저트/케이크": 1,
-    "커피/음료": 0
+    "디저트/케이크": 0,
+    "커피/음료": 0,
+    "한우/소고기": 0
   }
 }
