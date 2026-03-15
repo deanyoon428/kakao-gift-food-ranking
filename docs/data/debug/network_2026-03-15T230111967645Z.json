@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://gift.kakao.com/a/v2/main?uncache=1773615669240",
+    "sample_keys": [
+      "nowTimestamp"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/gift-home/v1/lnbs?uncache=1773615669241",
+    "sample_keys": [
+      "basicLnbMenus",
+      "luxLnbMenus"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/meta?uncache=1773615669613",
+    "sample_keys": [
+      "purchaseHistorySegment",
+      "cooperativeAdBrandIds",
+      "giftTalkChannelFriend"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/header?uncache=1773615669977",
+    "sample_keys": []
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/required-data?uncache=1773615670002",
+    "sample_keys": [
+      "categoryTabs",
+      "giftThemeTabs",
+      "trendingTabs"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/marketing-tab?uncache=1773615670153",
+    "sample_keys": [
+      "id",
+      "name",
+      "link",
+      "offImageUrl",
+      "onImageUrl",
+      "placeholderName"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/category-tab/search?uncache=1773615670213",
+    "sample_keys": [
+      "updatedAt",
+      "last",
+      "feedbackData",
+      "products"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/best/ads/delivery/4?uncache=1773615670215",
+    "sample_keys": [
+      "ads"
+    ]
+  }
+]

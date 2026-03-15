@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-15T21:55:27.835185Z",
+  "fetched_at": "2026-03-15T23:01:12.940939Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25539,
+          "wishCount": 25554,
           "isWished": false
         },
         "image": {
@@ -38,6 +38,10 @@
           "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 선물세트! 요즘 제일 핫한 디저트 선물"
         },
         "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
           {
             "type": "EXCLUSIVE",
             "name": "단독"
@@ -70,7 +74,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77482,
+          "wishCount": 77491,
           "isWished": false
         },
         "image": {
@@ -79,7 +83,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"하트초 증정!\" [화이트데이 선물] 오리지널 티라미수 케이크 (쇼핑백 증정)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -119,6 +129,10 @@
         },
         "labels": [
           {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
             "type": "EXCLUSIVE",
             "name": "단독"
           }
@@ -150,7 +164,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88297,
+          "wishCount": 88300,
           "isWished": false
         },
         "image": {
@@ -161,6 +175,10 @@
           "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
         },
         "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
           {
             "type": "EXCLUSIVE",
             "name": "단독"
@@ -193,7 +211,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195804,
+          "wishCount": 195806,
           "isWished": false
         },
         "image": {
@@ -236,7 +254,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17729,
+          "wishCount": 17739,
           "isWished": false
         },
         "image": {
@@ -247,6 +265,10 @@
           "EVENT_SUG_NAME_MODEL": "[화이트데이] NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스"
         },
         "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
           {
             "type": "EXCLUSIVE",
             "name": "단독"
@@ -288,7 +310,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 시그니쳐 수제초콜릿 15입 (쇼핑백 증정)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -316,7 +344,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41701,
+          "wishCount": 41698,
           "isWished": false
         },
         "image": {
@@ -325,7 +353,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -353,7 +387,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27834,
+          "wishCount": 27837,
           "isWished": false
         },
         "image": {
@@ -390,7 +424,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25402,
+          "wishCount": 25401,
           "isWished": false
         },
         "image": {
@@ -399,7 +433,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물추천\" 100년전통 벨기에 수제초콜릿 브로이어 어쏘트먼트 컬렉션 16P"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -436,7 +476,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [쇼핑백증정] 페레로로쉐 T8 하트 초콜릿(8개입)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -464,7 +510,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26909,
+          "wishCount": 26911,
           "isWished": false
         },
         "image": {
@@ -473,7 +519,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -510,7 +562,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -538,7 +596,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25182,
+          "wishCount": 25185,
           "isWished": false
         },
         "image": {
@@ -547,7 +605,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[디저트 포크+커피쿠폰 증정] \"화이트데이 선물\" 스타벅스 파베 생 초콜릿 (밀크 or 다크) 1EA (프리미엄 초콜릿)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -575,7 +639,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 57766,
+          "wishCount": 57771,
           "isWished": false
         },
         "image": {
@@ -584,7 +648,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -612,7 +682,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44297,
+          "wishCount": 44298,
           "isWished": false
         },
         "image": {
@@ -664,7 +734,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[화이트데이] 츄파춥스 팝아트틴 150입 (+한정판 츄파춥스 레트로 스피커 증정)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -692,7 +768,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 7447,
+          "wishCount": 7446,
           "isWished": false
         },
         "image": {
@@ -701,7 +777,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[화이트데이] 한정판 이클립스 하트 10개입(피치5+페퍼5)"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -729,7 +811,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 586,
+          "wishCount": 588,
           "isWished": false
         },
         "image": {
@@ -738,7 +820,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     },
     {
@@ -775,7 +863,13 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[화이트데이] [누적판매 100만개이상]카카올라 파베초콜릿 5종, 꼬르지엘모 파베초콜릿 5종_ 10종 택 1"
-        }
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
       }
     }
   ]
