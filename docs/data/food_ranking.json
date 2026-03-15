@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-15T05:45:37.313749Z",
+  "fetched_at": "2026-03-15T07:57:29.865013Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14681,
+          "wishCount": 14686,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25060,
+          "wishCount": 25127,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27920,
+          "wishCount": 27912,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 21997,
+          "wishCount": 21999,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25166,
+          "wishCount": 25171,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25420,
+          "wishCount": 25412,
           "isWished": false
         },
         "image": {
@@ -261,7 +261,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77437,
+          "wishCount": 77450,
           "isWished": false
         },
         "image": {
@@ -298,7 +298,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17562,
+          "wishCount": 17593,
           "isWished": false
         },
         "image": {
@@ -341,7 +341,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88259,
+          "wishCount": 88272,
           "isWished": false
         },
         "image": {
@@ -384,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 215111,
+          "wishCount": 215109,
           "isWished": false
         },
         "image": {
@@ -421,7 +421,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1797,
+          "wishCount": 1809,
           "isWished": false
         },
         "image": {
@@ -435,43 +435,6 @@
     },
     {
       "rank": 12,
-      "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
-      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 1389659,
-        "productId": 1389659,
-        "name": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16000,
-          "sellingPrice": 16000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10492,
-          "name": "김보람초콜릿"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 57755,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
-        }
-      }
-    },
-    {
-      "rank": 13,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -495,7 +458,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195800,
+          "wishCount": 195807,
           "isWished": false
         },
         "image": {
@@ -511,6 +474,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 13,
+      "title": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
+      "price": "{'basicPrice': 16000, 'sellingPrice': 16000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 1389659,
+        "productId": 1389659,
+        "name": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 16000,
+          "sellingPrice": 16000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10492,
+          "name": "김보람초콜릿"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 57753,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250811100542_7c2427b8f7b24ad1bea42bf15ca30fc8.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"화이트데이 선물\" 김보람초콜릿 밀크 생초콜릿(파베 28pcs/150g)"
+        }
       }
     },
     {
@@ -538,7 +538,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 87307,
+          "wishCount": 87299,
           "isWished": false
         },
         "image": {
@@ -575,7 +575,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27821,
+          "wishCount": 27824,
           "isWished": false
         },
         "image": {
@@ -612,7 +612,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41669,
+          "wishCount": 41675,
           "isWished": false
         },
         "image": {
@@ -649,7 +649,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 7404,
+          "wishCount": 7411,
           "isWished": false
         },
         "image": {
@@ -686,7 +686,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26917,
+          "wishCount": 26914,
           "isWished": false
         },
         "image": {
@@ -700,43 +700,6 @@
     },
     {
       "rank": 19,
-      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
-      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5312065,
-        "productId": 5312065,
-        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 14900,
-          "sellingPrice": 14900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10159,
-          "name": "파스키에"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 84790,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
-        }
-      }
-    },
-    {
-      "rank": 20,
       "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
       "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
       "product_url": null,
@@ -760,7 +723,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 514,
+          "wishCount": 526,
           "isWished": false
         },
         "image": {
@@ -769,6 +732,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10159,
+          "name": "파스키에"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 84786,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
         }
       }
     }
