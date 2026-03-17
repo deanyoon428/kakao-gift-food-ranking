@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-17T11:33:36.291146Z",
+  "fetched_at": "2026-03-17T15:53:22.339048Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1070,
+          "wishCount": 1135,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88398,
+          "wishCount": 88408,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195844,
+          "wishCount": 195852,
           "isWished": false
         },
         "image": {
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41760,
+          "wishCount": 41775,
           "isWished": false
         },
         "image": {
@@ -203,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27868,
+          "wishCount": 27875,
           "isWished": false
         },
         "image": {
@@ -240,7 +240,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77615,
+          "wishCount": 77642,
           "isWished": false
         },
         "image": {
@@ -260,49 +260,6 @@
     },
     {
       "rank": 7,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12592601,
-        "productId": 12592601,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 22900,
-          "discountRate": 8
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26929,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 8,
       "title": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)",
       "price": "{'basicPrice': 79200, 'sellingPrice': 51900, 'discountRate': 34}",
       "product_url": null,
@@ -326,7 +283,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 456,
+          "wishCount": 468,
           "isWished": false
         },
         "image": {
@@ -335,6 +292,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12592601,
+        "productId": 12592601,
+        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 22900,
+          "discountRate": 8
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26927,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
         },
         "labels": [
           {
@@ -369,7 +369,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23636,
+          "wishCount": 23762,
           "isWished": false
         },
         "image": {
@@ -412,7 +412,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44318,
+          "wishCount": 44323,
           "isWished": false
         },
         "image": {
@@ -432,47 +432,43 @@
     },
     {
       "rank": 11,
-      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12793656,
-        "productId": 12793656,
-        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
+        "id": 9915753,
+        "productId": 9915753,
+        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
+          "basicPrice": 32900,
+          "sellingPrice": 29900,
           "discountRate": 9
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 12299,
+          "name": "탐라왕"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26068,
+          "wishCount": 9077,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트"
+          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
         },
         "labels": [
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
           }
         ]
       }
@@ -502,7 +498,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74345,
+          "wishCount": 74348,
           "isWished": false
         },
         "image": {
@@ -526,81 +522,85 @@
     },
     {
       "rank": 13,
-      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
+      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 20000, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 9915753,
-        "productId": 9915753,
-        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+        "id": 13146166,
+        "productId": 13146166,
+        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 29900,
+          "basicPrice": 22000,
+          "sellingPrice": 20000,
           "discountRate": 9
         },
         "brand": {
-          "id": 12299,
-          "name": "탐라왕"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9067,
+          "wishCount": 164,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
+          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
         },
         "labels": [
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
           }
         ]
       }
     },
     {
       "rank": 14,
-      "title": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
+      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316161330_e1e70b80cbc34e2c83aee7175af1b246.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "id": 12793656,
+        "productId": 12793656,
+        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 33000,
-          "discountRate": 0
+          "basicPrice": 22000,
+          "sellingPrice": 19900,
+          "discountRate": 9
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25802,
+          "wishCount": 25959,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316161330_e1e70b80cbc34e2c83aee7175af1b246.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트"
         },
         "labels": [
           {
@@ -616,38 +616,38 @@
     },
     {
       "rank": 15,
-      "title": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)",
-      "price": "{'basicPrice': 39500, 'sellingPrice': 32500, 'discountRate': 17}",
+      "title": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 29500, 'sellingPrice': 21000, 'discountRate': 28}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260213150039_ec58300722ba4c3e9f243bf07dd2b2ae.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12053927,
-        "productId": 12053927,
-        "name": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)",
+        "id": 12323082,
+        "productId": 12323082,
+        "name": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39500,
-          "sellingPrice": 32500,
-          "discountRate": 17
+          "basicPrice": 29500,
+          "sellingPrice": 21000,
+          "discountRate": 28
         },
         "brand": {
-          "id": 18928,
-          "name": "더그램"
+          "id": 15035,
+          "name": "케이미트"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 20764,
+          "wishCount": 21397,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260213150039_ec58300722ba4c3e9f243bf07dd2b2ae.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)"
+          "EVENT_SUG_NAME_MODEL": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)"
         },
         "labels": [
           {
@@ -682,7 +682,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 742,
+          "wishCount": 756,
           "isWished": false
         },
         "image": {
@@ -702,38 +702,81 @@
     },
     {
       "rank": 17,
-      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 20000, 'discountRate': 9}",
+      "title": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)",
+      "price": "{'basicPrice': 39500, 'sellingPrice': 32500, 'discountRate': 17}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260213150039_ec58300722ba4c3e9f243bf07dd2b2ae.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146166,
-        "productId": 13146166,
-        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+        "id": 12053927,
+        "productId": 12053927,
+        "name": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 20000,
-          "discountRate": 9
+          "basicPrice": 39500,
+          "sellingPrice": 32500,
+          "discountRate": 17
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 18928,
+          "name": "더그램"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 111,
+          "wishCount": 21008,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260213150039_ec58300722ba4c3e9f243bf07dd2b2ae.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+          "EVENT_SUG_NAME_MODEL": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "title": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316161330_e1e70b80cbc34e2c83aee7175af1b246.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 33000,
+          "sellingPrice": 33000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25811,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316161330_e1e70b80cbc34e2c83aee7175af1b246.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
         },
         "labels": [
           {
@@ -743,49 +786,6 @@
           {
             "type": "EXCLUSIVE",
             "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 18,
-      "title": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
-      "price": "{'basicPrice': 29500, 'sellingPrice': 21000, 'discountRate': 28}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12323082,
-        "productId": 12323082,
-        "name": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29500,
-          "sellingPrice": 21000,
-          "discountRate": 28
-        },
-        "brand": {
-          "id": 15035,
-          "name": "케이미트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 21075,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           }
         ]
       }
@@ -815,7 +815,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17932,
+          "wishCount": 17967,
           "isWished": false
         },
         "image": {
@@ -862,7 +862,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84861,
+          "wishCount": 84865,
           "isWished": false
         },
         "image": {
