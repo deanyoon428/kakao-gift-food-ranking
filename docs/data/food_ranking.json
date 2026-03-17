@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-17T08:08:04.247983Z",
+  "fetched_at": "2026-03-17T11:33:36.291146Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1024,
+          "wishCount": 1070,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88384,
+          "wishCount": 88398,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195836,
+          "wishCount": 195844,
           "isWished": false
         },
         "image": {
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41751,
+          "wishCount": 41760,
           "isWished": false
         },
         "image": {
@@ -203,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27854,
+          "wishCount": 27868,
           "isWished": false
         },
         "image": {
@@ -240,7 +240,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77607,
+          "wishCount": 77615,
           "isWished": false
         },
         "image": {
@@ -283,7 +283,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26925,
+          "wishCount": 26929,
           "isWished": false
         },
         "image": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 437,
+          "wishCount": 456,
           "isWished": false
         },
         "image": {
@@ -346,53 +346,6 @@
     },
     {
       "rank": 9,
-      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12793656,
-        "productId": 12793656,
-        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
-          "discountRate": 9
-        },
-        "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26148,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 10,
       "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -416,7 +369,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23573,
+          "wishCount": 23636,
           "isWished": false
         },
         "image": {
@@ -435,7 +388,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -459,7 +412,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44310,
+          "wishCount": 44318,
           "isWished": false
         },
         "image": {
@@ -470,6 +423,53 @@
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
         },
         "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12793656,
+        "productId": 12793656,
+        "name": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 22000,
+          "sellingPrice": 19900,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26068,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144433_7e6b90bfa68547c0affaf25425ec9343.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
           {
             "type": "EXCLUSIVE",
             "name": "단독"
@@ -502,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74330,
+          "wishCount": 74345,
           "isWished": false
         },
         "image": {
@@ -549,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9062,
+          "wishCount": 9067,
           "isWished": false
         },
         "image": {
@@ -592,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25794,
+          "wishCount": 25802,
           "isWished": false
         },
         "image": {
@@ -639,7 +639,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 20641,
+          "wishCount": 20764,
           "isWished": false
         },
         "image": {
@@ -682,7 +682,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 712,
+          "wishCount": 742,
           "isWished": false
         },
         "image": {
@@ -702,6 +702,96 @@
     },
     {
       "rank": 17,
+      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 20000, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146166,
+        "productId": 13146166,
+        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 22000,
+          "sellingPrice": 20000,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 111,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313231730_f220074a8e574c9ab6a300974d58e359.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "title": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 29500, 'sellingPrice': 21000, 'discountRate': 28}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12323082,
+        "productId": 12323082,
+        "name": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29500,
+          "sellingPrice": 21000,
+          "discountRate": 28
+        },
+        "brand": {
+          "id": 15035,
+          "name": "케이미트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 21075,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313141402_936a36b8c67641e4ae072a7e88982194.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"맛있는 선물\" 케이미트 소고기 구이세트 600g(갈비살300g+부채살300g/기타 옵션 상세설명참조)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
       "title": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
       "price": "{'basicPrice': 13800, 'sellingPrice': 13800, 'discountRate': 0}",
       "product_url": null,
@@ -725,7 +815,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17920,
+          "wishCount": 17932,
           "isWished": false
         },
         "image": {
@@ -734,96 +824,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 18,
-      "title": "태랑한우 육즙 팡팡 한우 스테이크 3팩",
-      "price": "{'basicPrice': 15000, 'sellingPrice': 9900, 'discountRate': 34}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250207113145_f2c3dc5a5c324a52bf6e6349066890b7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13025613,
-        "productId": 13025613,
-        "name": "태랑한우 육즙 팡팡 한우 스테이크 3팩",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 15000,
-          "sellingPrice": 9900,
-          "discountRate": 34
-        },
-        "brand": {
-          "id": 12841,
-          "name": "태랑"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 181,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250207113145_f2c3dc5a5c324a52bf6e6349066890b7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "태랑한우 육즙 팡팡 한우 스테이크 3팩"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 19,
-      "title": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
-      "price": "{'basicPrice': 9500, 'sellingPrice': 9500, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12872240,
-        "productId": 12872240,
-        "name": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 9500,
-          "sellingPrice": 9500,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 14729,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)"
         },
         "labels": [
           {
@@ -862,7 +862,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 84841,
+          "wishCount": 84861,
           "isWished": false
         },
         "image": {
