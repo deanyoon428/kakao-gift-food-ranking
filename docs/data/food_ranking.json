@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-17T05:15:14.792218Z",
+  "fetched_at": "2026-03-17T08:08:04.247983Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 987,
+          "wishCount": 1024,
           "isWished": false
         },
         "image": {
@@ -47,49 +47,6 @@
     },
     {
       "rank": 2,
-      "title": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)",
-      "price": "{'basicPrice': 79200, 'sellingPrice': 51900, 'discountRate': 34}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20210609133539_827e733cd69548f583ef0b402a7ca16d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12578783,
-        "productId": 12578783,
-        "name": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 79200,
-          "sellingPrice": 51900,
-          "discountRate": 34
-        },
-        "brand": {
-          "id": 13290,
-          "name": "하남쭈꾸미"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 421,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20210609133539_827e733cd69548f583ef0b402a7ca16d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -113,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88385,
+          "wishCount": 88384,
           "isWished": false
         },
         "image": {
@@ -136,7 +93,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -160,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195833,
+          "wishCount": 195836,
           "isWished": false
         },
         "image": {
@@ -179,7 +136,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -203,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41746,
+          "wishCount": 41751,
           "isWished": false
         },
         "image": {
@@ -222,7 +179,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -246,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27853,
+          "wishCount": 27854,
           "isWished": false
         },
         "image": {
@@ -259,7 +216,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "\"하트초 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -302,7 +259,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -345,6 +302,49 @@
       }
     },
     {
+      "rank": 8,
+      "title": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)",
+      "price": "{'basicPrice': 79200, 'sellingPrice': 51900, 'discountRate': 34}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20210609133539_827e733cd69548f583ef0b402a7ca16d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12578783,
+        "productId": 12578783,
+        "name": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 79200,
+          "sellingPrice": 51900,
+          "discountRate": 34
+        },
+        "brand": {
+          "id": 13290,
+          "name": "하남쭈꾸미"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 437,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20210609133539_827e733cd69548f583ef0b402a7ca16d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[하남쭈꾸미] 쭈꾸미볶음 300g 8팩 (카쇼페)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
       "rank": 9,
       "title": "두바이 쫀득 쿠키, 두쫀쿠 3개입 세트! 요즘 제일 핫한 디저트",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
@@ -369,7 +369,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26234,
+          "wishCount": 26148,
           "isWished": false
         },
         "image": {
@@ -393,6 +393,49 @@
     },
     {
       "rank": 10,
+      "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20231214163828_a12b3d5c95aa4f3b838b8b3996321f9a.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 8167661,
+        "productId": 8167661,
+        "name": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 22900,
+          "discountRate": 8
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 23573,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20231214163828_a12b3d5c95aa4f3b838b8b3996321f9a.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -416,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44308,
+          "wishCount": 44310,
           "isWished": false
         },
         "image": {
@@ -435,7 +478,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -482,7 +525,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -506,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9056,
+          "wishCount": 9062,
           "isWished": false
         },
         "image": {
@@ -525,7 +568,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "\"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
       "product_url": null,
@@ -549,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25793,
+          "wishCount": 25794,
           "isWished": false
         },
         "image": {
@@ -572,97 +615,7 @@
       }
     },
     {
-      "rank": 14,
-      "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20231214163828_a12b3d5c95aa4f3b838b8b3996321f9a.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 8167661,
-        "productId": 8167661,
-        "name": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 22900,
-          "discountRate": 8
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 23518,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20231214163828_a12b3d5c95aa4f3b838b8b3996321f9a.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 세트 (602g)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
       "rank": 15,
-      "title": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
-      "price": "{'basicPrice': 9500, 'sellingPrice': 9500, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12872240,
-        "productId": 12872240,
-        "name": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 9500,
-          "sellingPrice": 9500,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 14731,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 16,
       "title": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)",
       "price": "{'basicPrice': 39500, 'sellingPrice': 32500, 'discountRate': 17}",
       "product_url": null,
@@ -686,7 +639,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 20508,
+          "wishCount": 20641,
           "isWished": false
         },
         "image": {
@@ -695,6 +648,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "더그램 이베리코 모둠구이 3종세트 900g (항정살+목살+세크리토벨리, 각300g)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
+      "price": "{'basicPrice': 15900, 'sellingPrice': 15900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13089568,
+        "productId": 13089568,
+        "name": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 15900,
+          "sellingPrice": 15900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 11210,
+          "name": "디디얌"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 712,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
         },
         "labels": [
           {
@@ -729,7 +725,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17905,
+          "wishCount": 17920,
           "isWished": false
         },
         "image": {
@@ -753,49 +749,6 @@
     },
     {
       "rank": 18,
-      "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
-      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13089568,
-        "productId": 13089568,
-        "name": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 14900,
-          "sellingPrice": 14900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 11210,
-          "name": "디디얌"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 701,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 19,
       "title": "태랑한우 육즙 팡팡 한우 스테이크 3팩",
       "price": "{'basicPrice': 15000, 'sellingPrice': 9900, 'discountRate': 34}",
       "product_url": null,
@@ -819,7 +772,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 174,
+          "wishCount": 181,
           "isWished": false
         },
         "image": {
@@ -838,39 +791,86 @@
       }
     },
     {
-      "rank": 20,
-      "title": "[추천] 페레로로쉐 T8 하트 초콜릿(8개입)",
-      "price": "{'basicPrice': 10800, 'sellingPrice': 10800, 'discountRate': 0}",
+      "rank": 19,
+      "title": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
+      "price": "{'basicPrice': 9500, 'sellingPrice': 9500, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091432_ce1fb70d25be45f6802cfe34db82a296.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 10579907,
-        "productId": 10579907,
-        "name": "[추천] 페레로로쉐 T8 하트 초콜릿(8개입)",
+        "id": 12872240,
+        "productId": 12872240,
+        "name": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 10800,
-          "sellingPrice": 10800,
+          "basicPrice": 9500,
+          "sellingPrice": 9500,
           "discountRate": 0
         },
         "brand": {
-          "id": 1289,
-          "name": "페레로로쉐"
+          "id": 15039,
+          "name": "스타벅스(푸드)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 22000,
+          "wishCount": 14729,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316091432_ce1fb70d25be45f6802cfe34db82a296.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260129105807_eaabfa07e43c4a1ca5ada053e94b9b1e.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[추천] 페레로로쉐 T8 하트 초콜릿(8개입)"
+          "EVENT_SUG_NAME_MODEL": "[사랑을 전해요] 스타벅스 러블리 하트 틴 초콜릿 6P (3가지맛 봉봉 초콜릿)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "title": "프랑스 프리미엄 마카롱 선물세트(12입)",
+      "price": "{'basicPrice': 14900, 'sellingPrice': 14900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5312065,
+        "productId": 5312065,
+        "name": "프랑스 프리미엄 마카롱 선물세트(12입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 14900,
+          "sellingPrice": 14900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10159,
+          "name": "파스키에"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 84841,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251230094256_054f3689ec7d4aa99a74099a51973247.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "프랑스 프리미엄 마카롱 선물세트(12입)"
         },
         "labels": [
           {
