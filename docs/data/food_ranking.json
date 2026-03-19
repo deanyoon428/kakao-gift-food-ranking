@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-19T11:10:34.495691Z",
+  "fetched_at": "2026-03-19T14:43:40.062802Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 361,
+          "wishCount": 452,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88500,
+          "wishCount": 88510,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195857,
+          "wishCount": 195855,
           "isWished": false
         },
         "image": {
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41829,
+          "wishCount": 41842,
           "isWished": false
         },
         "image": {
@@ -203,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27937,
+          "wishCount": 27946,
           "isWished": false
         },
         "image": {
@@ -240,7 +240,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24367,
+          "wishCount": 24461,
           "isWished": false
         },
         "image": {
@@ -260,49 +260,6 @@
     },
     {
       "rank": 7,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12592601,
-        "productId": 12592601,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 22900,
-          "discountRate": 8
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26937,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 8,
       "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -326,7 +283,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77754,
+          "wishCount": 77781,
           "isWished": false
         },
         "image": {
@@ -335,6 +292,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12592601,
+        "productId": 12592601,
+        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 22900,
+          "discountRate": 8
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26947,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
         },
         "labels": [
           {
@@ -369,7 +369,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 508,
+          "wishCount": 546,
           "isWished": false
         },
         "image": {
@@ -416,7 +416,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44353,
+          "wishCount": 44359,
           "isWished": false
         },
         "image": {
@@ -436,49 +436,6 @@
     },
     {
       "rank": 11,
-      "title": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)",
-      "price": "{'basicPrice': 32500, 'sellingPrice': 30900, 'discountRate': 4}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260304175146_af4f1231a71e437d9da97442c1df8c99.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6897179,
-        "productId": 6897179,
-        "name": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32500,
-          "sellingPrice": 30900,
-          "discountRate": 4
-        },
-        "brand": {
-          "id": 19096,
-          "name": "더그릴하우스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 17565,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260304175146_af4f1231a71e437d9da97442c1df8c99.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 12,
       "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -502,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74404,
+          "wishCount": 74419,
           "isWished": false
         },
         "image": {
@@ -520,6 +477,49 @@
           {
             "type": "EXCLUSIVE",
             "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "title": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 32500, 'sellingPrice': 30900, 'discountRate': 4}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260304175146_af4f1231a71e437d9da97442c1df8c99.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6897179,
+        "productId": 6897179,
+        "name": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32500,
+          "sellingPrice": 30900,
+          "discountRate": 4
+        },
+        "brand": {
+          "id": 19096,
+          "name": "더그릴하우스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 17795,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260304175146_af4f1231a71e437d9da97442c1df8c99.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           }
         ]
       }
@@ -549,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 18516,
+          "wishCount": 18559,
           "isWished": false
         },
         "image": {
@@ -573,53 +573,6 @@
     },
     {
       "rank": 14,
-      "title": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25834,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 15,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -643,7 +596,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9115,
+          "wishCount": 9116,
           "isWished": false
         },
         "image": {
@@ -657,6 +610,53 @@
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "title": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25846,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"더블로 진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
           }
         ]
       }
@@ -686,7 +686,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 96084,
+          "wishCount": 96218,
           "isWished": false
         },
         "image": {
@@ -723,7 +723,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 897,
+          "wishCount": 914,
           "isWished": false
         },
         "image": {
@@ -766,7 +766,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31896,
+          "wishCount": 31893,
           "isWished": false
         },
         "image": {
@@ -803,7 +803,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25371,
+          "wishCount": 25374,
           "isWished": false
         },
         "image": {
@@ -846,7 +846,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38495,
+          "wishCount": 38502,
           "isWished": false
         },
         "image": {

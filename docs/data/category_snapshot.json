@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-19T11:10:34.495691Z",
+  "fetched_at": "2026-03-19T14:43:40.062802Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 7,
@@ -31,12 +31,12 @@
         "product_url": null
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "\"쇼핑백 !\" 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
       {
-        "rank": 12,
+        "rank": 11,
         "title": "[카쇼페] 고디바 다크 초콜릿 케이크 + 커피",
         "product_url": null
       }
@@ -65,12 +65,12 @@
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
         "product_url": null
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
@@ -84,7 +84,7 @@
     ],
     "돼지고기": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "더그릴하우스 이베리코 모둠구이 900g (항정살+목살+세크리토벨리, 각300g/기타 옵션 상세설명참조)",
         "product_url": null
       }
@@ -99,11 +99,11 @@
   },
   "category_deltas_vs_prev": {
     "간편식/밀키트": 0,
-    "디저트/케이크": 1,
     "유제품/치즈": 0,
-    "돼지고기": 0,
-    "과일": -1,
+    "면/만두/떡": 0,
     "한우/소고기": 0,
-    "면/만두/떡": 0
+    "과일": 0,
+    "돼지고기": 0,
+    "디저트/케이크": 0
   }
 }
