@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-20T05:09:30.682749Z",
+  "fetched_at": "2026-03-20T08:00:05.404318Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 7,
@@ -19,7 +19,7 @@
         "product_url": null
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "버터떡 8개입 , 줄서서 먹는 SNS유행템!",
         "product_url": null
       }
@@ -31,12 +31,12 @@
         "product_url": null
       },
       {
-        "rank": 9,
+        "rank": 7,
         "title": "\"쇼핑백 !\" 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
       {
-        "rank": 11,
+        "rank": 12,
         "title": "[카쇼페] 고디바 다크 초콜릿 케이크 + 커피",
         "product_url": null
       }
@@ -48,7 +48,7 @@
         "product_url": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "농협안심한우 1등급 '스페셜 구이 ' 900g (등심+채끝+안심, 각 300g)",
         "product_url": null
       },
@@ -58,27 +58,27 @@
         "product_url": null
       }
     ],
+    "면/만두/떡": [
+      {
+        "rank": 5,
+        "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 (602g)",
+        "product_url": null
+      }
+    ],
     "과일": [
       {
-        "rank": 4,
+        "rank": 6,
         "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
         "product_url": null
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
-        "product_url": null
-      }
-    ],
-    "면/만두/떡": [
-      {
-        "rank": 6,
-        "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 (602g)",
         "product_url": null
       }
     ],
@@ -98,12 +98,12 @@
     ]
   },
   "category_deltas_vs_prev": {
-    "돼지고기": 0,
     "간편식/밀키트": 0,
-    "유제품/치즈": 1,
     "면/만두/떡": 0,
+    "유제품/치즈": 0,
     "한우/소고기": 0,
-    "디저트/케이크": 0,
-    "과일": -1
+    "과일": 0,
+    "돼지고기": 0,
+    "디저트/케이크": 0
   }
 }
