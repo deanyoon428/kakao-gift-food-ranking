@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-20T10:06:19.986925Z",
+  "fetched_at": "2026-03-20T11:58:30.179157Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6255,
+          "wishCount": 6343,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88531,
+          "wishCount": 88534,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195840,
+          "wishCount": 195844,
           "isWished": false
         },
         "image": {
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 24796,
+          "wishCount": 24837,
           "isWished": false
         },
         "image": {
@@ -203,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27986,
+          "wishCount": 27991,
           "isWished": false
         },
         "image": {
@@ -283,7 +283,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32131,
+          "wishCount": 32431,
           "isWished": false
         },
         "image": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77827,
+          "wishCount": 77830,
           "isWished": false
         },
         "image": {
@@ -369,7 +369,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26959,
+          "wishCount": 26962,
           "isWished": false
         },
         "image": {
@@ -455,7 +455,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74435,
+          "wishCount": 74448,
           "isWished": false
         },
         "image": {
@@ -502,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25860,
+          "wishCount": 25876,
           "isWished": false
         },
         "image": {
@@ -549,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9139,
+          "wishCount": 9143,
           "isWished": false
         },
         "image": {
@@ -592,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 96611,
+          "wishCount": 96651,
           "isWished": false
         },
         "image": {
@@ -629,7 +629,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 18360,
+          "wishCount": 18394,
           "isWished": false
         },
         "image": {
@@ -672,7 +672,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 969,
+          "wishCount": 980,
           "isWished": false
         },
         "image": {
@@ -715,7 +715,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 18643,
+          "wishCount": 18653,
           "isWished": false
         },
         "image": {
@@ -739,86 +739,6 @@
     },
     {
       "rank": 18,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25386,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 19,
-      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11698788,
-        "productId": 11698788,
-        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 48907,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
-        }
-      }
-    },
-    {
-      "rank": 20,
       "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -851,6 +771,86 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12590327,
+        "productId": 12590327,
+        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 57800,
+          "sellingPrice": 57800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25387,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "title": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 48907,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251231155549_2337b675071f4f8693d8f0ef62a32a70.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[티백 1입 증정] 지금이 제철, 겨울 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
         }
       }
     }
