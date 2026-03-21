@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-21T04:55:49.881289Z",
+  "fetched_at": "2026-03-21T07:11:27.055429Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 7,
@@ -25,7 +25,7 @@
         "product_url": null
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "\"쇼핑백 !\" 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
@@ -42,19 +42,19 @@
         "product_url": null
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "농협안심한우 1등급 '스페셜 구이 ' 900g (등심+채끝+안심, 각 300g)",
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 9,
         "title": "\"맛과 정성의 \" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
         "product_url": null
       }
     ],
     "면/만두/떡": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 (602g)",
         "product_url": null
       }
@@ -66,7 +66,7 @@
         "product_url": null
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
         "product_url": null
       },
@@ -78,20 +78,18 @@
     ],
     "커피/음료": [
       {
-        "rank": 19,
+        "rank": 15,
         "title": "오뚜기밥 200G X 36개 (순차 출고)",
         "product_url": null
       }
     ]
   },
   "category_deltas_vs_prev": {
-    "과일": 0,
     "디저트/케이크": 0,
-    "돼지고기": -1,
-    "간편식/밀키트": -1,
-    "한우/소고기": 1,
-    "면/만두/떡": 0,
+    "한우/소고기": 0,
+    "과일": 0,
     "커피/음료": 0,
-    "유제품/치즈": 1
+    "유제품/치즈": 0,
+    "면/만두/떡": 0
   }
 }
