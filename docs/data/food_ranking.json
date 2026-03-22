@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-22T07:53:05.687212Z",
+  "fetched_at": "2026-03-22T09:05:20.327009Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25793,
+          "wishCount": 25840,
           "isWished": false
         },
         "image": {
@@ -47,6 +47,49 @@
     },
     {
       "rank": 2,
+      "title": "미니멜츠 구슬아이스크림 30개(4가지맛)",
+      "price": "{'basicPrice': 34900, 'sellingPrice': 24900, 'discountRate': 28}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11928305,
+        "productId": 11928305,
+        "name": "미니멜츠 구슬아이스크림 30개(4가지맛)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 34900,
+          "sellingPrice": 24900,
+          "discountRate": 28
+        },
+        "brand": {
+          "id": 4150,
+          "name": "미니멜츠"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 1531,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "미니멜츠 구슬아이스크림 30개(4가지맛)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
       "title": "[디저트 스푼 증정] [아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -70,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26093,
+          "wishCount": 26107,
           "isWished": false
         },
         "image": {
@@ -85,49 +128,6 @@
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
-      "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5259781,
-        "productId": 5259781,
-        "name": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 49900,
-          "sellingPrice": 49900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7948,
-          "name": "푸드장"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 195849,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
-        },
-        "labels": [
           {
             "type": "EXCLUSIVE",
             "name": "단독"
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88605,
+          "wishCount": 88602,
           "isWished": false
         },
         "image": {
@@ -184,6 +184,49 @@
     },
     {
       "rank": 5,
+      "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
+      "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5259781,
+        "productId": 5259781,
+        "name": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 49900,
+          "sellingPrice": 49900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7948,
+          "name": "푸드장"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 195855,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260204095914_927a8c0405a343dfa2cbfe0212ee45b7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -226,7 +269,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -250,7 +293,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28044,
+          "wishCount": 28046,
           "isWished": false
         },
         "image": {
@@ -263,7 +306,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -287,7 +330,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77905,
+          "wishCount": 77911,
           "isWished": false
         },
         "image": {
@@ -306,7 +349,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -330,7 +373,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26974,
+          "wishCount": 26975,
           "isWished": false
         },
         "image": {
@@ -349,7 +392,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
       "product_url": null,
@@ -373,7 +416,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 34930,
+          "wishCount": 34971,
           "isWished": false
         },
         "image": {
@@ -392,7 +435,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -416,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44386,
+          "wishCount": 44388,
           "isWished": false
         },
         "image": {
@@ -435,7 +478,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -459,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9173,
+          "wishCount": 9176,
           "isWished": false
         },
         "image": {
@@ -478,93 +521,7 @@
       }
     },
     {
-      "rank": 12,
-      "title": "미니멜츠 구슬아이스크림 30개(4가지맛)",
-      "price": "{'basicPrice': 34900, 'sellingPrice': 24900, 'discountRate': 28}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11928305,
-        "productId": 11928305,
-        "name": "미니멜츠 구슬아이스크림 30개(4가지맛)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 34900,
-          "sellingPrice": 24900,
-          "discountRate": 28
-        },
-        "brand": {
-          "id": 4150,
-          "name": "미니멜츠"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 1522,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "미니멜츠 구슬아이스크림 30개(4가지맛)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
       "rank": 13,
-      "title": "파라다이스 호텔 포기김치 4kg",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 26900, 'discountRate': 10}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250314151150_1a2119ca2e4643df9cfe352ce4eeceed.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11336002,
-        "productId": 11336002,
-        "name": "파라다이스 호텔 포기김치 4kg",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 26900,
-          "discountRate": 10
-        },
-        "brand": {
-          "id": 10056,
-          "name": "피코크"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 250,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250314151150_1a2119ca2e4643df9cfe352ce4eeceed.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "파라다이스 호텔 포기김치 4kg"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 14,
       "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -588,7 +545,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74493,
+          "wishCount": 74496,
           "isWished": false
         },
         "image": {
@@ -611,7 +568,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
       "price": "{'basicPrice': 15900, 'sellingPrice': 15900, 'discountRate': 0}",
       "product_url": null,
@@ -635,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1124,
+          "wishCount": 1129,
           "isWished": false
         },
         "image": {
@@ -654,7 +611,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -678,7 +635,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38541,
+          "wishCount": 38545,
           "isWished": false
         },
         "image": {
@@ -691,7 +648,87 @@
       }
     },
     {
+      "rank": 16,
+      "title": "파라다이스 호텔 포기김치 4kg",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 26900, 'discountRate': 10}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250314151150_1a2119ca2e4643df9cfe352ce4eeceed.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11336002,
+        "productId": 11336002,
+        "name": "파라다이스 호텔 포기김치 4kg",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 26900,
+          "discountRate": 10
+        },
+        "brand": {
+          "id": 10056,
+          "name": "피코크"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 251,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250314151150_1a2119ca2e4643df9cfe352ce4eeceed.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "파라다이스 호텔 포기김치 4kg"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
       "rank": 17,
+      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
+      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 8027494,
+        "productId": 8027494,
+        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 26900,
+          "sellingPrice": 26900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12317,
+          "name": "람베르츠"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 97200,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
+        }
+      }
+    },
+    {
+      "rank": 18,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -728,78 +765,45 @@
       }
     },
     {
-      "rank": 18,
-      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 8027494,
-        "productId": 8027494,
-        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 26900,
-          "sellingPrice": 26900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 12317,
-          "name": "람베르츠"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 97181,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
-        }
-      }
-    },
-    {
       "rank": 19,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "title": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
+      "price": "{'basicPrice': 13800, 'sellingPrice': 13800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306091452_9eaffee6aec043718cd3177b314876f3.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "id": 1271639,
+        "productId": 1271639,
+        "name": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
+          "basicPrice": 13800,
+          "sellingPrice": 13800,
           "discountRate": 0
         },
         "brand": {
-          "id": 15394,
-          "name": "한우맘"
+          "id": 13861,
+          "name": "마즈"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25387,
+          "wishCount": 18822,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260306091452_9eaffee6aec043718cd3177b314876f3.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+          "EVENT_SUG_NAME_MODEL": "NEW 상쾌한 이클립스 무설탕캔디 8개입+한정판 키링 케이스"
         },
         "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
           {
             "type": "EXCLUSIVE",
             "name": "단독"
