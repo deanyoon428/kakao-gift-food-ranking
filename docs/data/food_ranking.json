@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-22T13:57:11.432255Z",
+  "fetched_at": "2026-03-22T14:58:32.172823Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26009,
+          "wishCount": 26061,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26153,
+          "wishCount": 26159,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88623,
+          "wishCount": 88625,
           "isWished": false
         },
         "image": {
@@ -164,7 +164,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195863,
+          "wishCount": 195865,
           "isWished": false
         },
         "image": {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1567,
+          "wishCount": 1577,
           "isWished": false
         },
         "image": {
@@ -250,7 +250,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41968,
+          "wishCount": 41975,
           "isWished": false
         },
         "image": {
@@ -330,7 +330,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77920,
+          "wishCount": 77924,
           "isWished": false
         },
         "image": {
@@ -350,49 +350,6 @@
     },
     {
       "rank": 9,
-      "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
-      "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12323153,
-        "productId": 12323153,
-        "name": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 38900,
-          "sellingPrice": 33000,
-          "discountRate": 15
-        },
-        "brand": {
-          "id": 15035,
-          "name": "케이미트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 35181,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 10,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -416,7 +373,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26973,
+          "wishCount": 26974,
           "isWished": false
         },
         "image": {
@@ -425,6 +382,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12323153,
+        "productId": 12323153,
+        "name": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 38900,
+          "sellingPrice": 33000,
+          "discountRate": 15
+        },
+        "brand": {
+          "id": 15035,
+          "name": "케이미트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 35219,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
         },
         "labels": [
           {
@@ -459,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44387,
+          "wishCount": 44393,
           "isWished": false
         },
         "image": {
@@ -502,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9182,
+          "wishCount": 9181,
           "isWished": false
         },
         "image": {
@@ -592,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1155,
+          "wishCount": 1154,
           "isWished": false
         },
         "image": {
@@ -612,6 +612,49 @@
     },
     {
       "rank": 15,
+      "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 602g x 2봉",
+      "price": "{'basicPrice': 45800, 'sellingPrice': 28900, 'discountRate': 36}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250519092451_adb2f1c36f664361b633ea5593ab36e1.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12147925,
+        "productId": 12147925,
+        "name": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 602g x 2봉",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45800,
+          "sellingPrice": 28900,
+          "discountRate": 36
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 506,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250519092451_adb2f1c36f664361b633ea5593ab36e1.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 602g x 2봉"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 16,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -635,7 +678,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31833,
+          "wishCount": 31832,
           "isWished": false
         },
         "image": {
@@ -644,43 +687,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
-        }
-      }
-    },
-    {
-      "rank": 16,
-      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 8027494,
-        "productId": 8027494,
-        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 26900,
-          "sellingPrice": 26900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 12317,
-          "name": "람베르츠"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 97286,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
         }
       }
     },
@@ -709,7 +715,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38543,
+          "wishCount": 38546,
           "isWished": false
         },
         "image": {
@@ -723,6 +729,43 @@
     },
     {
       "rank": 18,
+      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
+      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 8027494,
+        "productId": 8027494,
+        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 26900,
+          "sellingPrice": 26900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12317,
+          "name": "람베르츠"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 97295,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
+        }
+      }
+    },
+    {
+      "rank": 19,
       "title": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
       "price": "{'basicPrice': 26900, 'sellingPrice': 26000, 'discountRate': 3}",
       "product_url": null,
@@ -746,7 +789,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 40308,
+          "wishCount": 40360,
           "isWished": false
         },
         "image": {
@@ -765,7 +808,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
       "price": "{'basicPrice': 49900, 'sellingPrice': 45900, 'discountRate': 8}",
       "product_url": null,
@@ -789,7 +832,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13606,
+          "wishCount": 13604,
           "isWished": false
         },
         "image": {
@@ -803,49 +846,6 @@
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 20,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25394,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
           }
         ]
       }
