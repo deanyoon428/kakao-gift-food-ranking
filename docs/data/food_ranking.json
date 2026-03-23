@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-23T05:50:25.080703Z",
+  "fetched_at": "2026-03-23T09:16:24.017320Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26519,
+          "wishCount": 26633,
           "isWished": false
         },
         "image": {
@@ -47,6 +47,49 @@
     },
     {
       "rank": 2,
+      "title": "태랑한우 육즙 팡팡 한우 스테이크 3팩",
+      "price": "{'basicPrice': 15000, 'sellingPrice': 9900, 'discountRate': 34}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250207113145_f2c3dc5a5c324a52bf6e6349066890b7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13025613,
+        "productId": 13025613,
+        "name": "태랑한우 육즙 팡팡 한우 스테이크 3팩",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 15000,
+          "sellingPrice": 9900,
+          "discountRate": 34
+        },
+        "brand": {
+          "id": 12841,
+          "name": "태랑"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 374,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250207113145_f2c3dc5a5c324a52bf6e6349066890b7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "태랑한우 육즙 팡팡 한우 스테이크 3팩"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -70,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195882,
+          "wishCount": 195892,
           "isWished": false
         },
         "image": {
@@ -89,7 +132,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -113,7 +156,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88646,
+          "wishCount": 88660,
           "isWished": false
         },
         "image": {
@@ -136,7 +179,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -160,7 +203,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41997,
+          "wishCount": 42005,
           "isWished": false
         },
         "image": {
@@ -174,53 +217,6 @@
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26187,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
           }
         ]
       }
@@ -250,7 +246,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28058,
+          "wishCount": 28065,
           "isWished": false
         },
         "image": {
@@ -264,6 +260,53 @@
     },
     {
       "rank": 7,
+      "title": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26195,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
       "title": "미니멜츠 구슬아이스크림 30개(4가지맛)",
       "price": "{'basicPrice': 34900, 'sellingPrice': 24900, 'discountRate': 28}",
       "product_url": null,
@@ -287,7 +330,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1637,
+          "wishCount": 1648,
           "isWished": false
         },
         "image": {
@@ -296,49 +339,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "미니멜츠 구슬아이스크림 30개(4가지맛)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 8,
-      "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
-      "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12323153,
-        "productId": 12323153,
-        "name": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 38900,
-          "sellingPrice": 33000,
-          "discountRate": 15
-        },
-        "brand": {
-          "id": 15035,
-          "name": "케이미트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 35566,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
         },
         "labels": [
           {
@@ -373,7 +373,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77913,
+          "wishCount": 77908,
           "isWished": false
         },
         "image": {
@@ -393,6 +393,49 @@
     },
     {
       "rank": 10,
+      "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12323153,
+        "productId": 12323153,
+        "name": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 38900,
+          "sellingPrice": 33000,
+          "discountRate": 15
+        },
+        "brand": {
+          "id": 15035,
+          "name": "케이미트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 35684,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225112200_55213c57980340fc8c9af98509d4e078.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -416,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26972,
+          "wishCount": 26967,
           "isWished": false
         },
         "image": {
@@ -435,7 +478,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -459,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44394,
+          "wishCount": 44397,
           "isWished": false
         },
         "image": {
@@ -473,49 +516,6 @@
           {
             "type": "EXCLUSIVE",
             "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 12,
-      "title": "[2박스] 밀크앤허니 프리미엄 호두파이",
-      "price": "{'basicPrice': 43800, 'sellingPrice': 28500, 'discountRate': 34}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12407622,
-        "productId": 12407622,
-        "name": "[2박스] 밀크앤허니 프리미엄 호두파이",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 43800,
-          "sellingPrice": 28500,
-          "discountRate": 34
-        },
-        "brand": {
-          "id": 2184,
-          "name": "신세계푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 543,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[2박스] 밀크앤허니 프리미엄 호두파이"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           }
         ]
       }
@@ -545,7 +545,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9191,
+          "wishCount": 9190,
           "isWished": false
         },
         "image": {
@@ -588,7 +588,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74512,
+          "wishCount": 74521,
           "isWished": false
         },
         "image": {
@@ -635,7 +635,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1197,
+          "wishCount": 1210,
           "isWished": false
         },
         "image": {
@@ -655,49 +655,6 @@
     },
     {
       "rank": 16,
-      "title": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
-      "price": "{'basicPrice': 51900, 'sellingPrice': 34900, 'discountRate': 32}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12578020,
-        "productId": 12578020,
-        "name": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 51900,
-          "sellingPrice": 34900,
-          "discountRate": 32
-        },
-        "brand": {
-          "id": 2184,
-          "name": "신세계푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 767,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 17,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -721,7 +678,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31831,
+          "wishCount": 31822,
           "isWished": false
         },
         "image": {
@@ -734,87 +691,93 @@
       }
     },
     {
-      "rank": 18,
-      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "rank": 17,
+      "title": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
+      "price": "{'basicPrice': 51900, 'sellingPrice': 34900, 'discountRate': 32}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5330373,
-        "productId": 5330373,
-        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+        "id": 12578020,
+        "productId": 12578020,
+        "name": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
+          "basicPrice": 51900,
+          "sellingPrice": 34900,
+          "discountRate": 32
         },
         "brand": {
-          "id": 13337,
-          "name": "조선호텔델리"
+          "id": 2184,
+          "name": "신세계푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38538,
+          "wishCount": 822,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
-        }
-      }
-    },
-    {
-      "rank": 19,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25394,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+          "EVENT_SUG_NAME_MODEL": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!"
         },
         "labels": [
           {
-            "type": "EXCLUSIVE",
-            "name": "단독"
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           }
         ]
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "title": "[2박스] 밀크앤허니 프리미엄 호두파이",
+      "price": "{'basicPrice': 43800, 'sellingPrice': 28500, 'discountRate': 34}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12407622,
+        "productId": 12407622,
+        "name": "[2박스] 밀크앤허니 프리미엄 호두파이",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 43800,
+          "sellingPrice": 28500,
+          "discountRate": 34
+        },
+        "brand": {
+          "id": 2184,
+          "name": "신세계푸드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 565,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[2박스] 밀크앤허니 프리미엄 호두파이"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 19,
       "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
       "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
       "product_url": null,
@@ -838,7 +801,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 97441,
+          "wishCount": 97491,
           "isWished": false
         },
         "image": {
@@ -847,6 +810,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13337,
+          "name": "조선호텔델리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 38544,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         }
       }
     }
