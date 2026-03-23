@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-22T23:58:33.111935Z",
+  "fetched_at": "2026-03-23T05:50:25.080703Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26279,
+          "wishCount": 26519,
           "isWished": false
         },
         "image": {
@@ -47,53 +47,6 @@
     },
     {
       "rank": 2,
-      "title": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26172,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -117,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195864,
+          "wishCount": 195882,
           "isWished": false
         },
         "image": {
@@ -136,7 +89,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
@@ -160,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88637,
+          "wishCount": 88646,
           "isWished": false
         },
         "image": {
@@ -183,50 +136,7 @@
       }
     },
     {
-      "rank": 5,
-      "title": "미니멜츠 구슬아이스크림 30개(4가지맛)",
-      "price": "{'basicPrice': 34900, 'sellingPrice': 24900, 'discountRate': 28}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11928305,
-        "productId": 11928305,
-        "name": "미니멜츠 구슬아이스크림 30개(4가지맛)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 34900,
-          "sellingPrice": 24900,
-          "discountRate": 28
-        },
-        "brand": {
-          "id": 4150,
-          "name": "미니멜츠"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 1606,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "미니멜츠 구슬아이스크림 30개(4가지맛)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -250,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 41977,
+          "wishCount": 41997,
           "isWished": false
         },
         "image": {
@@ -269,7 +179,54 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26187,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085144_5d718a09ad0244b9a6087d3b6a6ec4cc.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[아메리카노 쿠폰 증정] \"진한 마음을 담아\" 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -293,7 +250,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28054,
+          "wishCount": 28058,
           "isWished": false
         },
         "image": {
@@ -306,39 +263,39 @@
       }
     },
     {
-      "rank": 8,
-      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
-      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
+      "rank": 7,
+      "title": "미니멜츠 구슬아이스크림 30개(4가지맛)",
+      "price": "{'basicPrice': 34900, 'sellingPrice': 24900, 'discountRate': 28}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12609227,
-        "productId": 12609227,
-        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+        "id": 11928305,
+        "productId": 11928305,
+        "name": "미니멜츠 구슬아이스크림 30개(4가지맛)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 29000,
-          "sellingPrice": 29000,
-          "discountRate": 0
+          "basicPrice": 34900,
+          "sellingPrice": 24900,
+          "discountRate": 28
         },
         "brand": {
-          "id": 18389,
-          "name": "하트티라미수"
+          "id": 4150,
+          "name": "미니멜츠"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 77923,
+          "wishCount": 1637,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240321184255_71cd1ca994ae40c89610a0b79f0eeb65.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
+          "EVENT_SUG_NAME_MODEL": "미니멜츠 구슬아이스크림 30개(4가지맛)"
         },
         "labels": [
           {
@@ -349,7 +306,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 38900, 'sellingPrice': 33000, 'discountRate': 15}",
       "product_url": null,
@@ -373,7 +330,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 35394,
+          "wishCount": 35566,
           "isWished": false
         },
         "image": {
@@ -382,6 +339,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"맛과 정성의 선물\" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12609227,
+        "productId": 12609227,
+        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29000,
+          "sellingPrice": 29000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18389,
+          "name": "하트티라미수"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 77913,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
         },
         "labels": [
           {
@@ -416,7 +416,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26973,
+          "wishCount": 26972,
           "isWished": false
         },
         "image": {
@@ -459,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44392,
+          "wishCount": 44394,
           "isWished": false
         },
         "image": {
@@ -479,47 +479,43 @@
     },
     {
       "rank": 12,
-      "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "title": "[2박스] 밀크앤허니 프리미엄 호두파이",
+      "price": "{'basicPrice': 43800, 'sellingPrice': 28500, 'discountRate': 34}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "id": 12407622,
+        "productId": 12407622,
+        "name": "[2박스] 밀크앤허니 프리미엄 호두파이",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
+          "basicPrice": 43800,
+          "sellingPrice": 28500,
+          "discountRate": 34
         },
         "brand": {
-          "id": 18350,
-          "name": "고디바베이커리"
+          "id": 2184,
+          "name": "신세계푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74504,
+          "wishCount": 543,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251028164539_f1bd4ffde5cb46a19b368a9a0db517b7.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+          "EVENT_SUG_NAME_MODEL": "[2박스] 밀크앤허니 프리미엄 호두파이"
         },
         "labels": [
           {
             "type": "SHOPPING_FESTA",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
           }
         ]
       }
@@ -549,7 +545,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9184,
+          "wishCount": 9191,
           "isWished": false
         },
         "image": {
@@ -569,6 +565,53 @@
     },
     {
       "rank": 14,
+      "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18350,
+          "name": "고디바베이커리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 74512,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 15,
       "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
       "price": "{'basicPrice': 15900, 'sellingPrice': 15900, 'discountRate': 0}",
       "product_url": null,
@@ -592,7 +635,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1179,
+          "wishCount": 1197,
           "isWished": false
         },
         "image": {
@@ -611,50 +654,87 @@
       }
     },
     {
-      "rank": 15,
-      "title": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
-      "price": "{'basicPrice': 31900, 'sellingPrice': 31900, 'discountRate': 0}",
+      "rank": 16,
+      "title": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
+      "price": "{'basicPrice': 51900, 'sellingPrice': 34900, 'discountRate': 32}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305144053_c9b58980d3494fecb9b2cea1226a019a.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 2371889,
-        "productId": 2371889,
-        "name": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크",
+        "id": 12578020,
+        "productId": 12578020,
+        "name": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 31900,
-          "sellingPrice": 31900,
-          "discountRate": 0
+          "basicPrice": 51900,
+          "sellingPrice": 34900,
+          "discountRate": 32
         },
         "brand": {
-          "id": 14047,
-          "name": "오설록 디저트"
+          "id": 2184,
+          "name": "신세계푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 68561,
+          "wishCount": 767,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305144053_c9b58980d3494fecb9b2cea1226a019a.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260116181521_9bcac1db0d8e4b7881d0d2fd87a1139b.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] 말차&치즈의 클래식 조합, 오설록 프리미엄 녹차 치즈 케이크"
+          "EVENT_SUG_NAME_MODEL": "[베키아에누보] 바질 샌드위치 4팩(총 12입) (바질모짜 2팩+바질 토마토 2팩)/신상품 2종 런칭!"
         },
         "labels": [
           {
-            "type": "EXCLUSIVE",
-            "name": "단독"
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
           }
         ]
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146851,
+        "productId": 13146851,
+        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12255,
+          "name": "원월드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 31831,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
+        }
+      }
+    },
+    {
+      "rank": 18,
       "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -678,7 +758,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38542,
+          "wishCount": 38538,
           "isWished": false
         },
         "image": {
@@ -688,86 +768,6 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         }
-      }
-    },
-    {
-      "rank": 17,
-      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 8027494,
-        "productId": 8027494,
-        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 26900,
-          "sellingPrice": 26900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 12317,
-          "name": "람베르츠"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 97365,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
-        }
-      }
-    },
-    {
-      "rank": 18,
-      "title": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
-      "price": "{'basicPrice': 26900, 'sellingPrice': 26000, 'discountRate': 3}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313141924_620d004f350f4dcf99aa7f6a57651b0b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12322273,
-        "productId": 12322273,
-        "name": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 26900,
-          "sellingPrice": 26000,
-          "discountRate": 3
-        },
-        "brand": {
-          "id": 15035,
-          "name": "케이미트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 40564,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313141924_620d004f350f4dcf99aa7f6a57651b0b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
       }
     },
     {
@@ -795,7 +795,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25393,
+          "wishCount": 25394,
           "isWished": false
         },
         "image": {
@@ -815,45 +815,39 @@
     },
     {
       "rank": 20,
-      "title": "[베어리스타 캔들 증정] \"블루베리&치즈의 달콤한 조화\" 스타벅스 더블 블루베리 쿠키 치즈 케이크 (마블케이크)",
-      "price": "{'basicPrice': 34200, 'sellingPrice': 32400, 'discountRate': 5}",
+      "title": "\"300년 전통\" 독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
+      "price": "{'basicPrice': 26900, 'sellingPrice': 26900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319085101_4d05a13614674880b6f698625af9e2e3.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 11159505,
-        "productId": 11159505,
-        "name": "[베어리스타 캔들 증정] \"블루베리&치즈의 달콤한 조화\" 스타벅스 더블 블루베리 쿠키 치즈 케이크 (마블케이크)",
+        "id": 8027494,
+        "productId": 8027494,
+        "name": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 34200,
-          "sellingPrice": 32400,
-          "discountRate": 5
+          "basicPrice": 26900,
+          "sellingPrice": 26900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 12317,
+          "name": "람베르츠"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17175,
+          "wishCount": 97441,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319085101_4d05a13614674880b6f698625af9e2e3.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316090253_f9b935b0725e4c349e0bc1d587e42b9e.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[베어리스타 캔들 증정] \"블루베리&치즈의 달콤한 조화\" 스타벅스 더블 블루베리 쿠키 치즈 케이크 (마블케이크)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
+          "EVENT_SUG_NAME_MODEL": "\"300년 전통\"  독일 람베르츠 베스트 초콜릿 쿠키 셀렉션"
+        }
       }
     }
   ]
