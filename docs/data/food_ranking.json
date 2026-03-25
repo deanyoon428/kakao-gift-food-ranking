@@ -1,11 +1,11 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-25T20:57:49.824205Z",
+  "fetched_at": "2026-03-25T23:01:51.179637Z",
   "items": [
     {
       "rank": 1,
       "title": "\"항공직송\" 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-      "price": "{'basicPrice': 39800, 'sellingPrice': 26900, 'discountRate': 32}",
+      "price": "{'basicPrice': 39800, 'sellingPrice': 39800, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -15,8 +15,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 39800,
-          "sellingPrice": 26900,
-          "discountRate": 32
+          "sellingPrice": 39800,
+          "discountRate": 0
         },
         "brand": {
           "id": 9839,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11338,
+          "wishCount": 11356,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195941,
+          "wishCount": 195935,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 88782,
+          "wishCount": 88783,
           "isWished": false
         },
         "image": {
@@ -137,14 +137,14 @@
     },
     {
       "rank": 4,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리) + 올리브영 1만원권 증정",
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325102035_e0b03bc0d58d4c0cac2fc12055e14d10.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
         "id": 12859916,
         "productId": 12859916,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리) + 올리브영 1만원권 증정",
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
         "productType": "Shipping",
         "price": {
           "basicPrice": 35900,
@@ -160,15 +160,15 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11074,
+          "wishCount": 11078,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325102035_e0b03bc0d58d4c0cac2fc12055e14d10.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리) + 올리브영 1만원권 증정"
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)"
         },
         "labels": [
           {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42125,
+          "wishCount": 42127,
           "isWished": false
         },
         "image": {
@@ -250,7 +250,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28129,
+          "wishCount": 28130,
           "isWished": false
         },
         "image": {
@@ -373,7 +373,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 37192,
+          "wishCount": 37228,
           "isWished": false
         },
         "image": {
@@ -416,7 +416,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44419,
+          "wishCount": 44418,
           "isWished": false
         },
         "image": {
@@ -459,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26233,
+          "wishCount": 26235,
           "isWished": false
         },
         "image": {
@@ -506,7 +506,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 571,
+          "wishCount": 573,
           "isWished": false
         },
         "image": {
@@ -549,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74579,
+          "wishCount": 74582,
           "isWished": false
         },
         "image": {
@@ -596,7 +596,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9257,
+          "wishCount": 9256,
           "isWished": false
         },
         "image": {
@@ -639,7 +639,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 98905,
+          "wishCount": 98900,
           "isWished": false
         },
         "image": {
@@ -676,7 +676,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1374,
+          "wishCount": 1378,
           "isWished": false
         },
         "image": {
@@ -719,7 +719,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2715,
+          "wishCount": 2721,
           "isWished": false
         },
         "image": {
@@ -793,7 +793,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38589,
+          "wishCount": 38591,
           "isWished": false
         },
         "image": {
@@ -830,7 +830,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25407,
+          "wishCount": 25409,
           "isWished": false
         },
         "image": {
