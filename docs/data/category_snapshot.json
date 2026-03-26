@@ -1,15 +1,15 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-26T08:38:35.386137Z",
+  "fetched_at": "2026-03-26T11:57:56.591266Z",
   "top_n": 100,
   "category_counts": {
+    "디저트/케이크": 6,
     "한우/소고기": 5,
-    "디저트/케이크": 5,
     "과일": 4,
     "유제품/치즈": 2,
-    "기타": 2,
     "간편식/밀키트": 1,
-    "면/만두/떡": 1
+    "면/만두/떡": 1,
+    "기타": 1
   },
   "category_examples": {
     "유제품/치즈": [
@@ -19,7 +19,7 @@
         "product_url": null
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "버터떡 8개입 , 줄서서 먹는 SNS유행템!",
         "product_url": null
       }
@@ -43,7 +43,7 @@
         "product_url": null
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "\"맛과 정성의 \" 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
         "product_url": null
       }
@@ -55,7 +55,7 @@
         "product_url": null
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "\"쇼핑백 !\" 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
@@ -72,43 +72,38 @@
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
         "product_url": null
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
     ],
     "면/만두/떡": [
       {
-        "rank": 12,
+        "rank": 7,
         "title": "[두쫀쿠 후발주자] 쫀득한 광주 명물 창억떡 호박인절미 박스 (602g)",
         "product_url": null
       }
     ],
     "기타": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "훈제 점보 통닭다리구이 500g(250g*2팩)",
-        "product_url": null
-      },
-      {
-        "rank": 20,
-        "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
         "product_url": null
       }
     ]
   },
   "category_deltas_vs_prev": {
-    "면/만두/떡": 1,
-    "간편식/밀키트": 0,
-    "디저트/케이크": -1,
-    "한우/소고기": -1,
     "유제품/치즈": 0,
-    "기타": 1,
-    "과일": 0
+    "간편식/밀키트": 0,
+    "디저트/케이크": 1,
+    "기타": -1,
+    "과일": 0,
+    "면/만두/떡": 0,
+    "한우/소고기": 0
   }
 }
