@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-03-28T05:17:08.880899Z",
+  "fetched_at": "2026-03-28T07:58:57.570147Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 195975,
+          "wishCount": 195976,
           "isWished": false
         },
         "image": {
@@ -117,7 +117,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42255,
+          "wishCount": 42258,
           "isWished": false
         },
         "image": {
@@ -160,7 +160,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28198,
+          "wishCount": 28204,
           "isWished": false
         },
         "image": {
@@ -197,7 +197,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 136,
+          "wishCount": 152,
           "isWished": false
         },
         "image": {
@@ -217,49 +217,6 @@
     },
     {
       "rank": 6,
-      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
-      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12609227,
-        "productId": 12609227,
-        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29000,
-          "sellingPrice": 29000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 18389,
-          "name": "하트티라미수"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 78154,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 7,
       "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
       "price": "{'basicPrice': 22000, 'sellingPrice': 20000, 'discountRate': 9}",
       "product_url": null,
@@ -283,7 +240,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4871,
+          "wishCount": 4992,
           "isWished": false
         },
         "image": {
@@ -306,7 +263,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 22900, 'discountRate': 8}",
       "product_url": null,
@@ -330,7 +287,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27053,
+          "wishCount": 27056,
           "isWished": false
         },
         "image": {
@@ -339,6 +296,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12609227,
+        "productId": 12609227,
+        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29000,
+          "sellingPrice": 29000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18389,
+          "name": "하트티라미수"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 78158,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319182130_92040cee9fdf442fad2ed7b23b883d3e.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
         },
         "labels": [
           {
@@ -373,7 +373,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38492,
+          "wishCount": 38436,
           "isWished": false
         },
         "image": {
@@ -416,7 +416,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44432,
+          "wishCount": 44434,
           "isWished": false
         },
         "image": {
@@ -459,7 +459,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26295,
+          "wishCount": 26300,
           "isWished": false
         },
         "image": {
@@ -483,6 +483,49 @@
     },
     {
       "rank": 12,
+      "title": "롯데 두바이 쫀득 찰떡파이(10봉입)X3곽 외 몽쉘 빈츠 말차 스트로베리 골라담기",
+      "price": "{'basicPrice': 30000, 'sellingPrice': 22000, 'discountRate': 26}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319091301_6c789a698a8e4009afd3fd71b4314e41.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13061696,
+        "productId": 13061696,
+        "name": "롯데 두바이 쫀득 찰떡파이(10봉입)X3곽 외 몽쉘 빈츠 말차 스트로베리 골라담기",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 30000,
+          "sellingPrice": 22000,
+          "discountRate": 26
+        },
+        "brand": {
+          "id": 15680,
+          "name": "롯데웰푸드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 932,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319091301_6c789a698a8e4009afd3fd71b4314e41.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "롯데 두바이 쫀득 찰떡파이(10봉입)X3곽 외 몽쉘 빈츠 말차 스트로베리 골라담기"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 13,
       "title": "\"항공직송\" 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
       "price": "{'basicPrice': 39800, 'sellingPrice': 39800, 'discountRate': 0}",
       "product_url": null,
@@ -506,7 +549,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11347,
+          "wishCount": 11364,
           "isWished": false
         },
         "image": {
@@ -525,7 +568,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "[카쇼페] [단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -549,7 +592,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74654,
+          "wishCount": 74649,
           "isWished": false
         },
         "image": {
@@ -572,93 +615,7 @@
       }
     },
     {
-      "rank": 14,
-      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13145620,
-        "productId": 13145620,
-        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 69800,
-          "sellingPrice": 69800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15226,
-          "name": "대정한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 23245,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
       "rank": 15,
-      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 9915753,
-        "productId": 9915753,
-        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 29900,
-          "discountRate": 9
-        },
-        "brand": {
-          "id": 12299,
-          "name": "탐라왕"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 9283,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 16,
       "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
       "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
       "product_url": null,
@@ -682,7 +639,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3073,
+          "wishCount": 3097,
           "isWished": false
         },
         "image": {
@@ -701,7 +658,93 @@
       }
     },
     {
+      "rank": 16,
+      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 9915753,
+        "productId": 9915753,
+        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 29900,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 12299,
+          "name": "탐라왕"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 9285,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224091947_a0ac50742bd24a86b1463ed37902d59f.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
       "rank": 17,
+      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13145620,
+        "productId": 13145620,
+        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 69800,
+          "sellingPrice": 69800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15226,
+          "name": "대정한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 23247,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
+        },
+        "labels": [
+          {
+            "type": "SHOPPING_FESTA",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 18,
       "title": "스타벅스 캡슐 커피 9박스(90캡슐) by 네스프레소 + 프리로스트 연두 머그 350ml 증정",
       "price": "{'basicPrice': 80900, 'sellingPrice': 56900, 'discountRate': 29}",
       "product_url": null,
@@ -725,7 +768,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 870,
+          "wishCount": 873,
           "isWished": false
         },
         "image": {
@@ -734,49 +777,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "스타벅스 캡슐 커피 9박스(90캡슐) by 네스프레소 + 프리로스트 연두 머그 350ml 증정"
-        },
-        "labels": [
-          {
-            "type": "SHOPPING_FESTA",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/jLqza/20260226_WPTXKBBEXVBZ6025053434238280504.png"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 18,
-      "title": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
-      "price": "{'basicPrice': 15900, 'sellingPrice': 15900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13089568,
-        "productId": 13089568,
-        "name": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 15900,
-          "sellingPrice": 15900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 11210,
-          "name": "디디얌"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 1513,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260311084707_82e6018476f441e592bcda14307de505.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"디저트추천\" 상하이 버터떡 4구세트 대왕버전"
         },
         "labels": [
           {
@@ -811,7 +811,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38632,
+          "wishCount": 38634,
           "isWished": false
         },
         "image": {
@@ -848,7 +848,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48869,
+          "wishCount": 48867,
           "isWished": false
         },
         "image": {
