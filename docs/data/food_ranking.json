@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-03T09:04:02.080339Z",
+  "fetched_at": "2026-04-03T10:52:30.326778Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5021,
+          "wishCount": 5039,
           "isWished": false
         },
         "image": {
@@ -64,7 +64,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196133,
+          "wishCount": 196129,
           "isWished": false
         },
         "image": {
@@ -107,7 +107,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89003,
+          "wishCount": 89006,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28430,
+          "wishCount": 28435,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42438,
+          "wishCount": 42439,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8595,
+          "wishCount": 8673,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78409,
+          "wishCount": 78415,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44579,
+          "wishCount": 44584,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26442,
+          "wishCount": 26443,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27106,
+          "wishCount": 27105,
           "isWished": false
         },
         "image": {
@@ -427,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31750,
+          "wishCount": 31751,
           "isWished": false
         },
         "image": {
@@ -464,7 +464,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9408,
+          "wishCount": 9410,
           "isWished": false
         },
         "image": {
@@ -478,86 +478,6 @@
     },
     {
       "rank": 13,
-      "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13146569,
-        "productId": 13146569,
-        "name": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 28333,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상"
-        }
-      }
-    },
-    {
-      "rank": 14,
-      "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 5431,
-          "name": "고디바"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 74742,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 15,
       "title": "농협안심한우 1++등급 '감동' 한우 구이세트 400g (갈비살200g+살치살200g)",
       "price": "{'basicPrice': 59800, 'sellingPrice': 52900, 'discountRate': 11}",
       "product_url": null,
@@ -581,7 +501,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9497,
+          "wishCount": 9503,
           "isWished": false
         },
         "image": {
@@ -590,6 +510,86 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '감동' 한우 구이세트 400g (갈비살200g+살치살200g)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
+      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146569,
+        "productId": 13146569,
+        "name": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 50000,
+          "sellingPrice": 50000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 9839,
+          "name": "온브릭스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 28334,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260224172327_eccca10fcda444f8bc360b81675f434c.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상"
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 5431,
+          "name": "고디바"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 74746,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
         },
         "labels": [
           {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1221,
+          "wishCount": 1244,
           "isWished": false
         },
         "image": {
@@ -661,7 +661,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 36635,
+          "wishCount": 36630,
           "isWished": false
         },
         "image": {
@@ -698,7 +698,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23282,
+          "wishCount": 23285,
           "isWished": false
         },
         "image": {
@@ -755,38 +755,38 @@
     },
     {
       "rank": 20,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
           "discountRate": 0
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13146,
+          "wishCount": 48870,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+          "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
         }
       }
     }
