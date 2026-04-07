@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-07T07:42:52.718899Z",
+  "fetched_at": "2026-04-07T09:13:16.081001Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196165,
+          "wishCount": 196172,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89131,
+          "wishCount": 89132,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28538,
+          "wishCount": 28540,
           "isWished": false
         },
         "image": {
@@ -164,49 +164,6 @@
     },
     {
       "rank": 5,
-      "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
-      "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7609867,
-        "productId": 7609867,
-        "name": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 64900,
-          "sellingPrice": 64900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 44647,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 6,
       "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -230,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8712,
+          "wishCount": 8717,
           "isWished": false
         },
         "image": {
@@ -239,6 +196,49 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
+      "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7609867,
+        "productId": 7609867,
+        "name": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 64900,
+          "sellingPrice": 64900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 44648,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)"
         },
         "labels": [
           {
@@ -273,7 +273,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78597,
+          "wishCount": 78598,
           "isWished": false
         },
         "image": {
@@ -310,7 +310,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2048,
+          "wishCount": 2074,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27114,
+          "wishCount": 27110,
           "isWished": false
         },
         "image": {
@@ -384,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26543,
+          "wishCount": 26547,
           "isWished": false
         },
         "image": {
@@ -427,7 +427,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9491,
+          "wishCount": 9494,
           "isWished": false
         },
         "image": {
@@ -464,7 +464,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31746,
+          "wishCount": 31743,
           "isWished": false
         },
         "image": {
@@ -501,7 +501,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8649,
+          "wishCount": 8647,
           "isWished": false
         },
         "image": {
@@ -538,7 +538,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74817,
+          "wishCount": 74818,
           "isWished": false
         },
         "image": {
@@ -581,7 +581,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28258,
+          "wishCount": 28253,
           "isWished": false
         },
         "image": {
@@ -595,43 +595,6 @@
     },
     {
       "rank": 16,
-      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13145620,
-        "productId": 13145620,
-        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 69800,
-          "sellingPrice": 69800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15226,
-          "name": "대정한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 23339,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
       "product_url": null,
@@ -655,7 +618,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 14430,
+          "wishCount": 14484,
           "isWished": false
         },
         "image": {
@@ -664,6 +627,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 48871,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
         }
       }
     },
@@ -706,75 +706,75 @@
     },
     {
       "rank": 19,
-      "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 11698788,
-        "productId": 11698788,
-        "name": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+        "id": 13145620,
+        "productId": 13145620,
+        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
+          "basicPrice": 69800,
+          "sellingPrice": 69800,
           "discountRate": 0
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 15226,
+          "name": "대정한우"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48870,
+          "wishCount": 23339,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
+          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
         }
       }
     },
     {
       "rank": 20,
-      "title": "햇반 테이스팅세트 작은공기 130G 40개 4종",
-      "price": "{'basicPrice': 35900, 'sellingPrice': 30000, 'discountRate': 16}",
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260306150504_6431040e3ef94e87a5e90bed8d2077f8.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13063593,
-        "productId": 13063593,
-        "name": "햇반 테이스팅세트 작은공기 130G 40개 4종",
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 35900,
-          "sellingPrice": 30000,
-          "discountRate": 16
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 1105,
-          "name": "CJ제일제당"
+          "id": 13337,
+          "name": "조선호텔델리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 76,
+          "wishCount": 38766,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260306150504_6431040e3ef94e87a5e90bed8d2077f8.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "햇반 테이스팅세트 작은공기 130G 40개 4종"
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         }
       }
     }
