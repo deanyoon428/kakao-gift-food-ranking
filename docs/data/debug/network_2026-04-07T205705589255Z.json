@@ -1,0 +1,96 @@
+[
+  {
+    "url": "https://gift.kakao.com/a/gift-home/v1/lnbs?uncache=1775595423295",
+    "sample_keys": [
+      "basicLnbMenus",
+      "luxLnbMenus"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v2/main?uncache=1775595423295",
+    "sample_keys": [
+      "nowTimestamp"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/meta?uncache=1775595423744",
+    "sample_keys": [
+      "purchaseHistorySegment",
+      "cooperativeAdBrandIds",
+      "giftTalkChannelFriend"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/header?uncache=1775595424054",
+    "sample_keys": []
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/required-data?uncache=1775595424096",
+    "sample_keys": [
+      "categoryTabs",
+      "giftThemeTabs",
+      "trendingTabs"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/gift/lottie-animations/tabbar/img_gift_bottomtab_lux_idle_241017.json",
+    "sample_keys": [
+      "v",
+      "fr",
+      "ip",
+      "op",
+      "w",
+      "h",
+      "nm",
+      "ddd",
+      "assets",
+      "layers",
+      "markers"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/category-tab/search?uncache=1775595424250",
+    "sample_keys": [
+      "updatedAt",
+      "last",
+      "feedbackData",
+      "products"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/ads?tabType=CATEGORY&navId=4&subNavId=11100&uncache=1775595424252",
+    "sample_keys": [
+      "ads"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260330_M_4554982633515383919.json?uncache=1775595424296",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260330_M_4554982633515383919.json?uncache=1775595424296",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  }
+]
