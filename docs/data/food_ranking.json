@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-12T19:49:18.175889Z",
+  "fetched_at": "2026-04-12T20:46:15.412105Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196251,
+          "wishCount": 196250,
           "isWished": false
         },
         "image": {
@@ -501,7 +501,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2564,
+          "wishCount": 2566,
           "isWished": false
         },
         "image": {
@@ -704,7 +704,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13916,
+          "wishCount": 13914,
           "isWished": false
         },
         "image": {
@@ -741,7 +741,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8626,
+          "wishCount": 8627,
           "isWished": false
         },
         "image": {
@@ -778,7 +778,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11484,
+          "wishCount": 11485,
           "isWished": false
         },
         "image": {
