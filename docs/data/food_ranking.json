@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-12T14:49:07.019446Z",
+  "fetched_at": "2026-04-12T15:42:58.493199Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196251,
+          "wishCount": 196253,
           "isWished": false
         },
         "image": {
@@ -47,49 +47,6 @@
     },
     {
       "rank": 2,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2370524,
-        "productId": 2370524,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8120,
-          "name": "하겐다즈(케이크)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 89291,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -113,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28749,
+          "wishCount": 28747,
           "isWished": false
         },
         "image": {
@@ -123,6 +80,49 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)"
         }
+      }
+    },
+    {
+      "rank": 3,
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 2370524,
+        "productId": 2370524,
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8120,
+          "name": "하겐다즈(케이크)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 89295,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78797,
+          "wishCount": 78802,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44793,
+          "wishCount": 44792,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3323,
+          "wishCount": 3349,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8589,
+          "wishCount": 8595,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31733,
+          "wishCount": 31736,
           "isWished": false
         },
         "image": {
@@ -384,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27106,
+          "wishCount": 27108,
           "isWished": false
         },
         "image": {
@@ -421,7 +421,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9587,
+          "wishCount": 9586,
           "isWished": false
         },
         "image": {
@@ -458,7 +458,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26713,
+          "wishCount": 26712,
           "isWished": false
         },
         "image": {
@@ -501,7 +501,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2530,
+          "wishCount": 2544,
           "isWished": false
         },
         "image": {
@@ -544,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74910,
+          "wishCount": 74912,
           "isWished": false
         },
         "image": {
@@ -565,7 +565,7 @@
     {
       "rank": 15,
       "title": "밀크앤허니 프리미엄 호두파이",
-      "price": "{'basicPrice': 21900, 'sellingPrice': 18500, 'discountRate': 15}",
+      "price": "{'basicPrice': 21900, 'sellingPrice': 21900, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -575,8 +575,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 21900,
-          "sellingPrice": 18500,
-          "discountRate": 15
+          "sellingPrice": 21900,
+          "discountRate": 0
         },
         "brand": {
           "id": 2184,
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28204,
+          "wishCount": 28202,
           "isWished": false
         },
         "image": {
@@ -661,7 +661,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25535,
+          "wishCount": 25536,
           "isWished": false
         },
         "image": {
@@ -681,43 +681,6 @@
     },
     {
       "rank": 18,
-      "title": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11393431,
-        "productId": 11393431,
-        "name": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 24900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8244,
-          "name": "제스프리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 8622,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤"
-        }
-      }
-    },
-    {
-      "rank": 19,
       "title": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
       "product_url": null,
@@ -741,7 +704,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13936,
+          "wishCount": 13934,
           "isWished": false
         },
         "image": {
@@ -754,9 +717,46 @@
       }
     },
     {
+      "rank": 19,
+      "title": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 19900, 'sellingPrice': 19900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 19900,
+          "sellingPrice": 19900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8244,
+          "name": "제스프리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8626,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤"
+        }
+      }
+    },
+    {
       "rank": 20,
       "title": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-      "price": "{'basicPrice': 34900, 'sellingPrice': 34900, 'discountRate': 0}",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -765,8 +765,8 @@
         "name": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 34900,
-          "sellingPrice": 34900,
+          "basicPrice": 33000,
+          "sellingPrice": 33000,
           "discountRate": 0
         },
         "brand": {
@@ -778,7 +778,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11486,
+          "wishCount": 11482,
           "isWished": false
         },
         "image": {
