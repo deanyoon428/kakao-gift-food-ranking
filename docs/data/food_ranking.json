@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-12T13:16:38.769884Z",
+  "fetched_at": "2026-04-12T14:49:07.019446Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196252,
+          "wishCount": 196251,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89287,
+          "wishCount": 89291,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28746,
+          "wishCount": 28749,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42631,
+          "wishCount": 42639,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78805,
+          "wishCount": 78797,
           "isWished": false
         },
         "image": {
@@ -224,7 +224,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44791,
+          "wishCount": 44793,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3294,
+          "wishCount": 3323,
           "isWished": false
         },
         "image": {
@@ -304,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8590,
+          "wishCount": 8589,
           "isWished": false
         },
         "image": {
@@ -347,7 +347,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31730,
+          "wishCount": 31733,
           "isWished": false
         },
         "image": {
@@ -384,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27107,
+          "wishCount": 27106,
           "isWished": false
         },
         "image": {
@@ -421,7 +421,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9585,
+          "wishCount": 9587,
           "isWished": false
         },
         "image": {
@@ -458,7 +458,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26712,
+          "wishCount": 26713,
           "isWished": false
         },
         "image": {
@@ -478,43 +478,6 @@
     },
     {
       "rank": 13,
-      "title": "밀크앤허니 프리미엄 호두파이",
-      "price": "{'basicPrice': 21900, 'sellingPrice': 18500, 'discountRate': 15}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 1036615,
-        "productId": 1036615,
-        "name": "밀크앤허니 프리미엄 호두파이",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 21900,
-          "sellingPrice": 18500,
-          "discountRate": 15
-        },
-        "brand": {
-          "id": 2184,
-          "name": "신세계푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 17428,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "밀크앤허니 프리미엄 호두파이"
-        }
-      }
-    },
-    {
-      "rank": 14,
       "title": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크",
       "price": "{'basicPrice': 47900, 'sellingPrice': 47900, 'discountRate': 0}",
       "product_url": null,
@@ -538,7 +501,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2507,
+          "wishCount": 2530,
           "isWished": false
         },
         "image": {
@@ -557,7 +520,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -581,7 +544,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74907,
+          "wishCount": 74910,
           "isWished": false
         },
         "image": {
@@ -597,6 +560,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 15,
+      "title": "밀크앤허니 프리미엄 호두파이",
+      "price": "{'basicPrice': 21900, 'sellingPrice': 18500, 'discountRate': 15}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 1036615,
+        "productId": 1036615,
+        "name": "밀크앤허니 프리미엄 호두파이",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 21900,
+          "sellingPrice": 18500,
+          "discountRate": 15
+        },
+        "brand": {
+          "id": 2184,
+          "name": "신세계푸드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 17435,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "밀크앤허니 프리미엄 호두파이"
+        }
       }
     },
     {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28206,
+          "wishCount": 28204,
           "isWished": false
         },
         "image": {
@@ -661,7 +661,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25533,
+          "wishCount": 25535,
           "isWished": false
         },
         "image": {
@@ -681,6 +681,80 @@
     },
     {
       "rank": 18,
+      "title": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8244,
+          "name": "제스프리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8622,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319194435_26e33f38166e4cf497e7b4a0e5522d15.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 12입 레드점보(개당 120g내외 1.4kg) 벚꽃에디션 맛젤"
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "title": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319193649_3c98531f25094876a784083dc3dbfb4d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 3531934,
+        "productId": 3531934,
+        "name": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 13936,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319193649_3c98531f25094876a784083dc3dbfb4d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)"
+        }
+      }
+    },
+    {
+      "rank": 20,
       "title": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
       "price": "{'basicPrice': 34900, 'sellingPrice': 34900, 'discountRate': 0}",
       "product_url": null,
@@ -713,80 +787,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)"
-        }
-      }
-    },
-    {
-      "rank": 19,
-      "title": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260319193649_3c98531f25094876a784083dc3dbfb4d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 3531934,
-        "productId": 3531934,
-        "name": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 24900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 13940,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260319193649_3c98531f25094876a784083dc3dbfb4d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 알록달록 고당도 마하차녹 망고 총 2.5kg 이상 (7~9입/로얄과)"
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트",
-      "price": "{'basicPrice': 16900, 'sellingPrice': 14900, 'discountRate': 11}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20230816103223_36ad10f91ad041e292cc1151ef9c6b6f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7547322,
-        "productId": 7547322,
-        "name": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16900,
-          "sellingPrice": 14900,
-          "discountRate": 11
-        },
-        "brand": {
-          "id": 17927,
-          "name": "누니마카롱"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 37045,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20230816103223_36ad10f91ad041e292cc1151ef9c6b6f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트"
         }
       }
     }
