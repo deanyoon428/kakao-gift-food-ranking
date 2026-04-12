@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-12T08:58:45.072409Z",
+  "fetched_at": "2026-04-12T09:55:20.733758Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196244,
+          "wishCount": 196248,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89282,
+          "wishCount": 89286,
           "isWished": false
         },
         "image": {
@@ -113,7 +113,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28743,
+          "wishCount": 28748,
           "isWished": false
         },
         "image": {
@@ -150,7 +150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42624,
+          "wishCount": 42625,
           "isWished": false
         },
         "image": {
@@ -187,7 +187,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44791,
+          "wishCount": 44789,
           "isWished": false
         },
         "image": {
@@ -207,43 +207,6 @@
     },
     {
       "rank": 6,
-      "title": "밀크앤허니 프리미엄 호두파이",
-      "price": "{'basicPrice': 21900, 'sellingPrice': 18500, 'discountRate': 15}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 1036615,
-        "productId": 1036615,
-        "name": "밀크앤허니 프리미엄 호두파이",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 21900,
-          "sellingPrice": 18500,
-          "discountRate": 15
-        },
-        "brand": {
-          "id": 2184,
-          "name": "신세계푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 17408,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "밀크앤허니 프리미엄 호두파이"
-        }
-      }
-    },
-    {
-      "rank": 7,
       "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -267,7 +230,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78804,
+          "wishCount": 78806,
           "isWished": false
         },
         "image": {
@@ -280,7 +243,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
       "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
       "product_url": null,
@@ -304,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3205,
+          "wishCount": 3229,
           "isWished": false
         },
         "image": {
@@ -317,7 +280,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -341,7 +304,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8591,
+          "wishCount": 8589,
           "isWished": false
         },
         "image": {
@@ -360,50 +323,44 @@
       }
     },
     {
-      "rank": 10,
-      "title": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 31350, 'sellingPrice': 31350, 'discountRate': 0}",
+      "rank": 9,
+      "title": "밀크앤허니 프리미엄 호두파이",
+      "price": "{'basicPrice': 21900, 'sellingPrice': 18500, 'discountRate': 15}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260406085346_481265e0d9044e5097f3680076f14536.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "id": 1036615,
+        "productId": 1036615,
+        "name": "밀크앤허니 프리미엄 호두파이",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 31350,
-          "sellingPrice": 31350,
-          "discountRate": 0
+          "basicPrice": 21900,
+          "sellingPrice": 18500,
+          "discountRate": 15
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 2184,
+          "name": "신세계푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26713,
+          "wishCount": 17416,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260406085346_481265e0d9044e5097f3680076f14536.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240220113520_f00a8934fb72413199126f1fb8c96250.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ]
+          "EVENT_SUG_NAME_MODEL": "밀크앤허니 프리미엄 호두파이"
+        }
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -427,7 +384,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31726,
+          "wishCount": 31725,
           "isWished": false
         },
         "image": {
@@ -437,6 +394,49 @@
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
         }
+      }
+    },
+    {
+      "rank": 11,
+      "title": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 31350, 'sellingPrice': 31350, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260406085346_481265e0d9044e5097f3680076f14536.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 31350,
+          "sellingPrice": 31350,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26714,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260406085346_481265e0d9044e5097f3680076f14536.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"실리콘 푸드백 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ]
       }
     },
     {
@@ -464,7 +464,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27111,
+          "wishCount": 27108,
           "isWished": false
         },
         "image": {
@@ -481,7 +481,7 @@
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260407181302_2ddcbdd6748c426ab8792f958f07c189.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
         "id": 9915753,
         "productId": 9915753,
@@ -505,7 +505,7 @@
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260407181302_2ddcbdd6748c426ab8792f958f07c189.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
@@ -538,7 +538,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2429,
+          "wishCount": 2447,
           "isWished": false
         },
         "image": {
@@ -581,7 +581,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74899,
+          "wishCount": 74903,
           "isWished": false
         },
         "image": {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28210,
+          "wishCount": 28208,
           "isWished": false
         },
         "image": {
@@ -661,7 +661,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25718,
+          "wishCount": 25716,
           "isWished": false
         },
         "image": {
@@ -704,7 +704,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38899,
+          "wishCount": 38900,
           "isWished": false
         },
         "image": {
@@ -718,6 +718,43 @@
     },
     {
       "rank": 19,
+      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260102082924_630bc9d5515543b689ef1de8a523e283.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11557587,
+        "productId": 11557587,
+        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 17020,
+          "name": "대정한돈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 4686,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260102082924_630bc9d5515543b689ef1de8a523e283.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
+        }
+      }
+    },
+    {
+      "rank": 20,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -741,7 +778,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48878,
+          "wishCount": 48877,
           "isWished": false
         },
         "image": {
@@ -750,43 +787,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트",
-      "price": "{'basicPrice': 16900, 'sellingPrice': 14900, 'discountRate': 11}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20230816103223_36ad10f91ad041e292cc1151ef9c6b6f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7547322,
-        "productId": 7547322,
-        "name": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 16900,
-          "sellingPrice": 14900,
-          "discountRate": 11
-        },
-        "brand": {
-          "id": 17927,
-          "name": "누니마카롱"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 37036,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20230816103223_36ad10f91ad041e292cc1151ef9c6b6f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"좋은재료에 맛을 더한\" 쫀득 누니마카롱 (수제뚱카롱) 8구 세트"
         }
       }
     }
