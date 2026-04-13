@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-13T13:58:09.820682Z",
+  "fetched_at": "2026-04-13T15:24:21.140840Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196273,
+          "wishCount": 196269,
           "isWished": false
         },
         "image": {
@@ -70,7 +70,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89308,
+          "wishCount": 89316,
           "isWished": false
         },
         "image": {
@@ -98,43 +98,6 @@
     },
     {
       "rank": 3,
-      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7630727,
-        "productId": 7630727,
-        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 42648,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
-        }
-      }
-    },
-    {
-      "rank": 4,
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
@@ -158,7 +121,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28768,
+          "wishCount": 28770,
           "isWished": false
         },
         "image": {
@@ -167,6 +130,43 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)"
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7630727,
+        "productId": 7630727,
+        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 42654,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
         }
       }
     },
@@ -238,7 +238,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78827,
+          "wishCount": 78833,
           "isWished": false
         },
         "image": {
@@ -285,7 +285,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2949,
+          "wishCount": 2969,
           "isWished": false
         },
         "image": {
@@ -336,7 +336,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11564,
+          "wishCount": 11570,
           "isWished": false
         },
         "image": {
@@ -383,7 +383,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3489,
+          "wishCount": 3519,
           "isWished": false
         },
         "image": {
@@ -420,7 +420,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31738,
+          "wishCount": 31736,
           "isWished": false
         },
         "image": {
@@ -457,7 +457,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8588,
+          "wishCount": 8578,
           "isWished": false
         },
         "image": {
@@ -508,7 +508,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9596,
+          "wishCount": 9595,
           "isWished": false
         },
         "image": {
@@ -522,43 +522,6 @@
     },
     {
       "rank": 13,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 22900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12592601,
-        "productId": 12592601,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 22900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 27099,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
-        }
-      }
-    },
-    {
-      "rank": 14,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -582,7 +545,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74937,
+          "wishCount": 74938,
           "isWished": false
         },
         "image": {
@@ -609,7 +572,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "\"디저트 스푼 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 31350, 'sellingPrice': 31350, 'discountRate': 0}",
       "product_url": null,
@@ -633,7 +596,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26724,
+          "wishCount": 26725,
           "isWished": false
         },
         "image": {
@@ -649,6 +612,43 @@
             "name": "단독"
           }
         ]
+      }
+    },
+    {
+      "rank": 15,
+      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+      "price": "{'basicPrice': 22900, 'sellingPrice': 22900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12592601,
+        "productId": 12592601,
+        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 22900,
+          "sellingPrice": 22900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 27092,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+        }
       }
     },
     {
@@ -676,7 +676,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28193,
+          "wishCount": 28190,
           "isWished": false
         },
         "image": {
@@ -760,7 +760,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4768,
+          "wishCount": 4650,
           "isWished": false
         },
         "image": {
@@ -797,7 +797,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 38929,
+          "wishCount": 38933,
           "isWished": false
         },
         "image": {
@@ -821,43 +821,47 @@
     },
     {
       "rank": 20,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
           "discountRate": 0
         },
         "brand": {
-          "id": 15394,
-          "name": "한우맘"
+          "id": 1003,
+          "name": "수플린 "
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25531,
+          "wishCount": 12927,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
         },
         "labels": [
           {
-            "type": "EXCLUSIVE",
-            "name": "단독"
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
           }
         ]
       }
