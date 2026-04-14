@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-14T14:54:19.309389Z",
+  "fetched_at": "2026-04-14T16:15:32.128050Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13783,
+          "wishCount": 13890,
           "isWished": false
         },
         "image": {
@@ -92,7 +92,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196276,
+          "wishCount": 196273,
           "isWished": false
         },
         "image": {
@@ -153,7 +153,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89348,
+          "wishCount": 89349,
           "isWished": false
         },
         "image": {
@@ -222,7 +222,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28818,
+          "wishCount": 28820,
           "isWished": false
         },
         "image": {
@@ -277,7 +277,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42672,
+          "wishCount": 42670,
           "isWished": false
         },
         "image": {
@@ -332,7 +332,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44847,
+          "wishCount": 44851,
           "isWished": false
         },
         "image": {
@@ -396,7 +396,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78869,
+          "wishCount": 78876,
           "isWished": false
         },
         "image": {
@@ -461,7 +461,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3358,
+          "wishCount": 3365,
           "isWished": false
         },
         "image": {
@@ -510,61 +510,6 @@
     },
     {
       "rank": 9,
-      "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
-      "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12697968,
-        "productId": 12697968,
-        "name": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 27800,
-          "sellingPrice": 27800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 3694,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 10,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -588,7 +533,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31737,
+          "wishCount": 31736,
           "isWished": false
         },
         "image": {
@@ -597,6 +542,61 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
+      "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12697968,
+        "productId": 12697968,
+        "name": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 27800,
+          "sellingPrice": 27800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 3705,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종"
         },
         "tierTag": {
           "tierTags": [
@@ -643,7 +643,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17230,
+          "wishCount": 17249,
           "isWished": false
         },
         "image": {
@@ -717,7 +717,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8563,
+          "wishCount": 8568,
           "isWished": false
         },
         "image": {
@@ -763,6 +763,75 @@
     },
     {
       "rank": 13,
+      "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5318317,
+        "productId": 5318317,
+        "name": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 5431,
+          "name": "고디바"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 74991,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 14,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -817,75 +886,6 @@
       }
     },
     {
-      "rank": 14,
-      "title": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5318317,
-        "productId": 5318317,
-        "name": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 5431,
-          "name": "고디바"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 74986,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260305151956_4d747070b2724bd7ab816e83c0184299.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] 고디바 다크 초콜릿 케이크 + 커피 쿠폰 증정"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 15,
       "title": "\"디저트 스푼 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 31350, 'sellingPrice': 31350, 'discountRate': 0}",
@@ -910,7 +910,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26745,
+          "wishCount": 26749,
           "isWished": false
         },
         "image": {
@@ -971,7 +971,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28190,
+          "wishCount": 28189,
           "isWished": false
         },
         "image": {
@@ -1026,7 +1026,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4883,
+          "wishCount": 4768,
           "isWished": false
         },
         "image": {
@@ -1058,6 +1058,71 @@
     },
     {
       "rank": 18,
+      "title": "\"항공직송\" 프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
+      "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 9541368,
+        "productId": 9541368,
+        "name": "\"항공직송\" 프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 35900,
+          "sellingPrice": 35900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 9839,
+          "name": "온브릭스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 15960,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"항공직송\" 프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          }
+        ],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 19,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -1081,7 +1146,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48884,
+          "wishCount": 48885,
           "isWished": false
         },
         "image": {
@@ -1124,7 +1189,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
       "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
       "product_url": null,
@@ -1148,7 +1213,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25724,
+          "wishCount": 25727,
           "isWished": false
         },
         "image": {
@@ -1176,71 +1241,6 @@
           {
             "type": "EXCLUSIVE",
             "name": "단독"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5330373,
-        "productId": 5330373,
-        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13337,
-          "name": "조선호텔델리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 38975,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
           }
         ],
         "valex": false,
