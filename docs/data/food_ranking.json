@@ -1,11 +1,11 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-14T03:26:57.016692Z",
+  "fetched_at": "2026-04-14T06:05:23.669696Z",
   "items": [
     {
       "rank": 1,
       "title": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
+      "price": "{'basicPrice': 34900, 'sellingPrice': 34900, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -14,8 +14,8 @@
         "name": "항공직송 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 33000,
+          "basicPrice": 34900,
+          "sellingPrice": 34900,
           "discountRate": 0
         },
         "brand": {
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12485,
+          "wishCount": 12908,
           "isWished": false
         },
         "image": {
@@ -92,7 +92,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196271,
+          "wishCount": 196267,
           "isWished": false
         },
         "image": {
@@ -153,7 +153,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89328,
+          "wishCount": 89335,
           "isWished": false
         },
         "image": {
@@ -222,7 +222,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28786,
+          "wishCount": 28794,
           "isWished": false
         },
         "image": {
@@ -277,7 +277,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42663,
+          "wishCount": 42660,
           "isWished": false
         },
         "image": {
@@ -332,7 +332,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44830,
+          "wishCount": 44832,
           "isWished": false
         },
         "image": {
@@ -396,7 +396,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78851,
+          "wishCount": 78849,
           "isWished": false
         },
         "image": {
@@ -461,7 +461,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3121,
+          "wishCount": 3169,
           "isWished": false
         },
         "image": {
@@ -510,61 +510,6 @@
     },
     {
       "rank": 9,
-      "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
-      "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12697968,
-        "productId": 12697968,
-        "name": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 27800,
-          "sellingPrice": 27800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 3588,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 10,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -588,7 +533,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31732,
+          "wishCount": 31730,
           "isWished": false
         },
         "image": {
@@ -619,39 +564,39 @@
       }
     },
     {
-      "rank": 11,
-      "title": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
-      "price": "{'basicPrice': 39800, 'sellingPrice': 35900, 'discountRate': 9}",
+      "rank": 10,
+      "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
+      "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 9541368,
-        "productId": 9541368,
-        "name": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
+        "id": 12697968,
+        "productId": 12697968,
+        "name": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39800,
-          "sellingPrice": 35900,
-          "discountRate": 9
+          "basicPrice": 27800,
+          "sellingPrice": 27800,
+          "discountRate": 0
         },
         "brand": {
-          "id": 9839,
-          "name": "온브릭스"
+          "id": 13227,
+          "name": "창억떡"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15964,
+          "wishCount": 3608,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260313154159_a27bc847122544748e0a8d5a858e881c.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)"
+          "EVENT_SUG_NAME_MODEL": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종"
         },
         "tierTag": {
           "tierTags": [
@@ -665,16 +610,6 @@
             }
           ]
         },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          }
-        ],
         "valex": false,
         "deliveryFee": {
           "type": "FREE",
@@ -684,7 +619,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -708,7 +643,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9598,
+          "wishCount": 9600,
           "isWished": false
         },
         "image": {
@@ -730,6 +665,75 @@
             }
           ]
         },
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146166,
+        "productId": 13146166,
+        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 22000,
+          "sellingPrice": 19900,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 10400,
+          "name": "빌리엔젤"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8559,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "valex": false,
         "deliveryFee": {
           "type": "FREE",
@@ -763,7 +767,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 74957,
+          "wishCount": 74963,
           "isWished": false
         },
         "image": {
@@ -809,71 +813,6 @@
     },
     {
       "rank": 14,
-      "title": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)",
-      "price": "{'basicPrice': 59900, 'sellingPrice': 50000, 'discountRate': 16}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251113164652_1cf319d512b74090b23f60b4f01b8876.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12353970,
-        "productId": 12353970,
-        "name": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 59900,
-          "sellingPrice": 50000,
-          "discountRate": 16
-        },
-        "brand": {
-          "id": 12622,
-          "name": "대구축산농협"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 213,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251113164652_1cf319d512b74090b23f60b4f01b8876.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 15,
       "title": "\"디저트 스푼 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 31350, 'sellingPrice': 31350, 'discountRate': 0}",
       "product_url": null,
@@ -897,7 +836,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26726,
+          "wishCount": 26732,
           "isWished": false
         },
         "image": {
@@ -934,39 +873,39 @@
       }
     },
     {
-      "rank": 16,
-      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "rank": 15,
+      "title": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
+      "price": "{'basicPrice': 39800, 'sellingPrice': 39800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146166,
-        "productId": 13146166,
-        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+        "id": 9541368,
+        "productId": 9541368,
+        "name": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
-          "discountRate": 9
+          "basicPrice": 39800,
+          "sellingPrice": 39800,
+          "discountRate": 0
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 9839,
+          "name": "온브릭스"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8574,
+          "wishCount": 15965,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250717091639_9410a89131be4e9483077854aa092fdc.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+          "EVENT_SUG_NAME_MODEL": "프리미엄만 엄선한, 태국 골드망고 4kg이상(8-14입)"
         },
         "tierTag": {
           "tierTags": [
@@ -988,10 +927,6 @@
           {
             "type": "FOR_ME_WEEK",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
           }
         ],
         "valex": false,
@@ -1003,7 +938,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "[파머스기프트] 프리미엄 과일선물세트7종 올리브2호 (파인애플,애플망고)4.1kg이상",
       "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
       "product_url": null,
@@ -1027,7 +962,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28184,
+          "wishCount": 28179,
           "isWished": false
         },
         "image": {
@@ -1050,6 +985,80 @@
           ]
         },
         "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "특별한 향의 커피 파인 플레이버 커피 드립백 (12개입) 16종 택1",
+      "price": "{'basicPrice': 42000, 'sellingPrice': 39000, 'discountRate': 7}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260413103311_aead3f0d057e43fba6a5bd5810b343bc.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10331233,
+        "productId": 10331233,
+        "name": "특별한 향의 커피 파인 플레이버 커피 드립백 (12개입) 16종 택1",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 42000,
+          "sellingPrice": 39000,
+          "discountRate": 7
+        },
+        "brand": {
+          "id": 11627,
+          "name": "BACHA COFFEE(바샤커피)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 17039,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260413103311_aead3f0d057e43fba6a5bd5810b343bc.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "특별한 향의 커피 파인 플레이버 커피 드립백 (12개입) 16종 택1"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "valex": false,
+        "specialGift": {
+          "item": "랜덤 드립백 1P 증정"
+        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
@@ -1082,7 +1091,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48882,
+          "wishCount": 48883,
           "isWished": false
         },
         "image": {
@@ -1126,38 +1135,38 @@
     },
     {
       "rank": 19,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 22900, 'discountRate': 0}",
+      "title": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)",
+      "price": "{'basicPrice': 59900, 'sellingPrice': 50000, 'discountRate': 16}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251113164652_1cf319d512b74090b23f60b4f01b8876.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12592601,
-        "productId": 12592601,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "id": 12353970,
+        "productId": 12353970,
+        "name": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 22900,
-          "discountRate": 0
+          "basicPrice": 59900,
+          "sellingPrice": 50000,
+          "discountRate": 16
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 12622,
+          "name": "대구축산농협"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27085,
+          "wishCount": 220,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251209122203_6caabeedcbf14f31879b79476fc4659b.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251113164652_1cf319d512b74090b23f60b4f01b8876.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+          "EVENT_SUG_NAME_MODEL": "대구축산농협 1++등급 한우 등심 600g (등심300g*2팩)"
         },
         "tierTag": {
           "tierTags": [
@@ -1171,6 +1180,16 @@
             }
           ]
         },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          }
+        ],
         "valex": false,
         "deliveryFee": {
           "type": "FREE",
@@ -1181,38 +1200,38 @@
     },
     {
       "rank": 20,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
           "discountRate": 0
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 13337,
+          "name": "조선호텔델리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12917,
+          "wishCount": 38945,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         },
         "tierTag": {
           "tierTags": [
