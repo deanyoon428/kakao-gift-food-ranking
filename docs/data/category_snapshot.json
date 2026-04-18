@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-18T14:49:47.410425Z",
+  "fetched_at": "2026-04-18T15:44:44.878492Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 6,
@@ -74,9 +74,16 @@
         "product_url": null
       }
     ],
-    "유제품/치즈": [
+    "기타": [
       {
         "rank": 8,
+        "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
+        "product_url": null
+      }
+    ],
+    "유제품/치즈": [
+      {
+        "rank": 9,
         "title": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크 + 사브르 포크 1개",
         "product_url": null
       },
@@ -85,21 +92,14 @@
         "title": "버터떡 8개입 , 줄서서 먹는 SNS유행템!",
         "product_url": null
       }
-    ],
-    "기타": [
-      {
-        "rank": 9,
-        "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
-        "product_url": null
-      }
     ]
   },
   "category_deltas_vs_prev": {
-    "과일": 0,
-    "기타": 0,
-    "간편식/밀키트": 1,
+    "간편식/밀키트": 0,
     "한우/소고기": 0,
-    "유제품/치즈": -1,
+    "유제품/치즈": 0,
+    "기타": 0,
+    "과일": 0,
     "디저트/케이크": 0
   }
 }
