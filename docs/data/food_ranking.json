@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-18T11:41:20.197058Z",
+  "fetched_at": "2026-04-18T13:17:21.655450Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196367,
+          "wishCount": 196366,
           "isWished": false
         },
         "image": {
@@ -88,7 +88,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89459,
+          "wishCount": 89463,
           "isWished": false
         },
         "image": {
@@ -157,7 +157,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28943,
+          "wishCount": 28944,
           "isWished": false
         },
         "image": {
@@ -212,7 +212,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42803,
+          "wishCount": 42805,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44943,
+          "wishCount": 44941,
           "isWished": false
         },
         "image": {
@@ -331,7 +331,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 15902,
+          "wishCount": 15921,
           "isWished": false
         },
         "image": {
@@ -396,7 +396,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 78985,
+          "wishCount": 78991,
           "isWished": false
         },
         "image": {
@@ -461,7 +461,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4531,
+          "wishCount": 4556,
           "isWished": false
         },
         "image": {
@@ -533,7 +533,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31755,
+          "wishCount": 31757,
           "isWished": false
         },
         "image": {
@@ -588,7 +588,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4360,
+          "wishCount": 4376,
           "isWished": false
         },
         "image": {
@@ -643,7 +643,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26838,
+          "wishCount": 26841,
           "isWished": false
         },
         "image": {
@@ -704,7 +704,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75050,
+          "wishCount": 75052,
           "isWished": false
         },
         "image": {
@@ -773,7 +773,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8550,
+          "wishCount": 8548,
           "isWished": false
         },
         "image": {
@@ -842,7 +842,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9671,
+          "wishCount": 9673,
           "isWished": false
         },
         "image": {
@@ -929,69 +929,6 @@
     },
     {
       "rank": 16,
-      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
-      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7610160,
-        "productId": 7610160,
-        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 158000,
-          "sellingPrice": 158000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25754,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": [
-                "PACKAGE_GIFT"
-              ]
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -1015,7 +952,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48936,
+          "wishCount": 48939,
           "isWished": false
         },
         "image": {
@@ -1058,6 +995,69 @@
       }
     },
     {
+      "rank": 17,
+      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7610160,
+        "productId": 7610160,
+        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 158000,
+          "sellingPrice": 158000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25753,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219091502_5e5446597c3a4af0a28e797a831ff60e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
       "rank": 18,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
@@ -1082,7 +1082,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25552,
+          "wishCount": 25554,
           "isWished": false
         },
         "image": {
@@ -1143,7 +1143,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 39071,
+          "wishCount": 39074,
           "isWished": false
         },
         "image": {
@@ -1185,38 +1185,38 @@
     },
     {
       "rank": 20,
-      "title": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 22900, 'discountRate': 0}",
+      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
+      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260413145648_708bfb19ba25440594431a8c873f795a.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13406141,
-        "productId": 13406141,
-        "name": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)",
+        "id": 10078029,
+        "productId": 10078029,
+        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 22900,
+          "basicPrice": 28500,
+          "sellingPrice": 28500,
           "discountRate": 0
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 14345,
+          "name": "룩트"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27028,
+          "wishCount": 36096,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260413145648_708bfb19ba25440594431a8c873f795a.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~30입)"
+          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!"
         },
         "tierTag": {
           "tierTags": [
@@ -1226,11 +1226,30 @@
             },
             {
               "tier": "2",
-              "tags": []
+              "tags": [
+                "GREEN_GIFT"
+              ]
             }
           ]
         },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "valex": false,
+        "specialGift": {
+          "item": "알룰로스 15g x 3개입 증정"
+        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
