@@ -1,0 +1,91 @@
+[
+  {
+    "url": "https://gift.kakao.com/a/v2/main?uncache=1776595819778",
+    "sample_keys": [
+      "nowTimestamp"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/gift-home/v1/lnbs?uncache=1776595819778",
+    "sample_keys": [
+      "basicLnbMenus",
+      "luxLnbMenus"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/meta?uncache=1776595820154",
+    "sample_keys": [
+      "purchaseHistorySegment",
+      "cooperativeAdBrandIds",
+      "giftTalkChannelFriend"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/header?uncache=1776595820487",
+    "sample_keys": []
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/required-data?uncache=1776595820519",
+    "sample_keys": [
+      "categoryTabs",
+      "giftThemeTabs",
+      "trendingTabs"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/marketing-tab?uncache=1776595820655",
+    "sample_keys": [
+      "id",
+      "name",
+      "link",
+      "offImageUrl",
+      "onImageUrl",
+      "placeholderName"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/ads?tabType=CATEGORY&navId=4&subNavId=11100&uncache=1776595820713",
+    "sample_keys": [
+      "ads"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/category-tab/search?uncache=1776595820711",
+    "sample_keys": [
+      "updatedAt",
+      "last",
+      "feedbackData",
+      "products"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260408_I_14509382879087314368.json?uncache=1776595820703",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260408_I_14509382879087314368.json?uncache=1776595820703",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  }
+]
