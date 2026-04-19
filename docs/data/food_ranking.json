@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-19T08:10:19.129389Z",
+  "fetched_at": "2026-04-19T09:54:37.988050Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196378,
+          "wishCount": 196382,
           "isWished": false
         },
         "image": {
@@ -88,7 +88,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89480,
+          "wishCount": 89485,
           "isWished": false
         },
         "image": {
@@ -157,7 +157,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42841,
+          "wishCount": 42851,
           "isWished": false
         },
         "image": {
@@ -212,7 +212,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28970,
+          "wishCount": 28971,
           "isWished": false
         },
         "image": {
@@ -267,7 +267,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 44957,
+          "wishCount": 44955,
           "isWished": false
         },
         "image": {
@@ -331,7 +331,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79024,
+          "wishCount": 79029,
           "isWished": false
         },
         "image": {
@@ -373,6 +373,71 @@
     },
     {
       "rank": 7,
+      "title": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
+      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6656476,
+        "productId": 6656476,
+        "name": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 33000,
+          "sellingPrice": 33000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 9839,
+          "name": "온브릭스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 16198,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          }
+        ],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 8,
       "title": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크 + 사브르 포크 1개증정",
       "price": "{'basicPrice': 47900, 'sellingPrice': 43900, 'discountRate': 8}",
       "product_url": null,
@@ -396,7 +461,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4881,
+          "wishCount": 4901,
           "isWished": false
         },
         "image": {
@@ -444,71 +509,6 @@
       }
     },
     {
-      "rank": 8,
-      "title": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-      "price": "{'basicPrice': 33000, 'sellingPrice': 33000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6656476,
-        "productId": 6656476,
-        "name": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 33000,
-          "sellingPrice": 33000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 16156,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260316091630_92fc0a44a4a5468c9af7fe1efd44699d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 9,
       "title": "[예약발송] 창억 BEST 쫀득달콤 호박인절미 외 인기 2종",
       "price": "{'basicPrice': 27800, 'sellingPrice': 27800, 'discountRate': 0}",
@@ -533,7 +533,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4503,
+          "wishCount": 4516,
           "isWished": false
         },
         "image": {
@@ -588,7 +588,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31761,
+          "wishCount": 31763,
           "isWished": false
         },
         "image": {
@@ -643,7 +643,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75079,
+          "wishCount": 75084,
           "isWished": false
         },
         "image": {
@@ -712,7 +712,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26844,
+          "wishCount": 26846,
           "isWished": false
         },
         "image": {
@@ -773,7 +773,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8553,
+          "wishCount": 8554,
           "isWished": false
         },
         "image": {
@@ -842,7 +842,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9693,
+          "wishCount": 9694,
           "isWished": false
         },
         "image": {
@@ -897,7 +897,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26230,
+          "wishCount": 26564,
           "isWished": false
         },
         "image": {
@@ -939,73 +939,6 @@
     },
     {
       "rank": 16,
-      "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11698788,
-        "productId": 11698788,
-        "name": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 48941,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": [
-                "PACKAGE_GIFT"
-              ]
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
-          },
-          {
-            "type": "FOR_ME_WEEK",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
-          }
-        ],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
       "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
       "product_url": null,
@@ -1060,39 +993,106 @@
       }
     },
     {
-      "rank": 18,
-      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "rank": 17,
+      "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 5330373,
-        "productId": 5330373,
-        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+        "id": 11698788,
+        "productId": 11698788,
+        "name": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
           "discountRate": 0
         },
         "brand": {
-          "id": 13337,
-          "name": "조선호텔델리"
+          "id": 10400,
+          "name": "빌리엔젤"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 39100,
+          "wishCount": 48935,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260225153556_aed7d5b7da704a509b4d0a26c70873fd.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
+          "EVENT_SUG_NAME_MODEL": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/mupuB/20260407_QOFODJSDFFJI9838271266301679346.png"
+          },
+          {
+            "type": "FOR_ME_WEEK",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/bKskS/20260407_YRXNODWWENTP6154891711548463632.png"
+          }
+        ],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12845,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
         },
         "tierTag": {
           "tierTags": [
@@ -1126,38 +1126,38 @@
     },
     {
       "rank": 19,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "title": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "id": 5330373,
+        "productId": 5330373,
+        "name": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
           "discountRate": 0
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 13337,
+          "name": "조선호텔델리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12846,
+          "wishCount": 39102,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260105102125_08044852e1e7454fbd1e642118a2a586.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+          "EVENT_SUG_NAME_MODEL": "\"조선호텔 베스트셀러\" 프리미엄 뉴욕 치즈 케이크"
         },
         "tierTag": {
           "tierTags": [
@@ -1214,7 +1214,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27021,
+          "wishCount": 27018,
           "isWished": false
         },
         "image": {
