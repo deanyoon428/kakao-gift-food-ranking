@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-22T10:24:36.145723Z",
+  "fetched_at": "2026-04-22T12:03:44.339333Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89586,
+          "wishCount": 89593,
           "isWished": false
         },
         "image": {
@@ -89,7 +89,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196480,
+          "wishCount": 196484,
           "isWished": false
         },
         "image": {
@@ -151,7 +151,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 42996,
+          "wishCount": 43005,
           "isWished": false
         },
         "image": {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29075,
+          "wishCount": 29078,
           "isWished": false
         },
         "image": {
@@ -263,7 +263,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27000,
+          "wishCount": 27003,
           "isWished": false
         },
         "image": {
@@ -325,7 +325,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45022,
+          "wishCount": 45023,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79276,
+          "wishCount": 79285,
           "isWished": false
         },
         "image": {
@@ -446,7 +446,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3917,
+          "wishCount": 3930,
           "isWished": false
         },
         "image": {
@@ -502,7 +502,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31818,
+          "wishCount": 31821,
           "isWished": false
         },
         "image": {
@@ -558,7 +558,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75150,
+          "wishCount": 75155,
           "isWished": false
         },
         "image": {
@@ -620,7 +620,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5123,
+          "wishCount": 5136,
           "isWished": false
         },
         "image": {
@@ -676,7 +676,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17362,
+          "wishCount": 17352,
           "isWished": false
         },
         "image": {
@@ -732,7 +732,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3851,
+          "wishCount": 3863,
           "isWished": false
         },
         "image": {
@@ -788,7 +788,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48998,
+          "wishCount": 48996,
           "isWished": false
         },
         "image": {
@@ -848,7 +848,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 30746,
+          "wishCount": 30806,
           "isWished": false
         },
         "image": {
@@ -904,7 +904,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9752,
+          "wishCount": 9753,
           "isWished": false
         },
         "image": {
@@ -960,7 +960,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8570,
+          "wishCount": 8569,
           "isWished": false
         },
         "image": {
@@ -1022,7 +1022,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 215695,
+          "wishCount": 215693,
           "isWished": false
         },
         "image": {
@@ -1058,6 +1058,62 @@
     },
     {
       "rank": 19,
+      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8244,
+          "name": "제스프리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8550,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 20,
       "title": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크",
       "price": "{'basicPrice': 47900, 'sellingPrice': 47900, 'discountRate': 0}",
       "product_url": null,
@@ -1081,7 +1137,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5333,
+          "wishCount": 5338,
           "isWished": false
         },
         "image": {
@@ -1109,62 +1165,6 @@
             "name": "단독"
           }
         ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11393431,
-        "productId": 11393431,
-        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 24900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8244,
-          "name": "제스프리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 8551,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
         "tags": [],
         "valex": false,
         "deliveryFee": {
