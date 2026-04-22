@@ -1,71 +1,9 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-22T12:03:44.339333Z",
+  "fetched_at": "2026-04-22T14:51:08.108132Z",
   "items": [
     {
       "rank": 1,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2370524,
-        "productId": 2370524,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 29900,
-          "discountRate": 9
-        },
-        "brand": {
-          "id": 8120,
-          "name": "하겐다즈(케이크)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 89593,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 2,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -89,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196484,
+          "wishCount": 196485,
           "isWished": false
         },
         "image": {
@@ -127,7 +65,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -151,7 +89,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43005,
+          "wishCount": 43011,
           "isWished": false
         },
         "image": {
@@ -173,6 +111,68 @@
             }
           ]
         },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 2370524,
+        "productId": 2370524,
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 29900,
+          "discountRate": 9
+        },
+        "brand": {
+          "id": 8120,
+          "name": "하겐다즈(케이크)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 89590,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "tags": [],
         "valex": false,
         "deliveryFee": {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29078,
+          "wishCount": 29082,
           "isWished": false
         },
         "image": {
@@ -263,7 +263,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27003,
+          "wishCount": 27018,
           "isWished": false
         },
         "image": {
@@ -325,7 +325,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45023,
+          "wishCount": 45025,
           "isWished": false
         },
         "image": {
@@ -390,7 +390,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79285,
+          "wishCount": 79308,
           "isWished": false
         },
         "image": {
@@ -446,7 +446,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3930,
+          "wishCount": 3953,
           "isWished": false
         },
         "image": {
@@ -558,7 +558,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75155,
+          "wishCount": 75147,
           "isWished": false
         },
         "image": {
@@ -620,7 +620,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5136,
+          "wishCount": 5161,
           "isWished": false
         },
         "image": {
@@ -676,7 +676,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 17352,
+          "wishCount": 17320,
           "isWished": false
         },
         "image": {
@@ -732,7 +732,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 3863,
+          "wishCount": 3892,
           "isWished": false
         },
         "image": {
@@ -788,7 +788,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 48996,
+          "wishCount": 49002,
           "isWished": false
         },
         "image": {
@@ -825,38 +825,38 @@
     },
     {
       "rank": 15,
-      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
+      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13145620,
-        "productId": 13145620,
-        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+        "id": 9915753,
+        "productId": 9915753,
+        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 69800,
-          "sellingPrice": 69800,
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
           "discountRate": 0
         },
         "brand": {
-          "id": 15226,
-          "name": "대정한우"
+          "id": 12299,
+          "name": "탐라왕"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 30806,
+          "wishCount": 9754,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
+          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
         },
         "tierTag": {
           "tierTags": [
@@ -881,38 +881,38 @@
     },
     {
       "rank": 16,
-      "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 9915753,
-        "productId": 9915753,
-        "name": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
+        "id": 13145620,
+        "productId": 13145620,
+        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
+          "basicPrice": 69800,
+          "sellingPrice": 69800,
           "discountRate": 0
         },
         "brand": {
-          "id": 12299,
-          "name": "탐라왕"
+          "id": 15226,
+          "name": "대정한우"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9753,
+          "wishCount": 30910,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260410185227_858f94ed8a1d48f9839cf21e3faa30dc.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
+          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
         },
         "tierTag": {
           "tierTags": [
@@ -960,7 +960,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8569,
+          "wishCount": 8577,
           "isWished": false
         },
         "image": {
@@ -1081,7 +1081,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8550,
+          "wishCount": 8552,
           "isWished": false
         },
         "image": {
@@ -1114,38 +1114,38 @@
     },
     {
       "rank": 20,
-      "title": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크",
-      "price": "{'basicPrice': 47900, 'sellingPrice': 47900, 'discountRate': 0}",
+      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
+      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260326151356_2a995d8bfc52408c8348b1134161e185.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13106272,
-        "productId": 13106272,
-        "name": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크",
+        "id": 10078029,
+        "productId": 10078029,
+        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 47900,
-          "sellingPrice": 47900,
+          "basicPrice": 28500,
+          "sellingPrice": 28500,
           "discountRate": 0
         },
         "brand": {
-          "id": 18399,
-          "name": "콘래드 서울 X 하겐다즈"
+          "id": 14345,
+          "name": "룩트"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5338,
+          "wishCount": 36369,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260326151356_2a995d8bfc52408c8348b1134161e185.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "하겐다즈 무화과 크림치즈 바닐라 아이스크림 케이크"
+          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!"
         },
         "tierTag": {
           "tierTags": [
@@ -1155,7 +1155,9 @@
             },
             {
               "tier": "2",
-              "tags": []
+              "tags": [
+                "GREEN_GIFT"
+              ]
             }
           ]
         },
@@ -1167,6 +1169,9 @@
         ],
         "tags": [],
         "valex": false,
+        "specialGift": {
+          "item": "알룰로스 15g x 3개입 증정"
+        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
