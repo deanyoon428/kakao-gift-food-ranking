@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-25T05:53:16.009888Z",
+  "fetched_at": "2026-04-25T07:39:57.801461Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 7,
@@ -18,12 +18,12 @@
         "product_url": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "title": "\"쇼핑백 !\" 오리지널 티라미수 케이크 (쇼핑백 )",
         "product_url": null
       },
       {
-        "rank": 8,
+        "rank": 9,
         "title": "\"프리미엄 애플망고가 듬뿍 들어간\" 조선호텔 애플망고케이크",
         "product_url": null
       }
@@ -40,7 +40,7 @@
         "product_url": null
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "[탐라왕]프리미엄 고당도 천혜향 3kg 로얄과(10-15입)",
         "product_url": null
       }
@@ -57,19 +57,26 @@
         "product_url": null
       },
       {
-        "rank": 6,
+        "rank": 7,
         "title": "농협안심한우 1등급 '구이의 정석' 600g (등심300g+갈비살150g+채끝150g)",
+        "product_url": null
+      }
+    ],
+    "커피/음료": [
+      {
+        "rank": 5,
+        "title": "\"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 )",
         "product_url": null
       }
     ],
     "기타": [
       {
-        "rank": 5,
+        "rank": 6,
         "title": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
         "product_url": null
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
         "product_url": null
       },
@@ -79,28 +86,20 @@
         "product_url": null
       }
     ],
-    "커피/음료": [
-      {
-        "rank": 9,
-        "title": "\"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 )",
-        "product_url": null
-      }
-    ],
     "유제품/치즈": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "버터떡 8개입 , 줄서서 먹는 SNS유행템!",
         "product_url": null
       }
     ]
   },
   "category_deltas_vs_prev": {
+    "유제품/치즈": 0,
     "디저트/케이크": 0,
     "한우/소고기": 0,
-    "기타": 0,
-    "커피/음료": 1,
-    "유제품/치즈": 0,
-    "간편식/밀키트": -1,
-    "과일": 0
+    "커피/음료": 0,
+    "과일": 0,
+    "기타": 0
   }
 }
