@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-25T14:52:44.218895Z",
+  "fetched_at": "2026-04-25T15:49:07.429996Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89790,
+          "wishCount": 89792,
           "isWished": false
         },
         "image": {
@@ -89,7 +89,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43159,
+          "wishCount": 43161,
           "isWished": false
         },
         "image": {
@@ -145,7 +145,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196540,
+          "wishCount": 196542,
           "isWished": false
         },
         "image": {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29222,
+          "wishCount": 29225,
           "isWished": false
         },
         "image": {
@@ -270,7 +270,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4420,
+          "wishCount": 4430,
           "isWished": false
         },
         "image": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79504,
+          "wishCount": 79509,
           "isWished": false
         },
         "image": {
@@ -382,7 +382,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45109,
+          "wishCount": 45112,
           "isWished": false
         },
         "image": {
@@ -444,7 +444,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 2007,
+          "wishCount": 2009,
           "isWished": false
         },
         "image": {
@@ -500,7 +500,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25702,
+          "wishCount": 25703,
           "isWished": false
         },
         "image": {
@@ -562,7 +562,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27205,
+          "wishCount": 27208,
           "isWished": false
         },
         "image": {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31877,
+          "wishCount": 31876,
           "isWished": false
         },
         "image": {
@@ -657,68 +657,6 @@
     },
     {
       "rank": 12,
-      "title": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 17900, 'discountRate': 21}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10994996,
-        "productId": 10994996,
-        "name": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 17900,
-          "discountRate": 21
-        },
-        "brand": {
-          "id": 10801,
-          "name": "프렌즈푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 5157,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 13,
       "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
       "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
       "product_url": null,
@@ -742,7 +680,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4403,
+          "wishCount": 4419,
           "isWished": false
         },
         "image": {
@@ -774,7 +712,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -798,7 +736,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11532,
+          "wishCount": 11533,
           "isWished": false
         },
         "image": {
@@ -836,7 +774,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "[단독] 고디바 다크 초콜릿 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
@@ -860,7 +798,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75242,
+          "wishCount": 75241,
           "isWished": false
         },
         "image": {
@@ -898,7 +836,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
       "product_url": null,
@@ -922,7 +860,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8659,
+          "wishCount": 8662,
           "isWished": false
         },
         "image": {
@@ -954,7 +892,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -978,7 +916,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9794,
+          "wishCount": 9795,
           "isWished": false
         },
         "image": {
@@ -1010,7 +948,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
       "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
       "product_url": null,
@@ -1034,7 +972,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8636,
+          "wishCount": 8639,
           "isWished": false
         },
         "image": {
@@ -1072,6 +1010,62 @@
       }
     },
     {
+      "rank": 18,
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12778,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260325165433_89f52c0204174a8c82faad7d547ba504.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
       "rank": 19,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
@@ -1096,7 +1090,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 49036,
+          "wishCount": 49035,
           "isWished": false
         },
         "image": {
@@ -1156,7 +1150,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32011,
+          "wishCount": 32074,
           "isWished": false
         },
         "image": {
