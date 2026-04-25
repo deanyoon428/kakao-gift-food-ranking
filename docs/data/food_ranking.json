@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-25T11:44:15.300951Z",
+  "fetched_at": "2026-04-25T13:20:35.239335Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89786,
+          "wishCount": 89785,
           "isWished": false
         },
         "image": {
@@ -89,7 +89,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43151,
+          "wishCount": 43155,
           "isWished": false
         },
         "image": {
@@ -145,7 +145,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196541,
+          "wishCount": 196545,
           "isWished": false
         },
         "image": {
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29207,
+          "wishCount": 29217,
           "isWished": false
         },
         "image": {
@@ -270,7 +270,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4393,
+          "wishCount": 4405,
           "isWished": false
         },
         "image": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79507,
+          "wishCount": 79508,
           "isWished": false
         },
         "image": {
@@ -359,62 +359,6 @@
     },
     {
       "rank": 7,
-      "title": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
-      "price": "{'basicPrice': 13500, 'sellingPrice': 9900, 'discountRate': 26}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12264256,
-        "productId": 12264256,
-        "name": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 13500,
-          "sellingPrice": 9900,
-          "discountRate": 26
-        },
-        "brand": {
-          "id": 15680,
-          "name": "롯데웰푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 1987,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": true
-        }
-      }
-    },
-    {
-      "rank": 8,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -438,7 +382,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45102,
+          "wishCount": 45103,
           "isWished": false
         },
         "image": {
@@ -476,6 +420,62 @@
       }
     },
     {
+      "rank": 8,
+      "title": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
+      "price": "{'basicPrice': 13500, 'sellingPrice': 9900, 'discountRate': 26}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12264256,
+        "productId": 12264256,
+        "name": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 13500,
+          "sellingPrice": 9900,
+          "discountRate": 26
+        },
+        "brand": {
+          "id": 15680,
+          "name": "롯데웰푸드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 1999,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
       "rank": 9,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 57800, 'sellingPrice': 50000, 'discountRate': 13}",
@@ -500,7 +500,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25694,
+          "wishCount": 25700,
           "isWished": false
         },
         "image": {
@@ -539,68 +539,6 @@
     },
     {
       "rank": 10,
-      "title": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 17900, 'discountRate': 21}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10994996,
-        "productId": 10994996,
-        "name": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 17900,
-          "discountRate": 21
-        },
-        "brand": {
-          "id": 10801,
-          "name": "프렌즈푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 5130,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 11,
       "title": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
       "product_url": null,
@@ -624,7 +562,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27203,
+          "wishCount": 27205,
           "isWished": false
         },
         "image": {
@@ -662,39 +600,101 @@
       }
     },
     {
-      "rank": 12,
-      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
+      "rank": 11,
+      "title": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
+      "price": "{'basicPrice': 22900, 'sellingPrice': 17900, 'discountRate': 21}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 6399653,
-        "productId": 6399653,
-        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+        "id": 10994996,
+        "productId": 10994996,
+        "name": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 25800,
-          "sellingPrice": 25800,
-          "discountRate": 0
+          "basicPrice": 22900,
+          "sellingPrice": 17900,
+          "discountRate": 21
         },
         "brand": {
-          "id": 13227,
-          "name": "창억떡"
+          "id": 10801,
+          "name": "프렌즈푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4384,
+          "wishCount": 5143,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
+          "EVENT_SUG_NAME_MODEL": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146851,
+        "productId": 13146851,
+        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12255,
+          "name": "원월드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 31873,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
         },
         "tierTag": {
           "tierTags": [
@@ -719,38 +719,38 @@
     },
     {
       "rank": 13,
-      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146851,
-        "productId": 13146851,
-        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+        "id": 6399653,
+        "productId": 6399653,
+        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
+          "basicPrice": 25800,
+          "sellingPrice": 25800,
           "discountRate": 0
         },
         "brand": {
-          "id": 12255,
-          "name": "원월드"
+          "id": 13227,
+          "name": "창억떡"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31867,
+          "wishCount": 4392,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312191947_c8df1f18004b4e33ac4f285e4209ef20.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
+          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
         },
         "tierTag": {
           "tierTags": [
@@ -798,7 +798,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11516,
+          "wishCount": 11524,
           "isWished": false
         },
         "image": {
@@ -860,7 +860,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75240,
+          "wishCount": 75241,
           "isWished": false
         },
         "image": {
@@ -922,7 +922,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8653,
+          "wishCount": 8657,
           "isWished": false
         },
         "image": {
@@ -978,7 +978,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 49035,
+          "wishCount": 49037,
           "isWished": false
         },
         "image": {
@@ -1038,7 +1038,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9794,
+          "wishCount": 9795,
           "isWished": false
         },
         "image": {
@@ -1094,7 +1094,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8628,
+          "wishCount": 8634,
           "isWished": false
         },
         "image": {
@@ -1156,7 +1156,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12783,
+          "wishCount": 12782,
           "isWished": false
         },
         "image": {
