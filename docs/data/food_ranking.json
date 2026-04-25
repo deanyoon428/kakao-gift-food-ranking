@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-25T07:39:57.801461Z",
+  "fetched_at": "2026-04-25T09:03:22.961480Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89770,
+          "wishCount": 89779,
           "isWished": false
         },
         "image": {
@@ -66,38 +66,38 @@
     },
     {
       "rank": 2,
-      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "title": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
+      "price": "{'basicPrice': 22900, 'sellingPrice': 17900, 'discountRate': 21}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 7630727,
-        "productId": 7630727,
-        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+        "id": 10994996,
+        "productId": 10994996,
+        "name": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
+          "basicPrice": 22900,
+          "sellingPrice": 17900,
+          "discountRate": 21
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 10801,
+          "name": "프렌즈푸드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43137,
+          "wishCount": 5098,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
+          "EVENT_SUG_NAME_MODEL": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)"
         },
         "tierTag": {
           "tierTags": [
@@ -111,6 +111,12 @@
             }
           ]
         },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "tags": [],
         "valex": false,
         "deliveryFee": {
@@ -145,7 +151,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196540,
+          "wishCount": 196544,
           "isWished": false
         },
         "image": {
@@ -247,38 +253,38 @@
     },
     {
       "rank": 5,
-      "title": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
-      "price": "{'basicPrice': 22900, 'sellingPrice': 17900, 'discountRate': 21}",
+      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 10994996,
-        "productId": 10994996,
-        "name": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)",
+        "id": 7630727,
+        "productId": 7630727,
+        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22900,
-          "sellingPrice": 17900,
-          "discountRate": 21
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 10801,
-          "name": "프렌즈푸드"
+          "id": 1003,
+          "name": "수플린 "
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5065,
+          "wishCount": 43142,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250107172643_5ee6fe1fb6ae4a71a5246f0aa22bc78f.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219183302_b092f08efc1e447e9fbea67ad1466bcf.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독] \"춘식이와 즐거운 커피타임\" 오늘의요정 콜드브루 더치커피 12P_춘식이 (+랜덤요정카드 1종/쇼핑백 증정)"
+          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
         },
         "tierTag": {
           "tierTags": [
@@ -292,12 +298,6 @@
             }
           ]
         },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
         "tags": [],
         "valex": false,
         "deliveryFee": {
@@ -332,7 +332,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1971,
+          "wishCount": 1977,
           "isWished": false
         },
         "image": {
@@ -365,6 +365,62 @@
     },
     {
       "rank": 7,
+      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423172011_45bbf5c113954deaac6617c1edc958fb.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12609227,
+        "productId": 12609227,
+        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29000,
+          "sellingPrice": 29000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 18389,
+          "name": "하트티라미수"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 79499,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423172011_45bbf5c113954deaac6617c1edc958fb.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 8,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -388,7 +444,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45096,
+          "wishCount": 45095,
           "isWished": false
         },
         "image": {
@@ -426,62 +482,6 @@
       }
     },
     {
-      "rank": 8,
-      "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
-      "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423172011_45bbf5c113954deaac6617c1edc958fb.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12609227,
-        "productId": 12609227,
-        "name": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29000,
-          "sellingPrice": 29000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 18389,
-          "name": "하트티라미수"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 79494,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423172011_45bbf5c113954deaac6617c1edc958fb.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 9,
       "title": "\"프리미엄 애플망고가 듬뿍 들어간\" 조선호텔 애플망고케이크",
       "price": "{'basicPrice': 45000, 'sellingPrice': 36000, 'discountRate': 20}",
@@ -506,7 +506,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4349,
+          "wishCount": 4369,
           "isWished": false
         },
         "image": {
@@ -562,7 +562,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27192,
+          "wishCount": 27195,
           "isWished": false
         },
         "image": {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25685,
+          "wishCount": 25687,
           "isWished": false
         },
         "image": {
@@ -686,7 +686,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31866,
+          "wishCount": 31868,
           "isWished": false
         },
         "image": {
@@ -719,6 +719,62 @@
     },
     {
       "rank": 13,
+      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6399653,
+        "productId": 6399653,
+        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 25800,
+          "sellingPrice": 25800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 4355,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 14,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -742,7 +798,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11505,
+          "wishCount": 11508,
           "isWished": false
         },
         "image": {
@@ -780,62 +836,6 @@
       }
     },
     {
-      "rank": 14,
-      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6399653,
-        "productId": 6399653,
-        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 25800,
-          "sellingPrice": 25800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 4343,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 15,
       "title": "[단독] 고디바 다크 초콜릿 케이크",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
@@ -860,7 +860,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75229,
+          "wishCount": 75233,
           "isWished": false
         },
         "image": {
@@ -922,7 +922,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8644,
+          "wishCount": 8643,
           "isWished": false
         },
         "image": {
@@ -1094,7 +1094,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8623,
+          "wishCount": 8625,
           "isWished": false
         },
         "image": {
@@ -1156,7 +1156,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31874,
+          "wishCount": 31897,
           "isWished": false
         },
         "image": {
