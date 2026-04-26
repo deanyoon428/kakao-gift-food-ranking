@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-26T03:40:14.976700Z",
+  "fetched_at": "2026-04-26T06:13:27.857185Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4725,
+          "wishCount": 4800,
           "isWished": false
         },
         "image": {
@@ -60,38 +60,38 @@
     },
     {
       "rank": 2,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
+      "title": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423131326_ab42ea0dd7934285bb71f8fd506dabd0.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 2370524,
-        "productId": 2370524,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 29900,
-          "discountRate": 9
+          "basicPrice": 31000,
+          "sellingPrice": 31000,
+          "discountRate": 0
         },
         "brand": {
-          "id": 8120,
-          "name": "하겐다즈(케이크)"
+          "id": 15039,
+          "name": "스타벅스(푸드)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89822,
+          "wishCount": 27443,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423131326_ab42ea0dd7934285bb71f8fd506dabd0.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
+          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
         },
         "tierTag": {
           "tierTags": [
@@ -122,38 +122,38 @@
     },
     {
       "rank": 3,
-      "title": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 29900, 'discountRate': 9}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423131326_ab42ea0dd7934285bb71f8fd506dabd0.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "id": 2370524,
+        "productId": 2370524,
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 31000,
-          "sellingPrice": 31000,
-          "discountRate": 0
+          "basicPrice": 32900,
+          "sellingPrice": 29900,
+          "discountRate": 9
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 8120,
+          "name": "하겐다즈(케이크)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27398,
+          "wishCount": 89830,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423131326_ab42ea0dd7934285bb71f8fd506dabd0.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260209162355_e62ba9c55756425c9a50eaf0a3620baa.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [진한 마음을 담아] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 (바닐라+벨지안초코)"
         },
         "tierTag": {
           "tierTags": [
@@ -207,7 +207,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43177,
+          "wishCount": 43186,
           "isWished": false
         },
         "image": {
@@ -263,7 +263,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196553,
+          "wishCount": 196560,
           "isWished": false
         },
         "image": {
@@ -325,7 +325,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29228,
+          "wishCount": 29238,
           "isWished": false
         },
         "image": {
@@ -365,6 +365,62 @@
     },
     {
       "rank": 7,
+      "title": "이클립스 포도향 34g 8개입",
+      "price": "{'basicPrice': 32200, 'sellingPrice': 16000, 'discountRate': 50}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13152661,
+        "productId": 13152661,
+        "name": "이클립스 포도향 34g  8개입",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32200,
+          "sellingPrice": 16000,
+          "discountRate": 50
+        },
+        "brand": {
+          "id": 13861,
+          "name": "마즈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 271,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "이클립스 포도향 34g  8개입"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 8,
       "title": "\"쇼핑백 증정!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -388,7 +444,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79526,
+          "wishCount": 79542,
           "isWished": false
         },
         "image": {
@@ -420,7 +476,66 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+      "price": "{'basicPrice': 12900, 'sellingPrice': 9900, 'discountRate': 23}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5143622,
+        "productId": 5143622,
+        "name": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 12900,
+          "sellingPrice": 9900,
+          "discountRate": 23
+        },
+        "brand": {
+          "id": 14454,
+          "name": "널담"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 215915,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "specialGift": {
+          "item": "널담 '선물용 종이백' 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 10,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
@@ -444,7 +559,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45114,
+          "wishCount": 45113,
           "isWished": false
         },
         "image": {
@@ -482,7 +597,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 11,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 57800, 'sellingPrice': 50000, 'discountRate': 13}",
       "product_url": null,
@@ -506,7 +621,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25712,
+          "wishCount": 25713,
           "isWished": false
         },
         "image": {
@@ -544,7 +659,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)+올리브영 1만원권 증정",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -568,7 +683,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11583,
+          "wishCount": 11596,
           "isWished": false
         },
         "image": {
@@ -606,66 +721,7 @@
       }
     },
     {
-      "rank": 11,
-      "title": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-      "price": "{'basicPrice': 12900, 'sellingPrice': 9900, 'discountRate': 23}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5143622,
-        "productId": 5143622,
-        "name": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 12900,
-          "sellingPrice": 9900,
-          "discountRate": 23
-        },
-        "brand": {
-          "id": 14454,
-          "name": "널담"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 215891,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "specialGift": {
-          "item": "널담 '선물용 종이백' 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -689,7 +745,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31882,
+          "wishCount": 31887,
           "isWished": false
         },
         "image": {
@@ -698,62 +754,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 13,
-      "title": "이클립스 포도향 34g 8개입",
-      "price": "{'basicPrice': 32200, 'sellingPrice': 16000, 'discountRate': 50}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13152661,
-        "productId": 13152661,
-        "name": "이클립스 포도향 34g  8개입",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32200,
-          "sellingPrice": 16000,
-          "discountRate": 50
-        },
-        "brand": {
-          "id": 13861,
-          "name": "마즈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 189,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "이클립스 포도향 34g  8개입"
         },
         "tierTag": {
           "tierTags": [
@@ -801,7 +801,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4467,
+          "wishCount": 4496,
           "isWished": false
         },
         "image": {
@@ -857,7 +857,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75272,
+          "wishCount": 75281,
           "isWished": false
         },
         "image": {
@@ -896,62 +896,6 @@
     },
     {
       "rank": 16,
-      "title": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
-      "price": "{'basicPrice': 13500, 'sellingPrice': 9900, 'discountRate': 26}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12264256,
-        "productId": 12264256,
-        "name": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 13500,
-          "sellingPrice": 9900,
-          "discountRate": 26
-        },
-        "brand": {
-          "id": 15680,
-          "name": "롯데웰푸드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 2039,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": true
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -975,7 +919,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 49064,
+          "wishCount": 49073,
           "isWished": false
         },
         "image": {
@@ -1011,6 +955,62 @@
       }
     },
     {
+      "rank": 17,
+      "title": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
+      "price": "{'basicPrice': 13500, 'sellingPrice': 9900, 'discountRate': 26}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12264256,
+        "productId": 12264256,
+        "name": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 13500,
+          "sellingPrice": 9900,
+          "discountRate": 26
+        },
+        "brand": {
+          "id": 15680,
+          "name": "롯데웰푸드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 2047,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417172737_773d8bad73334d679a44d216498dad83.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"단독선런칭\" 칸쵸 이름찾기2탄 출시 54gX7개 or 196g X2개 품절대란 사전구매 필수템"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
       "rank": 18,
       "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
@@ -1035,7 +1035,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8685,
+          "wishCount": 8688,
           "isWished": false
         },
         "image": {
@@ -1068,38 +1068,38 @@
     },
     {
       "rank": 19,
-      "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
-      "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
+      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
+      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13145620,
-        "productId": 13145620,
-        "name": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
+        "id": 10078029,
+        "productId": 10078029,
+        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 69800,
-          "sellingPrice": 69800,
+          "basicPrice": 28500,
+          "sellingPrice": 28500,
           "discountRate": 0
         },
         "brand": {
-          "id": 15226,
-          "name": "대정한우"
+          "id": 14345,
+          "name": "룩트"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32325,
+          "wishCount": 36675,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260312164433_9e01f5913a6b425b9b2d31cc85baa0c7.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)"
+          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!"
         },
         "tierTag": {
           "tierTags": [
@@ -1109,12 +1109,23 @@
             },
             {
               "tier": "2",
-              "tags": []
+              "tags": [
+                "GREEN_GIFT"
+              ]
             }
           ]
         },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "tags": [],
         "valex": false,
+        "specialGift": {
+          "item": "알룰로스 15g x 3개입 증정"
+        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
@@ -1147,7 +1158,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9801,
+          "wishCount": 9803,
           "isWished": false
         },
         "image": {
