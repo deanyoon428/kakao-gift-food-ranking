@@ -1,11 +1,11 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-26T14:54:26.260620Z",
+  "fetched_at": "2026-04-26T15:51:27.498743Z",
   "items": [
     {
       "rank": 1,
       "title": "\"프리미엄 애플망고가 듬뿍 들어간\" 조선호텔 애플망고케이크",
-      "price": "{'basicPrice': 45000, 'sellingPrice': 36000, 'discountRate': 20}",
+      "price": "{'basicPrice': 45000, 'sellingPrice': 45000, 'discountRate': 0}",
       "product_url": null,
       "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260105101408_2e4c361ef9ba448680fc95edaa5c2cef.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
@@ -15,8 +15,8 @@
         "productType": "Shipping",
         "price": {
           "basicPrice": 45000,
-          "sellingPrice": 36000,
-          "discountRate": 20
+          "sellingPrice": 45000,
+          "discountRate": 0
         },
         "brand": {
           "id": 13337,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4977,
+          "wishCount": 4982,
           "isWished": false
         },
         "image": {
@@ -83,7 +83,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89857,
+          "wishCount": 89863,
           "isWished": false
         },
         "image": {
@@ -145,7 +145,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43215,
+          "wishCount": 43214,
           "isWished": false
         },
         "image": {
@@ -201,7 +201,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196575,
+          "wishCount": 196579,
           "isWished": false
         },
         "image": {
@@ -263,7 +263,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29270,
+          "wishCount": 29273,
           "isWished": false
         },
         "image": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27497,
+          "wishCount": 27501,
           "isWished": false
         },
         "image": {
@@ -388,7 +388,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79580,
+          "wishCount": 79585,
           "isWished": false
         },
         "image": {
@@ -424,7 +424,7 @@
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424143146_3603758f1c134fc4b490cde57e49f629.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
         "id": 7609867,
         "productId": 7609867,
@@ -444,11 +444,11 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45126,
+          "wishCount": 45123,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20251017100920_910b55557cbd4c50bbedc39a9cd5e26f.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424143146_3603758f1c134fc4b490cde57e49f629.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
@@ -506,7 +506,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25722,
+          "wishCount": 25723,
           "isWished": false
         },
         "image": {
@@ -568,7 +568,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4593,
+          "wishCount": 4605,
           "isWished": false
         },
         "image": {
@@ -601,6 +601,65 @@
     },
     {
       "rank": 11,
+      "title": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+      "price": "{'basicPrice': 12900, 'sellingPrice': 12900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 5143622,
+        "productId": 5143622,
+        "name": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 12900,
+          "sellingPrice": 12900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 14454,
+          "name": "널담"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 215964,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "specialGift": {
+          "item": "널담 '선물용 종이백' 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 12,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -656,7 +715,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)+올리브영 1만원권 증정",
       "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
@@ -718,65 +777,6 @@
       }
     },
     {
-      "rank": 13,
-      "title": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-      "price": "{'basicPrice': 12900, 'sellingPrice': 9900, 'discountRate': 23}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 5143622,
-        "productId": 5143622,
-        "name": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 12900,
-          "sellingPrice": 9900,
-          "discountRate": 23
-        },
-        "brand": {
-          "id": 14454,
-          "name": "널담"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 215957,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120181018_421453eafefd472b9eb8a2e857d3fb2d.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"디저트 선물\" [널담] 뚱카롱 4cm 수제크림 마카롱 8구 디저트 (넌사랑이야/넌감동이야) NEW피스타치오 신상맛 추가 꾸덕 쫀득"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "specialGift": {
-          "item": "널담 '선물용 종이백' 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 14,
       "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
@@ -801,7 +801,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8706,
+          "wishCount": 8708,
           "isWished": false
         },
         "image": {
@@ -857,7 +857,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75299,
+          "wishCount": 75301,
           "isWished": false
         },
         "image": {
@@ -896,62 +896,6 @@
     },
     {
       "rank": 16,
-      "title": "이클립스 포도향 34g 8개입",
-      "price": "{'basicPrice': 32200, 'sellingPrice': 16000, 'discountRate': 50}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13152661,
-        "productId": 13152661,
-        "name": "이클립스 포도향 34g  8개입",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32200,
-          "sellingPrice": 16000,
-          "discountRate": 50
-        },
-        "brand": {
-          "id": 13861,
-          "name": "마즈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 354,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260421150101_8fedf49200c64741a78fb5c537a7d392.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "이클립스 포도향 34g  8개입"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 17,
       "title": "지금이 제철, 봄 딸기 크레이프 & 담백한 부드러움 밀크 크레이프 케이크 (택1)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -1011,7 +955,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "대정한우 1++등급 새우살 살치살 등심모듬 500g(새우살+살치살+등심+채끝등심)",
       "price": "{'basicPrice': 69800, 'sellingPrice': 69800, 'discountRate': 0}",
       "product_url": null,
@@ -1035,7 +979,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32772,
+          "wishCount": 32786,
           "isWished": false
         },
         "image": {
@@ -1067,7 +1011,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱) +알룰로스 3개 추가증정!",
       "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
       "product_url": null,
@@ -1091,7 +1035,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 36731,
+          "wishCount": 36733,
           "isWished": false
         },
         "image": {
@@ -1123,9 +1067,6 @@
         ],
         "tags": [],
         "valex": false,
-        "specialGift": {
-          "item": "알룰로스 15g x 3개입 증정"
-        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
@@ -1134,7 +1075,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -1167,6 +1108,62 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 천혜향 선물세트 3kg 로얄과(10-15입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12775,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
         },
         "tierTag": {
           "tierTags": [
