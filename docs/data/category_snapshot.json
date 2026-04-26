@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-26T10:00:23.127388Z",
+  "fetched_at": "2026-04-26T10:58:41.499662Z",
   "top_n": 100,
   "category_counts": {
     "디저트/케이크": 8,
@@ -39,7 +39,7 @@
         "product_url": null
       },
       {
-        "rank": 15,
+        "rank": 17,
         "title": "이클립스 포도향 34g 8개입",
         "product_url": null
       }
@@ -63,12 +63,12 @@
     ],
     "기타": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
         "product_url": null
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
         "product_url": null
       }
@@ -82,10 +82,10 @@
     ]
   },
   "category_deltas_vs_prev": {
-    "기타": -1,
-    "한우/소고기": 1,
     "간편식/밀키트": 0,
+    "디저트/케이크": 0,
     "과일": 0,
-    "디저트/케이크": 0
+    "한우/소고기": 0,
+    "기타": 0
   }
 }
