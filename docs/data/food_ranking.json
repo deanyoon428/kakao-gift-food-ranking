@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-26T17:49:20.215763Z",
+  "fetched_at": "2026-04-26T19:06:12.822592Z",
   "items": [
     {
       "rank": 1,
@@ -83,7 +83,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89870,
+          "wishCount": 89872,
           "isWished": false
         },
         "image": {
@@ -201,7 +201,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196575,
+          "wishCount": 196578,
           "isWished": false
         },
         "image": {
@@ -243,7 +243,7 @@
       "title": "농협안심한우 1등급 '스페셜 구이세트' 900g (등심+채끝+안심, 각 300g)",
       "price": "{'basicPrice': 109800, 'sellingPrice': 109800, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424140654_d77523afe1804f3a9c1039ff6e411421.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
         "id": 9971687,
         "productId": 9971687,
@@ -263,11 +263,11 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29270,
+          "wishCount": 29272,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260213105506_623ef9aa53e048f8b5f28ff65ba3ac14.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424140654_d77523afe1804f3a9c1039ff6e411421.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
@@ -326,7 +326,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27501,
+          "wishCount": 27503,
           "isWished": false
         },
         "image": {
@@ -388,7 +388,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79587,
+          "wishCount": 79596,
           "isWished": false
         },
         "image": {
@@ -444,7 +444,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45123,
+          "wishCount": 45126,
           "isWished": false
         },
         "image": {
@@ -568,7 +568,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 4613,
+          "wishCount": 4618,
           "isWished": false
         },
         "image": {
@@ -624,7 +624,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 215966,
+          "wishCount": 215964,
           "isWished": false
         },
         "image": {
@@ -683,7 +683,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31899,
+          "wishCount": 31902,
           "isWished": false
         },
         "image": {
@@ -979,7 +979,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32785,
+          "wishCount": 32784,
           "isWished": false
         },
         "image": {
