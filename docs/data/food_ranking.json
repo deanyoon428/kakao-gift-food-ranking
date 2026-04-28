@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-28T09:29:37.930514Z",
+  "fetched_at": "2026-04-28T11:52:31.539961Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 89984,
+          "wishCount": 89991,
           "isWished": false
         },
         "image": {
@@ -97,7 +97,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43326,
+          "wishCount": 43328,
           "isWished": false
         },
         "image": {
@@ -153,7 +153,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29363,
+          "wishCount": 29372,
           "isWished": false
         },
         "image": {
@@ -216,7 +216,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196634,
+          "wishCount": 196638,
           "isWished": false
         },
         "image": {
@@ -278,7 +278,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45194,
+          "wishCount": 45209,
           "isWished": false
         },
         "image": {
@@ -351,7 +351,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79650,
+          "wishCount": 79657,
           "isWished": false
         },
         "image": {
@@ -407,7 +407,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27630,
+          "wishCount": 27633,
           "isWished": false
         },
         "image": {
@@ -478,7 +478,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5124,
+          "wishCount": 5129,
           "isWished": false
         },
         "image": {
@@ -521,6 +521,189 @@
     },
     {
       "rank": 9,
+      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6399653,
+        "productId": 6399653,
+        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 25800,
+          "sellingPrice": 25800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 4922,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260427084837_a50e4ed8870345b7adf793413c960326.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13146851,
+        "productId": 13146851,
+        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 12255,
+          "name": "원월드"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 31908,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260427084837_a50e4ed8870345b7adf793413c960326.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12590327,
+        "productId": 12590327,
+        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 57800,
+          "sellingPrice": 57800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25775,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
+          },
+          {
+            "type": "SPECIAL_PRICE",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 12,
       "title": "[하남쭈꾸미]쭈꾸미볶음 500g 4팩(쟁특)",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -587,189 +770,6 @@
       }
     },
     {
-      "rank": 10,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 57800, 'sellingPrice': 57800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 57800,
-          "sellingPrice": 57800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 25772,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 11,
-      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260427084837_a50e4ed8870345b7adf793413c960326.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13146851,
-        "productId": 13146851,
-        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 12255,
-          "name": "원월드"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 31906,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260427084837_a50e4ed8870345b7adf793413c960326.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 12,
-      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6399653,
-        "productId": 6399653,
-        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 25800,
-          "sellingPrice": 25800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 4903,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 13,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 아이스크림 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
@@ -794,7 +794,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75346,
+          "wishCount": 75345,
           "isWished": false
         },
         "image": {
@@ -837,6 +837,62 @@
     },
     {
       "rank": 14,
+      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8244,
+          "name": "제스프리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8737,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 15,
       "title": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
       "product_url": null,
@@ -860,7 +916,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16471,
+          "wishCount": 16468,
           "isWished": false
         },
         "image": {
@@ -902,7 +958,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "최적의 산지만, 프리미엄 함안 수박 5~6kg이상(12brix/특품)",
       "price": "{'basicPrice': 30000, 'sellingPrice': 30000, 'discountRate': 0}",
       "product_url": null,
@@ -926,7 +982,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 9129,
+          "wishCount": 9134,
           "isWished": false
         },
         "image": {
@@ -968,7 +1024,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
       "price": "{'basicPrice': 159800, 'sellingPrice': 159800, 'discountRate': 0}",
       "product_url": null,
@@ -992,7 +1048,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12176,
+          "wishCount": 12185,
           "isWished": false
         },
         "image": {
@@ -1038,133 +1094,7 @@
       }
     },
     {
-      "rank": 17,
-      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11393431,
-        "productId": 11393431,
-        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 24900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8244,
-          "name": "제스프리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 8733,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 18,
-      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
-      "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12859916,
-        "productId": 12859916,
-        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 35900,
-          "sellingPrice": 32900,
-          "discountRate": 8
-        },
-        "brand": {
-          "id": 8120,
-          "name": "하겐다즈(케이크)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 11714,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)"
-        },
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 19,
       "title": "\"하트 플레이트+커피 쿠폰 증정\" [감사해요] 스타벅스 촉촉한 마스카포네 티라미수 케이크",
       "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
       "product_url": null,
@@ -1188,7 +1118,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 19786,
+          "wishCount": 19963,
           "isWished": false
         },
         "image": {
@@ -1235,39 +1165,39 @@
       }
     },
     {
-      "rank": 20,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "rank": 19,
+      "title": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
+      "price": "{'basicPrice': 35900, 'sellingPrice': 32900, 'discountRate': 8}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "id": 12859916,
+        "productId": 12859916,
+        "name": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
-          "discountRate": 0
+          "basicPrice": 35900,
+          "sellingPrice": 32900,
+          "discountRate": 8
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 8120,
+          "name": "하겐다즈(케이크)"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12740,
+          "wishCount": 11719,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260120172122_5943db917da04eb1972eff2976b9f438.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+          "EVENT_SUG_NAME_MODEL": "[단독]하겐다즈 프리미엄 수제 아이스크림 케이크 리얼블랑 베리 (바닐라+스트로베리)"
         },
         "tierTag": {
           "tierTags": [
@@ -1281,6 +1211,92 @@
             }
           ]
         },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
+          },
+          {
+            "type": "SPECIAL_PRICE",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
+      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10078029,
+        "productId": 10078029,
+        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 28500,
+          "sellingPrice": 28500,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 14345,
+          "name": "룩트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 36882,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)"
+        },
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "GREEN_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
+          },
+          {
+            "type": "SPECIAL_PRICE",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
         "tags": [],
         "valex": false,
         "deliveryFee": {
