@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-04-29T11:45:14.613804Z",
+  "fetched_at": "2026-04-29T14:20:20.669598Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90027,
+          "wishCount": 90033,
           "isWished": false
         },
         "image": {
@@ -98,7 +98,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43382,
+          "wishCount": 43398,
           "isWished": false
         },
         "image": {
@@ -155,7 +155,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29427,
+          "wishCount": 29442,
           "isWished": false
         },
         "image": {
@@ -219,7 +219,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196671,
+          "wishCount": 196668,
           "isWished": false
         },
         "image": {
@@ -282,7 +282,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45249,
+          "wishCount": 45255,
           "isWished": false
         },
         "image": {
@@ -356,7 +356,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79700,
+          "wishCount": 79710,
           "isWished": false
         },
         "image": {
@@ -413,7 +413,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27660,
+          "wishCount": 27663,
           "isWished": false
         },
         "image": {
@@ -484,7 +484,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25818,
+          "wishCount": 25822,
           "isWished": false
         },
         "image": {
@@ -555,7 +555,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 31924,
+          "wishCount": 31927,
           "isWished": false
         },
         "image": {
@@ -612,7 +612,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75372,
+          "wishCount": 75376,
           "isWished": false
         },
         "image": {
@@ -678,7 +678,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5128,
+          "wishCount": 5160,
           "isWished": false
         },
         "image": {
@@ -735,7 +735,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12214,
+          "wishCount": 12218,
           "isWished": false
         },
         "image": {
@@ -782,6 +782,130 @@
     },
     {
       "rank": 13,
+      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 8244,
+          "name": "제스프리"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 8752,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "title": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
+      "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424150646_11cf4d8823a44f9f877b153d447d4600.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6656476,
+        "productId": 6656476,
+        "name": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 35900,
+          "sellingPrice": 35900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 9839,
+          "name": "온브릭스"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 16402,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424150646_11cf4d8823a44f9f877b153d447d4600.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
+          },
+          {
+            "type": "SPECIAL_PRICE",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 15,
       "title": "\"하트 플레이트+커피 쿠폰 증정\" [감사해요] 스타벅스 촉촉한 마스카포네 티라미수 케이크",
       "price": "{'basicPrice': 31000, 'sellingPrice': 31000, 'discountRate': 0}",
       "product_url": null,
@@ -805,7 +929,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 20930,
+          "wishCount": 21054,
           "isWished": false
         },
         "image": {
@@ -852,7 +976,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "title": "\"프리미엄 애플망고가 듬뿍 들어간\" 조선호텔 애플망고케이크",
       "price": "{'basicPrice': 41000, 'sellingPrice': 41000, 'discountRate': 0}",
       "product_url": null,
@@ -876,7 +1000,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5182,
+          "wishCount": 5193,
           "isWished": false
         },
         "image": {
@@ -885,130 +1009,6 @@
         },
         "displayName": {
           "EVENT_SUG_NAME_MODEL": "\"프리미엄 애플망고가 듬뿍 들어간\" 조선호텔 애플망고케이크"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 15,
-      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11393431,
-        "productId": 11393431,
-        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 24900,
-          "sellingPrice": 24900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 8244,
-          "name": "제스프리"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 8754,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 16,
-      "title": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-      "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424150646_11cf4d8823a44f9f877b153d447d4600.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6656476,
-        "productId": 6656476,
-        "name": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 35900,
-          "sellingPrice": 35900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 16415,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424150646_11cf4d8823a44f9f877b153d447d4600.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)"
         },
         "ticket": false,
         "tierTag": {
@@ -1067,7 +1067,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12730,
+          "wishCount": 12729,
           "isWished": false
         },
         "image": {
@@ -1124,7 +1124,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 11762,
+          "wishCount": 11766,
           "isWished": false
         },
         "image": {
@@ -1172,73 +1172,6 @@
     },
     {
       "rank": 19,
-      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
-      "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11557587,
-        "productId": 11557587,
-        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 35900,
-          "sellingPrice": 35900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 17020,
-          "name": "대정한돈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 5442,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 20,
       "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
       "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
       "product_url": null,
@@ -1262,7 +1195,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 36975,
+          "wishCount": 36990,
           "isWished": false
         },
         "image": {
@@ -1301,6 +1234,63 @@
             "name": "단독"
           }
         ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "[탐라왕]프리미엄 고당도 카라향 선물세트 3kg 로얄과(15-20입)",
+      "price": "{'basicPrice': 27900, 'sellingPrice': 25900, 'discountRate': 7}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423180623_fbd680a10161400bacec77bd33423c74.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 8224436,
+        "productId": 8224436,
+        "name": "[탐라왕]프리미엄 고당도 카라향 선물세트 3kg 로얄과(15-20입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 27900,
+          "sellingPrice": 25900,
+          "discountRate": 7
+        },
+        "brand": {
+          "id": 12299,
+          "name": "탐라왕"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 3234,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423180623_fbd680a10161400bacec77bd33423c74.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[탐라왕]프리미엄 고당도 카라향 선물세트 3kg 로얄과(15-20입)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
         "tags": [],
         "valex": false,
         "deliveryFee": {
