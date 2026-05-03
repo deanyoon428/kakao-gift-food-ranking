@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-05-02T23:54:59.044142Z",
+  "fetched_at": "2026-05-03T03:55:31.066188Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90220,
+          "wishCount": 90236,
           "isWished": false
         },
         "image": {
@@ -98,7 +98,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29736,
+          "wishCount": 29740,
           "isWished": false
         },
         "image": {
@@ -139,6 +139,63 @@
     },
     {
       "rank": 3,
+      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204653_a27371463dd44bf2ab58bf981ac58375.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7630727,
+        "productId": 7630727,
+        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 32900,
+          "sellingPrice": 32900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 43681,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204653_a27371463dd44bf2ab58bf981ac58375.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 4,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -201,63 +258,6 @@
       }
     },
     {
-      "rank": 4,
-      "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-      "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204653_a27371463dd44bf2ab58bf981ac58375.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7630727,
-        "productId": 7630727,
-        "name": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 32900,
-          "sellingPrice": 32900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 43664,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204653_a27371463dd44bf2ab58bf981ac58375.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 5,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
@@ -282,7 +282,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45451,
+          "wishCount": 45473,
           "isWished": false
         },
         "image": {
@@ -356,7 +356,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79855,
+          "wishCount": 79856,
           "isWished": false
         },
         "image": {
@@ -390,6 +390,77 @@
     },
     {
       "rank": 7,
+      "title": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 27754,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "PROMOTION",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
+          },
+          {
+            "type": "SPECIAL_PRICE",
+            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 8,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 55000, 'sellingPrice': 55000, 'discountRate': 0}",
       "product_url": null,
@@ -413,7 +484,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25996,
+          "wishCount": 25999,
           "isWished": false
         },
         "image": {
@@ -463,7 +534,64 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6399653,
+        "productId": 6399653,
+        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 25800,
+          "sellingPrice": 25800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 13227,
+          "name": "창억떡"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 5795,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 10,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -520,134 +648,6 @@
       }
     },
     {
-      "rank": 9,
-      "title": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 27743,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 10,
-      "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-      "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6399653,
-        "productId": 6399653,
-        "name": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 25800,
-          "sellingPrice": 25800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 13227,
-          "name": "창억떡"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 5754,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20240102114343_3cd0aef2b21543df9a1bcf95c5773a82.jpeg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 11,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 아이스크림 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
@@ -672,7 +672,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75528,
+          "wishCount": 75549,
           "isWished": false
         },
         "image": {
@@ -738,7 +738,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12327,
+          "wishCount": 12331,
           "isWished": false
         },
         "image": {
@@ -808,7 +808,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5490,
+          "wishCount": 5507,
           "isWished": false
         },
         "image": {
@@ -852,38 +852,95 @@
     },
     {
       "rank": 14,
-      "title": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
-      "price": "{'basicPrice': 38900, 'sellingPrice': 35000, 'discountRate': 10}",
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424131701_ef66db3f995348ee83c348c04f05f0fc.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 12323153,
-        "productId": 12323153,
-        "name": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 38900,
-          "sellingPrice": 35000,
-          "discountRate": 10
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 15035,
-          "name": "케이미트"
+          "id": 1003,
+          "name": "수플린 "
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 34237,
+          "wishCount": 12737,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424131701_ef66db3f995348ee83c348c04f05f0fc.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
+      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10078029,
+        "productId": 10078029,
+        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 28500,
+          "sellingPrice": 28500,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 14345,
+          "name": "룩트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 37277,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)"
         },
         "ticket": false,
         "tierTag": {
@@ -895,70 +952,8 @@
             {
               "tier": "2",
               "tags": [
-                "PACKAGE_GIFT"
+                "GREEN_GIFT"
               ]
-            }
-          ]
-        },
-        "tags": [
-          "PACKAGE"
-        ],
-        "valex": false,
-        "specialGift": {
-          "item": "삼겹살or오겹살 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 15,
-      "title": "[올반] 찰핫도그 32봉 (모짜렐라&소시지 찰핫도그 17봉+크런치찰핫도그 15봉)",
-      "price": "{'basicPrice': 34900, 'sellingPrice': 25900, 'discountRate': 25}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20200610185559_c8324106ada04ff3be63f15f90111d16.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 2084701,
-        "productId": 2084701,
-        "name": "[올반] 찰핫도그 32봉 (모짜렐라&소시지 찰핫도그 17봉+크런치찰핫도그 15봉)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 34900,
-          "sellingPrice": 25900,
-          "discountRate": 25
-        },
-        "brand": {
-          "id": 6104,
-          "name": "올반키친"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 927,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20200610185559_c8324106ada04ff3be63f15f90111d16.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[올반] 찰핫도그 32봉 (모짜렐라&소시지 찰핫도그 17봉+크런치찰핫도그 15봉)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
             }
           ]
         },
@@ -970,6 +965,10 @@
           {
             "type": "SPECIAL_PRICE",
             "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
+          },
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
           }
         ],
         "tags": [],
@@ -1006,7 +1005,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8817,
+          "wishCount": 8821,
           "isWished": false
         },
         "image": {
@@ -1063,7 +1062,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16258,
+          "wishCount": 16252,
           "isWished": false
         },
         "image": {
@@ -1107,79 +1106,6 @@
     },
     {
       "rank": 18,
-      "title": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
-      "price": "{'basicPrice': 28500, 'sellingPrice': 28500, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10078029,
-        "productId": 10078029,
-        "name": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 28500,
-          "sellingPrice": 28500,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 14345,
-          "name": "룩트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 37252,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20250326115052_08c228cb3b9f48438d68fb86ae3225bf.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"건강한 식단관리\" 홈카페 브런치 요거트볼 5종세트 (그릭요거트+그래놀라+허니스틱)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": [
-                "GREEN_GIFT"
-              ]
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "PROMOTION",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/pjvHT/20260420_NLMKFHAHKLDW11260834547252340683.png"
-          },
-          {
-            "type": "SPECIAL_PRICE",
-            "imageUrl": "https://st.kakaocdn.net/gift/gift-applied/tFyIh/20260420_SCPTOCDUUYPR10869917924199338155.png"
-          },
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 19,
       "title": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
       "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
       "product_url": null,
@@ -1203,7 +1129,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28070,
+          "wishCount": 28066,
           "isWished": false
         },
         "image": {
@@ -1236,39 +1162,39 @@
       }
     },
     {
-      "rank": 20,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "rank": 19,
+      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423144248_850a4df995d14f098df05fd0be55dd8e.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "id": 7610160,
+        "productId": 7610160,
+        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
+          "basicPrice": 158000,
+          "sellingPrice": 158000,
           "discountRate": 0
         },
         "brand": {
-          "id": 1003,
-          "name": "수플린 "
+          "id": 7168,
+          "name": "농협안심한우"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12729,
+          "wishCount": 25879,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423144248_850a4df995d14f098df05fd0be55dd8e.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
         },
         "ticket": false,
         "tierTag": {
@@ -1279,12 +1205,89 @@
             },
             {
               "tier": "2",
-              "tags": []
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
             }
           ]
         },
-        "tags": [],
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [
+          "PACKAGE"
+        ],
         "valex": false,
+        "specialGift": {
+          "item": "2026년 감사의달 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+      "price": "{'basicPrice': 38900, 'sellingPrice': 35000, 'discountRate': 10}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424131701_ef66db3f995348ee83c348c04f05f0fc.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12323153,
+        "productId": 12323153,
+        "name": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 38900,
+          "sellingPrice": 35000,
+          "discountRate": 10
+        },
+        "brand": {
+          "id": 15035,
+          "name": "케이미트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 34234,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424131701_ef66db3f995348ee83c348c04f05f0fc.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "tags": [
+          "PACKAGE"
+        ],
+        "valex": false,
+        "specialGift": {
+          "item": "삼겹살or오겹살 증정"
+        },
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
