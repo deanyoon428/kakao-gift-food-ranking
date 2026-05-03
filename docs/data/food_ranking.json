@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-05-03T13:26:37.986932Z",
+  "fetched_at": "2026-05-03T14:55:38.503448Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90280,
+          "wishCount": 90302,
           "isWished": false
         },
         "image": {
@@ -98,7 +98,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29788,
+          "wishCount": 29801,
           "isWished": false
         },
         "image": {
@@ -162,7 +162,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43724,
+          "wishCount": 43730,
           "isWished": false
         },
         "image": {
@@ -219,7 +219,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196783,
+          "wishCount": 196786,
           "isWished": false
         },
         "image": {
@@ -282,7 +282,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45509,
+          "wishCount": 45518,
           "isWished": false
         },
         "image": {
@@ -356,7 +356,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79896,
+          "wishCount": 79907,
           "isWished": false
         },
         "image": {
@@ -413,7 +413,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5926,
+          "wishCount": 5953,
           "isWished": false
         },
         "image": {
@@ -470,7 +470,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27766,
+          "wishCount": 27768,
           "isWished": false
         },
         "image": {
@@ -541,7 +541,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26022,
+          "wishCount": 26024,
           "isWished": false
         },
         "image": {
@@ -615,7 +615,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75571,
+          "wishCount": 75579,
           "isWished": false
         },
         "image": {
@@ -738,7 +738,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12340,
+          "wishCount": 12343,
           "isWished": false
         },
         "image": {
@@ -808,7 +808,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 5556,
+          "wishCount": 5564,
           "isWished": false
         },
         "image": {
@@ -875,7 +875,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8848,
+          "wishCount": 8853,
           "isWished": false
         },
         "image": {
@@ -932,7 +932,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 34245,
+          "wishCount": 34239,
           "isWished": false
         },
         "image": {
@@ -996,7 +996,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 37322,
+          "wishCount": 37331,
           "isWished": false
         },
         "image": {
@@ -1046,63 +1046,6 @@
     },
     {
       "rank": 17,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 12743,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 18,
       "title": "[카네이션 엽서증정] 프리미엄만 엄선한, 태국 마하차녹 무지개망고 4kg이상(특품/8-14입)",
       "price": "{'basicPrice': 35900, 'sellingPrice': 35900, 'discountRate': 0}",
       "product_url": null,
@@ -1126,7 +1069,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 16237,
+          "wishCount": 16235,
           "isWished": false
         },
         "image": {
@@ -1169,6 +1112,63 @@
       }
     },
     {
+      "rank": 18,
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12742,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
       "rank": 19,
       "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
       "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
@@ -1193,7 +1193,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25894,
+          "wishCount": 25897,
           "isWished": false
         },
         "image": {
@@ -1240,38 +1240,38 @@
     },
     {
       "rank": 20,
-      "title": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
-      "price": "{'basicPrice': 22000, 'sellingPrice': 19900, 'discountRate': 9}",
+      "title": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
+      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146166,
-        "productId": 13146166,
-        "name": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!",
+        "id": 13146569,
+        "productId": 13146569,
+        "name": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 22000,
-          "sellingPrice": 19900,
-          "discountRate": 9
+          "basicPrice": 50000,
+          "sellingPrice": 50000,
+          "discountRate": 0
         },
         "brand": {
-          "id": 10400,
-          "name": "빌리엔젤"
+          "id": 9839,
+          "name": "온브릭스"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8771,
+          "wishCount": 28079,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324122047_6c0363afab0d4057ab8131bd6d300a16.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "버터떡 8개입 선물세트, 줄서서 먹는 SNS유행템!"
+          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상"
         },
         "ticket": false,
         "tierTag": {
@@ -1286,12 +1286,6 @@
             }
           ]
         },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
         "tags": [],
         "valex": false,
         "deliveryFee": {
