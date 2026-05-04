@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://gift.kakao.com/a/gift-home/v1/lnbs?uncache=1777866927262",
+    "sample_keys": [
+      "basicLnbMenus",
+      "luxLnbMenus"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v2/main?uncache=1777866927261",
+    "sample_keys": [
+      "nowTimestamp"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/commerce_ui/static/gift-tiara/real/20260428135440-4358967f/global.json?uncache=1777866927664",
+    "sample_keys": [
+      "global.product_cta_area.wish_add",
+      "global.wish_layer.radio_btn",
+      "global.wish_layer.confirm_btn",
+      "global.wish_confirm_toast.view_list_btn",
+      "global.product_cta_area.wish_remove",
+      "global.product_cta_area.cart_btn",
+      "global.cart_confirm_toast.view_btn",
+      "global.exit_btn",
+      "global.exit_confirm_layer",
+      "global.exit_confirm_layer.exit_cancel_btn",
+      "global.exit_confirm_layer.exit_confirm_btn",
+      "global.exit_ad_banner",
+      "global.coupon_direct_download_all_btn",
+      "global.coupon_direct_download_single_btn",
+      "global.talkchannel_coupon_notice_popup",
+      "global.talkchannel_coupon_notice_close_btn",
+      "global.talkchannel_add_and_download_btn",
+      "global.layer_unreceivable_friends",
+      "global.layer_unreceivable_friends.btn_confirm"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/meta?uncache=1777866928182",
+    "sample_keys": [
+      "purchaseHistorySegment",
+      "cooperativeAdBrandIds",
+      "giftTalkChannelFriend"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/commerce_ui/static/gift-tiara/real/20260428135440-4358967f/discount_more.json?uncache=1777866928185",
+    "sample_keys": [
+      "discount_more.product"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/commerce_ui/static/gift-tiara/real/20260428135440-4358967f/exclusive_more.json?uncache=1777866928185",
+    "sample_keys": [
+      "exclusive_more.product"
+    ]
+  },
+  {
+    "url": "https://st.kakaocdn.net/commerce_ui/static/gift-tiara/real/20260428135440-4358967f/ranking.json?uncache=1777866928184",
+    "sample_keys": [
+      "ranking.tab.1depth",
+      "ranking.tab.2depth",
+      "ranking.tab.3depth",
+      "ranking.product_list.product",
+      "ranking.reco_slot.product",
+      "ranking.product_list.product_ad.1",
+      "ranking.product_list.product_ad.2",
+      "ranking.product_list.product_ad.3",
+      "ranking.product_list.product_ad.6",
+      "ranking.product_list.product_ad.9",
+      "ranking.product_list.product_ad.21",
+      "ranking.product_list.no_search_result",
+      "ranking.filter_btn",
+      "ranking.filter_layer",
+      "ranking.filter_layer.gender",
+      "ranking.filter_layer.age_range",
+      "ranking.filter_layer.price_range",
+      "ranking.filter_layer.price_range.input_box",
+      "ranking.filter_layer.price_range.reset_btn",
+      "ranking.filter_layer.reset_btn",
+      "ranking.filter_layer.view_ranking_btn"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/header?uncache=1777866928886",
+    "sample_keys": [
+      "eventLogo"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/required-data?uncache=1777866928906",
+    "sample_keys": [
+      "categoryTabs",
+      "giftThemeTabs",
+      "trendingTabs"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/v1/marketing-tab?uncache=1777866929089",
+    "sample_keys": [
+      "id",
+      "name",
+      "link",
+      "offImageUrl",
+      "onImageUrl",
+      "placeholderName"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/ads?tabType=CATEGORY&navId=4&subNavId=11100&uncache=1777866929097",
+    "sample_keys": [
+      "ads"
+    ]
+  },
+  {
+    "url": "https://gift.kakao.com/a/rank/v1/gift-rank/ranking-tab/category-tab/search",
+    "sample_keys": [
+      "updatedAt",
+      "last",
+      "feedbackData",
+      "products"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260330_M_4554982633515383919.json?uncache=1777866929139",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  },
+  {
+    "url": "https://t1.daumcdn.net/gift/lnb/title/lottie-effect/20260330_M_4554982633515383919.json?uncache=1777866929139",
+    "sample_keys": [
+      "nm",
+      "h",
+      "w",
+      "meta",
+      "layers",
+      "v",
+      "fr",
+      "op",
+      "ip",
+      "assets"
+    ]
+  }
+]
