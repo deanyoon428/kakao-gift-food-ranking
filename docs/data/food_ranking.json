@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-05-04T11:56:52.573821Z",
+  "fetched_at": "2026-05-04T14:24:03.044512Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 1801,
+          "wishCount": 2072,
           "isWished": false
         },
         "image": {
@@ -84,7 +84,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 29895,
+          "wishCount": 29907,
           "isWished": false
         },
         "image": {
@@ -148,7 +148,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90367,
+          "wishCount": 90370,
           "isWished": false
         },
         "image": {
@@ -211,7 +211,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43811,
+          "wishCount": 43829,
           "isWished": false
         },
         "image": {
@@ -268,7 +268,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196839,
+          "wishCount": 196851,
           "isWished": false
         },
         "image": {
@@ -331,7 +331,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45580,
+          "wishCount": 45584,
           "isWished": false
         },
         "image": {
@@ -397,7 +397,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79926,
+          "wishCount": 79943,
           "isWished": false
         },
         "image": {
@@ -431,6 +431,63 @@
     },
     {
       "rank": 8,
+      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 29900, 'discountRate': 25}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11557587,
+        "productId": 11557587,
+        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 29900,
+          "discountRate": 25
+        },
+        "brand": {
+          "id": 17020,
+          "name": "대정한돈"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 6154,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 9,
       "title": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 38900, 'sellingPrice': 35000, 'discountRate': 10}",
       "product_url": null,
@@ -454,7 +511,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 36003,
+          "wishCount": 36211,
           "isWished": false
         },
         "image": {
@@ -494,69 +551,6 @@
       }
     },
     {
-      "rank": 9,
-      "title": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 6211709,
-        "productId": 6211709,
-        "name": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 27780,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 10,
       "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
       "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
@@ -581,7 +575,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6149,
+          "wishCount": 6202,
           "isWished": false
         },
         "image": {
@@ -615,63 +609,6 @@
     },
     {
       "rank": 11,
-      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 29900, 'discountRate': 25}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11557587,
-        "productId": 11557587,
-        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 29900,
-          "discountRate": 25
-        },
-        "brand": {
-          "id": 17020,
-          "name": "대정한돈"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 6075,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 12,
       "title": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
       "price": "{'basicPrice': 159800, 'sellingPrice': 159800, 'discountRate': 0}",
       "product_url": null,
@@ -695,7 +632,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12387,
+          "wishCount": 12394,
           "isWished": false
         },
         "image": {
@@ -741,6 +678,69 @@
       }
     },
     {
+      "rank": 12,
+      "title": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 6211709,
+        "productId": 6211709,
+        "name": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15039,
+          "name": "스타벅스(푸드)"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 27786,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428160336_a60c2e0c524d4d73874983d09edd8908.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
       "rank": 13,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
@@ -765,7 +765,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32063,
+          "wishCount": 32076,
           "isWished": false
         },
         "image": {
@@ -822,7 +822,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75618,
+          "wishCount": 75627,
           "isWished": false
         },
         "image": {
@@ -865,6 +865,63 @@
     },
     {
       "rank": 15,
+      "title": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
+      "price": "{'basicPrice': 48900, 'sellingPrice': 42500, 'discountRate': 13}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7104784,
+        "productId": 7104784,
+        "name": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 48900,
+          "sellingPrice": 42500,
+          "discountRate": 13
+        },
+        "brand": {
+          "id": 10245,
+          "name": "간식대장"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 679,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
+      "rank": 16,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 56900, 'sellingPrice': 56900, 'discountRate': 0}",
       "product_url": null,
@@ -930,63 +987,6 @@
       }
     },
     {
-      "rank": 16,
-      "title": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
-      "price": "{'basicPrice': 48900, 'sellingPrice': 42500, 'discountRate': 13}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7104784,
-        "productId": 7104784,
-        "name": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 48900,
-          "sellingPrice": 42500,
-          "discountRate": 13
-        },
-        "brand": {
-          "id": 10245,
-          "name": "간식대장"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 659,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": true
-        }
-      }
-    },
-    {
       "rank": 17,
       "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
       "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
@@ -1011,7 +1011,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12728,
+          "wishCount": 12730,
           "isWished": false
         },
         "image": {
@@ -1068,7 +1068,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8878,
+          "wishCount": 8882,
           "isWished": false
         },
         "image": {
@@ -1102,38 +1102,38 @@
     },
     {
       "rank": 19,
-      "title": "\"하트 플레이트 1P 증정\" [감사해요] 스타벅스 촉촉한 마스카포네 티라미수 케이크",
-      "price": "{'basicPrice': 31000, 'sellingPrice': 29900, 'discountRate': 3}",
+      "title": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260430165215_691df230b76e45e0a815652e84372671.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 6999595,
-        "productId": 6999595,
-        "name": "\"하트 플레이트 1P 증정\" [감사해요] 스타벅스 촉촉한 마스카포네 티라미수 케이크",
+        "id": 4544243,
+        "productId": 4544243,
+        "name": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 31000,
-          "sellingPrice": 29900,
-          "discountRate": 3
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
         },
         "brand": {
-          "id": 15039,
-          "name": "스타벅스(푸드)"
+          "id": 10245,
+          "name": "간식대장"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 23656,
+          "wishCount": 13127,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260430165215_691df230b76e45e0a815652e84372671.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "\"하트 플레이트 1P 증정\" [감사해요] 스타벅스 촉촉한 마스카포네 티라미수 케이크"
+          "EVENT_SUG_NAME_MODEL": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트"
         },
         "ticket": false,
         "tierTag": {
@@ -1145,6 +1145,65 @@
             {
               "tier": "2",
               "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+      "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423144248_850a4df995d14f098df05fd0be55dd8e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7610160,
+        "productId": 7610160,
+        "name": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 158000,
+          "sellingPrice": 158000,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 25923,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423144248_850a4df995d14f098df05fd0be55dd8e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
             }
           ]
         },
@@ -1154,64 +1213,9 @@
             "name": "단독"
           }
         ],
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13146569,
-        "productId": 13146569,
-        "name": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 9839,
-          "name": "온브릭스"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 28085,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
+        "tags": [
+          "PACKAGE"
+        ],
         "valex": false,
         "deliveryFee": {
           "type": "FREE",
