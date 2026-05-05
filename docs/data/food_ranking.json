@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-05-05T09:12:38.727902Z",
+  "fetched_at": "2026-05-05T11:23:13.410054Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 13601,
+          "wishCount": 13662,
           "isWished": false
         },
         "image": {
@@ -84,7 +84,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 30007,
+          "wishCount": 30033,
           "isWished": false
         },
         "image": {
@@ -148,7 +148,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90430,
+          "wishCount": 90447,
           "isWished": false
         },
         "image": {
@@ -211,7 +211,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43889,
+          "wishCount": 43893,
           "isWished": false
         },
         "image": {
@@ -268,7 +268,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196915,
+          "wishCount": 196928,
           "isWished": false
         },
         "image": {
@@ -331,7 +331,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45627,
+          "wishCount": 45630,
           "isWished": false
         },
         "image": {
@@ -397,7 +397,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 79994,
+          "wishCount": 80006,
           "isWished": false
         },
         "image": {
@@ -454,7 +454,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 998,
+          "wishCount": 1045,
           "isWished": false
         },
         "image": {
@@ -511,7 +511,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 27842,
+          "wishCount": 27841,
           "isWished": false
         },
         "image": {
@@ -574,7 +574,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12436,
+          "wishCount": 12444,
           "isWished": false
         },
         "image": {
@@ -644,7 +644,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6420,
+          "wishCount": 6446,
           "isWished": false
         },
         "image": {
@@ -678,63 +678,6 @@
     },
     {
       "rank": 12,
-      "title": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
-      "price": "{'basicPrice': 48900, 'sellingPrice': 48900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7104784,
-        "productId": 7104784,
-        "name": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 48900,
-          "sellingPrice": 48900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10245,
-          "name": "간식대장"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 792,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": true
-        }
-      }
-    },
-    {
-      "rank": 13,
       "title": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 38900, 'sellingPrice': 35000, 'discountRate': 10}",
       "product_url": null,
@@ -758,7 +701,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 37083,
+          "wishCount": 37187,
           "isWished": false
         },
         "image": {
@@ -798,6 +741,63 @@
       }
     },
     {
+      "rank": 13,
+      "title": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
+      "price": "{'basicPrice': 48900, 'sellingPrice': 48900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7104784,
+        "productId": 7104784,
+        "name": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 48900,
+          "sellingPrice": 48900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10245,
+          "name": "간식대장"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 797,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260402142413_4316b1802e6441b0855c7513f6a89246.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[간식대장] 과자선물세트 택배를 열었더니 편의점이 왔네 골라먹는 간식바 곽과자와 함께 35종 [간식대장 팬트리]"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
       "rank": 14,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 아이스크림 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
@@ -822,7 +822,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75678,
+          "wishCount": 75688,
           "isWished": false
         },
         "image": {
@@ -865,38 +865,38 @@
     },
     {
       "rank": 15,
-      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260501110652_c28fa6d969f34ab18544bbcc2ec5ec98.jpeg', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 11557587,
-        "productId": 11557587,
-        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+        "id": 13146851,
+        "productId": 13146851,
+        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
+          "basicPrice": 29900,
+          "sellingPrice": 29900,
           "discountRate": 0
         },
         "brand": {
-          "id": 17020,
-          "name": "대정한돈"
+          "id": 12255,
+          "name": "원월드"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6358,
+          "wishCount": 32101,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260501110652_c28fa6d969f34ab18544bbcc2ec5ec98.jpeg",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
+          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
         },
         "ticket": false,
         "tierTag": {
@@ -922,38 +922,38 @@
     },
     {
       "rank": 16,
-      "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
-      "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
+      "title": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260501110652_c28fa6d969f34ab18544bbcc2ec5ec98.jpeg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146851,
-        "productId": 13146851,
-        "name": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
+        "id": 11557587,
+        "productId": 11557587,
+        "name": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 29900,
-          "sellingPrice": 29900,
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
           "discountRate": 0
         },
         "brand": {
-          "id": 12255,
-          "name": "원월드"
+          "id": 17020,
+          "name": "대정한돈"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32096,
+          "wishCount": 6362,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260501110652_c28fa6d969f34ab18544bbcc2ec5ec98.jpeg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260423113900_c31d0d4b138348c2afd95fe477bb80f2.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)"
+          "EVENT_SUG_NAME_MODEL": "대정한돈 삼겹 항정 꽃 케이크 700g (삼겹살600g+항정살100g)"
         },
         "ticket": false,
         "tierTag": {
@@ -1002,7 +1002,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 10589,
+          "wishCount": 10603,
           "isWished": false
         },
         "image": {
@@ -1042,6 +1042,63 @@
     },
     {
       "rank": 18,
+      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 13148794,
+        "productId": 13148794,
+        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 45900,
+          "sellingPrice": 45900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 1003,
+          "name": "수플린 "
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12726,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 19,
       "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
       "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
       "product_url": null,
@@ -1065,7 +1122,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 8928,
+          "wishCount": 8934,
           "isWished": false
         },
         "image": {
@@ -1098,7 +1155,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
       "price": "{'basicPrice': 56900, 'sellingPrice': 56900, 'discountRate': 0}",
       "product_url": null,
@@ -1122,7 +1179,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 26076,
+          "wishCount": 26082,
           "isWished": false
         },
         "image": {
@@ -1156,63 +1213,6 @@
         "specialGift": {
           "item": "5월 감사카드 증정"
         },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 20,
-      "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-      "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 13148794,
-        "productId": 13148794,
-        "name": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 45900,
-          "sellingPrice": 45900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 1003,
-          "name": "수플린 "
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 12727,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424204911_2c84ac8e3e944b0d8b8dc98aebe3804e.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "valex": false,
         "deliveryFee": {
           "type": "FREE",
           "baseFee": 0,
