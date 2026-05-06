@@ -1,6 +1,6 @@
 {
   "source": "https://gift.kakao.com/ranking/category/4",
-  "fetched_at": "2026-05-06T03:53:11.035166Z",
+  "fetched_at": "2026-05-06T06:37:00.531192Z",
   "items": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 30126,
+          "wishCount": 30152,
           "isWished": false
         },
         "image": {
@@ -92,7 +92,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 90489,
+          "wishCount": 90496,
           "isWished": false
         },
         "image": {
@@ -133,64 +133,6 @@
     },
     {
       "rank": 3,
-      "title": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
-      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 4544243,
-        "productId": 4544243,
-        "name": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 39900,
-          "sellingPrice": 39900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 10245,
-          "name": "간식대장"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 13825,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": true
-        }
-      }
-    },
-    {
-      "rank": 4,
       "title": "[단독]푸드장 프리미엄 구이 선물세트1.15kg(부채살+토시살+살치살+소목등심(척아이롤))",
       "price": "{'basicPrice': 49900, 'sellingPrice': 49900, 'discountRate': 0}",
       "product_url": null,
@@ -214,7 +156,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 196984,
+          "wishCount": 197001,
           "isWished": false
         },
         "image": {
@@ -254,7 +196,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "[수플린] 새콤달콤 프리미엄 고당도 애플망고 총 2.1KG 이상 (4~6입/로얄과)",
       "price": "{'basicPrice': 32900, 'sellingPrice': 32900, 'discountRate': 0}",
       "product_url": null,
@@ -278,7 +220,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 43949,
+          "wishCount": 43953,
           "isWished": false
         },
         "image": {
@@ -312,6 +254,64 @@
       }
     },
     {
+      "rank": 5,
+      "title": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
+      "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 4544243,
+        "productId": 4544243,
+        "name": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 39900,
+          "sellingPrice": 39900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 10245,
+          "name": "간식대장"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 13837,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260324101704_d4c61dfd141e4b35bad9c617138d26ae.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "[간식대장] 어린이날 선물 추천 1m 초대형 팬트리 과자집 35종 종합 과자 선물세트"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": true
+        }
+      }
+    },
+    {
       "rank": 6,
       "title": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
       "price": "{'basicPrice': 64900, 'sellingPrice': 64900, 'discountRate': 0}",
@@ -336,7 +336,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 45701,
+          "wishCount": 45710,
           "isWished": false
         },
         "image": {
@@ -380,6 +380,77 @@
     },
     {
       "rank": 7,
+      "title": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)",
+      "price": "{'basicPrice': 165000, 'sellingPrice': 118000, 'discountRate': 28}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260427143933_d908e570aeda49f3aa56e92a4b58fa39.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 11522279,
+        "productId": 11522279,
+        "name": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 165000,
+          "sellingPrice": 118000,
+          "discountRate": 28
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 5176,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260427143933_d908e570aeda49f3aa56e92a4b58fa39.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [
+          "PACKAGE"
+        ],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "specialGift": {
+          "item": "카네이션브로치 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 8,
       "title": "\"가정의달 선물!\" 오리지널 티라미수 케이크 (쇼핑백 증정)",
       "price": "{'basicPrice': 29000, 'sellingPrice': 29000, 'discountRate': 0}",
       "product_url": null,
@@ -403,7 +474,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 80043,
+          "wishCount": 80053,
           "isWished": false
         },
         "image": {
@@ -437,7 +508,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "맛과 정성의 선물 케이미트 소고기 모둠 700g (갈비살+부채살+척아이롤/세부중량 및 기타 옵션 상세설명참조)",
       "price": "{'basicPrice': 38900, 'sellingPrice': 35000, 'discountRate': 10}",
       "product_url": null,
@@ -461,7 +532,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 37719,
+          "wishCount": 37790,
           "isWished": false
         },
         "image": {
@@ -502,7 +573,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "[창억] 부드럽고 쫄깃한 호박인절미 500g X 2봉",
       "price": "{'basicPrice': 25800, 'sellingPrice': 25800, 'discountRate': 0}",
       "product_url": null,
@@ -526,7 +597,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 6639,
+          "wishCount": 6675,
           "isWished": false
         },
         "image": {
@@ -560,7 +631,78 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "title": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
+      "price": "{'basicPrice': 159800, 'sellingPrice': 159800, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428145352_1cae5046e10d425f88708f01a9332f21.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 10370899,
+        "productId": 10370899,
+        "name": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 159800,
+          "sellingPrice": 159800,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 7168,
+          "name": "농협안심한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 12477,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428145352_1cae5046e10d425f88708f01a9332f21.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": [
+                "PACKAGE_GIFT"
+              ]
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [
+          "PACKAGE"
+        ],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "specialGift": {
+          "item": "갈비살100g + 카네이션 카드 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 12,
       "title": "\"하트 플레이트 2P 증정\" [축하해요] 스타벅스 더블 초콜릿 케이크 (BEST 케이크) (진한 다크 가나슈 크림)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -624,78 +766,7 @@
       }
     },
     {
-      "rank": 11,
-      "title": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)",
-      "price": "{'basicPrice': 165000, 'sellingPrice': 118000, 'discountRate': 28}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260427143933_d908e570aeda49f3aa56e92a4b58fa39.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 11522279,
-        "productId": 11522279,
-        "name": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 165000,
-          "sellingPrice": 118000,
-          "discountRate": 28
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 5133,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260427143933_d908e570aeda49f3aa56e92a4b58fa39.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1++등급 프리미엄 구이 선물세트 1kg (살치200g+갈비400g+등심400g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": [
-                "PACKAGE_GIFT"
-              ]
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [
-          "PACKAGE"
-        ],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "specialGift": {
-          "item": "카네이션브로치 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "title": "[원월드] 프리미엄 고당도 애플망고&골드망고 과일세트 2kg 이상 (로얄과/5~6입)",
       "price": "{'basicPrice': 29900, 'sellingPrice': 29900, 'discountRate': 0}",
       "product_url": null,
@@ -719,7 +790,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 32131,
+          "wishCount": 32141,
           "isWished": false
         },
         "image": {
@@ -753,77 +824,6 @@
       }
     },
     {
-      "rank": 13,
-      "title": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
-      "price": "{'basicPrice': 159800, 'sellingPrice': 159800, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428145352_1cae5046e10d425f88708f01a9332f21.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 10370899,
-        "productId": 10370899,
-        "name": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 159800,
-          "sellingPrice": 159800,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 7168,
-          "name": "농협안심한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 12473,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428145352_1cae5046e10d425f88708f01a9332f21.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "농협안심한우 1++등급 \"투뿔 1.2kg 프리미엄 특선\" 한우선물세트(등심500g+안심200g+채끝300g+갈비살200g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": [
-                "PACKAGE_GIFT"
-              ]
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [
-          "PACKAGE"
-        ],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "specialGift": {
-          "item": "갈비살100g + 카네이션 카드 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
       "rank": 14,
       "title": "[단독] 고디바 다크 초콜릿 케이크 + 아이스크림 쿠폰 증정",
       "price": "{'basicPrice': 39900, 'sellingPrice': 39900, 'discountRate': 0}",
@@ -848,7 +848,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 75734,
+          "wishCount": 75744,
           "isWished": false
         },
         "image": {
@@ -892,198 +892,6 @@
     },
     {
       "rank": 15,
-      "title": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)",
-      "price": "{'basicPrice': 114900, 'sellingPrice': 100000, 'discountRate': 12}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260203183044_68453323e3f1407789326feb23cfe70c.jpeg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 7398107,
-        "productId": 7398107,
-        "name": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 114900,
-          "sellingPrice": 100000,
-          "discountRate": 12
-        },
-        "brand": {
-          "id": 1111,
-          "name": "횡성한우"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 10636,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260203183044_68453323e3f1407789326feb23cfe70c.jpeg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 16,
-      "title": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
-      "price": "{'basicPrice': 29500, 'sellingPrice': 23900, 'discountRate': 18}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424151209_d3dd28434dfe4305a286a1c78b4d5650.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12322273,
-        "productId": 12322273,
-        "name": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 29500,
-          "sellingPrice": 23900,
-          "discountRate": 18
-        },
-        "brand": {
-          "id": 15035,
-          "name": "케이미트"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 42551,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424151209_d3dd28434dfe4305a286a1c78b4d5650.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "tags": [],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "specialGift": {
-          "item": "삼겹살or오겹살 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 17,
-      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-      "price": "{'basicPrice': 56900, 'sellingPrice': 56900, 'discountRate': 0}",
-      "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg', 'imageBlindType': 'NONE'}",
-      "raw": {
-        "id": 12590327,
-        "productId": 12590327,
-        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
-        "productType": "Shipping",
-        "price": {
-          "basicPrice": 56900,
-          "sellingPrice": 56900,
-          "discountRate": 0
-        },
-        "brand": {
-          "id": 15394,
-          "name": "한우맘"
-        },
-        "review": {
-          "positiveReviewRate": 0,
-          "reviewCount": 0
-        },
-        "wish": {
-          "wishCount": 26112,
-          "isWished": false
-        },
-        "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260219090217_e4aea47f93c4423cb1925bd5e2a79465.jpg",
-          "imageBlindType": "NONE"
-        },
-        "displayName": {
-          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
-        },
-        "ticket": false,
-        "tierTag": {
-          "tierTags": [
-            {
-              "tier": "1",
-              "tags": []
-            },
-            {
-              "tier": "2",
-              "tags": []
-            }
-          ]
-        },
-        "labels": [
-          {
-            "type": "EXCLUSIVE",
-            "name": "단독"
-          }
-        ],
-        "tags": [],
-        "stamp": "ON_SALE",
-        "valex": false,
-        "specialGift": {
-          "item": "5월 감사카드 증정"
-        },
-        "deliveryFee": {
-          "type": "FREE",
-          "baseFee": 0,
-          "additionalFee": false
-        }
-      }
-    },
-    {
-      "rank": 18,
       "title": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우선물세트 1kg(등심400g+채끝300g+안심150g+갈비살150g).",
       "price": "{'basicPrice': 158000, 'sellingPrice': 158000, 'discountRate': 0}",
       "product_url": null,
@@ -1107,7 +915,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 25963,
+          "wishCount": 25971,
           "isWished": false
         },
         "image": {
@@ -1154,6 +962,198 @@
       }
     },
     {
+      "rank": 16,
+      "title": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
+      "price": "{'basicPrice': 29500, 'sellingPrice': 23900, 'discountRate': 18}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260424151209_d3dd28434dfe4305a286a1c78b4d5650.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12322273,
+        "productId": 12322273,
+        "name": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 29500,
+          "sellingPrice": 23900,
+          "discountRate": 18
+        },
+        "brand": {
+          "id": 15035,
+          "name": "케이미트"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 42689,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260424151209_d3dd28434dfe4305a286a1c78b4d5650.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "케이미트 이베리코 모둠 600g (항정살+목살+갈비살, 각200g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "tags": [],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "specialGift": {
+          "item": "삼겹살or오겹살 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "title": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)",
+      "price": "{'basicPrice': 114900, 'sellingPrice': 100000, 'discountRate': 12}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260203183044_68453323e3f1407789326feb23cfe70c.jpeg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 7398107,
+        "productId": 7398107,
+        "name": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 114900,
+          "sellingPrice": 100000,
+          "discountRate": 12
+        },
+        "brand": {
+          "id": 1111,
+          "name": "횡성한우"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 10644,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260203183044_68453323e3f1407789326feb23cfe70c.jpeg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "감사선물 \"횡성 감동한우\" \"1+등급\" 프리미엄 구이용 선물세트 720g (등심+채끝+부채살+갈비살)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "title": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+      "price": "{'basicPrice': 56900, 'sellingPrice': 56900, 'discountRate': 0}",
+      "product_url": null,
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260506093730_9e6949cba28546248c26f078e1c4e762.jpg', 'imageBlindType': 'NONE'}",
+      "raw": {
+        "id": 12590327,
+        "productId": 12590327,
+        "name": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)",
+        "productType": "Shipping",
+        "price": {
+          "basicPrice": 56900,
+          "sellingPrice": 56900,
+          "discountRate": 0
+        },
+        "brand": {
+          "id": 15394,
+          "name": "한우맘"
+        },
+        "review": {
+          "positiveReviewRate": 0,
+          "reviewCount": 0
+        },
+        "wish": {
+          "wishCount": 26115,
+          "isWished": false
+        },
+        "image": {
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260506093730_9e6949cba28546248c26f078e1c4e762.jpg",
+          "imageBlindType": "NONE"
+        },
+        "displayName": {
+          "EVENT_SUG_NAME_MODEL": "한우맘 1등급 한우구이 3대천왕 550g(등심200g+채끝200g+차돌박이150g)"
+        },
+        "ticket": false,
+        "tierTag": {
+          "tierTags": [
+            {
+              "tier": "1",
+              "tags": []
+            },
+            {
+              "tier": "2",
+              "tags": []
+            }
+          ]
+        },
+        "labels": [
+          {
+            "type": "EXCLUSIVE",
+            "name": "단독"
+          }
+        ],
+        "tags": [],
+        "stamp": "ON_SALE",
+        "valex": false,
+        "specialGift": {
+          "item": "5월 감사카드 증정"
+        },
+        "deliveryFee": {
+          "type": "FREE",
+          "baseFee": 0,
+          "additionalFee": false
+        }
+      }
+    },
+    {
       "rank": 19,
       "title": "[수플린] 달콤상큼 애플망고&태국골드망고 총 3.2KG 이상 (로얄과/8입)",
       "price": "{'basicPrice': 45900, 'sellingPrice': 45900, 'discountRate': 0}",
@@ -1178,7 +1178,7 @@
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 12731,
+          "wishCount": 12734,
           "isWished": false
         },
         "image": {
@@ -1213,38 +1213,38 @@
     },
     {
       "rank": 20,
-      "title": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
-      "price": "{'basicPrice': 50000, 'sellingPrice': 50000, 'discountRate': 0}",
+      "title": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
+      "price": "{'basicPrice': 24900, 'sellingPrice': 24900, 'discountRate': 0}",
       "product_url": null,
-      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg', 'imageBlindType': 'NONE'}",
+      "image_url": "{'imageUrl': 'https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png', 'imageBlindType': 'NONE'}",
       "raw": {
-        "id": 13146569,
-        "productId": 13146569,
-        "name": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상",
+        "id": 11393431,
+        "productId": 11393431,
+        "name": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤",
         "productType": "Shipping",
         "price": {
-          "basicPrice": 50000,
-          "sellingPrice": 50000,
+          "basicPrice": 24900,
+          "sellingPrice": 24900,
           "discountRate": 0
         },
         "brand": {
-          "id": 9839,
-          "name": "온브릭스"
+          "id": 8244,
+          "name": "제스프리"
         },
         "review": {
           "positiveReviewRate": 0,
           "reviewCount": 0
         },
         "wish": {
-          "wishCount": 28122,
+          "wishCount": 8964,
           "isWished": false
         },
         "image": {
-          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260428162135_c4637b0f988b4776b9d43b7154afece9.jpg",
+          "imageUrl": "https://st.kakaocdn.net/product/gift/product/20260417110828_db0ced08986a4456b355aabc96118c56.png",
           "imageBlindType": "NONE"
         },
         "displayName": {
-          "EVENT_SUG_NAME_MODEL": "[파머스기프트] 프리미엄 과일선물세트8종 올리브2호 (파인애플,애플망고)3.7kg이상"
+          "EVENT_SUG_NAME_MODEL": "루비 레드키위 15입 (개당 110g내외 1.6kg) 벚꽃에디션 맛젤"
         },
         "ticket": false,
         "tierTag": {
